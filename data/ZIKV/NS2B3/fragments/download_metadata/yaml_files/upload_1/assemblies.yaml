@@ -1,0 +1,12 @@
+assemblies:
+  monomer:
+    reference: XX01ZVNS2B-x0075
+    biomol: A,B
+    chains: A,B
+crystalforms:
+  crystalform1:
+    reference: XX01ZVNS2B-x0075
+    assemblies:
+        1: 
+            assembly: monomer
+            chains: A,B

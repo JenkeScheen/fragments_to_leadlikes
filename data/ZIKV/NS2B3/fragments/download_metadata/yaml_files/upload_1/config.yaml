@@ -1,0 +1,52 @@
+target_name: XX01ZVNS2B
+base_dir: /
+output_dir: /dls/labxchem/data/lb32627/lb32627-65/processing/analysis/upload
+ref_datasets:
+  - XX01ZVNS2B-x0075
+inputs:
+  - dir: dls/labxchem/data/lb32627/lb32627-65
+    type: model_building
+    code_prefix: "Z"
+    code_prefix_tooltip: "XX01ZVNS2B"
+    soakdb: processing/database/soakDBDataFile.sqlite
+    panddas_event_files:
+    - processing/analysis/20230412_pandda/analyses/pandda_inspect_events.csv
+    - processing/analysis/20230929_pandda/analyses/pandda_inspect_events.csv
+    - processing/analysis/20231026_pandda/analyses/pandda_inspect_events.csv
+    - processing/analysis/20231206_pandda/analyses/pandda_inspect_events.csv
+    - processing/analysis/20240220_pandda/analyses/pandda_inspect_events.csv
+    - processing/analysis/20240227_pandda/analyses/pandda_inspect_events.csv
+    exclude:
+        [
+        XX01ZVNS2B-x1162,
+        XX01ZVNS2B-x1529,
+        XX01ZVNS2B-x1581,
+        XX01ZVNS2B-x1584,
+        XX01ZVNS2B-x1681,
+        XX01ZVNS2B-x1721,
+        XX01ZVNS2B-x1729,
+        XX01ZVNS2B-x1730,
+        XX01ZVNS2B-x1732,
+        XX01ZVNS2B-x1734,
+        XX01ZVNS2B-x1740,
+        XX01ZVNS2B-x1750,
+        XX01ZVNS2B-x1858,
+        XX01ZVNS2B-x2057,
+        XX01ZVNS2B-x2082,
+        XX01ZVNS2B-x2087,
+        XX01ZVNS2B-x2215,
+        XX01ZVNS2B-x2680,
+        XX01ZVNS2B-x2992,
+        XX01ZVNS2B-x2999,
+        XX01ZVNS2B-x3016,
+        XX01ZVNS2B-x3019,
+        XX01ZVNS2B-x3020,
+        XX01ZVNS2B-x3021,
+        XX01ZVNS2B-x3023,
+        XX01ZVNS2B-x3024,
+        XX01ZVNS2B-x3028,
+        ]
+  - dir: dls/labxchem/data/lb32627/lb32627-65/processing/analysis/upload/references
+    type: manual
+    code_prefix: "Z"
+    code_prefix_tooltip: "XX01ZVNS2B"

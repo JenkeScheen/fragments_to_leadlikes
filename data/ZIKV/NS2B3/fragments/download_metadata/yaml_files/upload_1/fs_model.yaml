@@ -1,0 +1,1495 @@
+alignability_graph: upload_1/alignability.gml
+alignments:
+  XX01ZVNS2B-x0051:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0051/XX01ZVNS2B-x0051_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0051/XX01ZVNS2B-x0051_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0051/XX01ZVNS2B-x0051_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0051/XX01ZVNS2B-x0051_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0051/XX01ZVNS2B-x0051_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0089:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0089/XX01ZVNS2B-x0089_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0089/XX01ZVNS2B-x0089_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0089/XX01ZVNS2B-x0089_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0089/XX01ZVNS2B-x0089_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0089/XX01ZVNS2B-x0089_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0101:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0101/XX01ZVNS2B-x0101_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0101/XX01ZVNS2B-x0101_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0101/XX01ZVNS2B-x0101_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0101/XX01ZVNS2B-x0101_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0101/XX01ZVNS2B-x0101_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0130:
+    B:
+      '204':
+        aligned_artefacts:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0130/XX01ZVNS2B-x0130_B_204_XX01ZVNS2B-x0130+B+204+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0130/XX01ZVNS2B-x0130_B_204_XX01ZVNS2B-x0130+B+204+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0130/XX01ZVNS2B-x0130_B_204_XX01ZVNS2B-x0130+B+204+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0130/XX01ZVNS2B-x0130_B_204_XX01ZVNS2B-x0130+B+204+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0130/XX01ZVNS2B-x0130_B_204_XX01ZVNS2B-x0130+B+204+1_sigmaa.ccp4
+  XX01ZVNS2B-x0227:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0227/XX01ZVNS2B-x0227_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0227/XX01ZVNS2B-x0227_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0227/XX01ZVNS2B-x0227_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0227/XX01ZVNS2B-x0227_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0227/XX01ZVNS2B-x0227_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0229:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+      '303':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_303_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_303_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_303_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_303_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_B_303_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0386:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0386/XX01ZVNS2B-x0386_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0386/XX01ZVNS2B-x0386_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0386/XX01ZVNS2B-x0386_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0386/XX01ZVNS2B-x0386_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0386/XX01ZVNS2B-x0386_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0404:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0404/XX01ZVNS2B-x0404_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0404/XX01ZVNS2B-x0404_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0404/XX01ZVNS2B-x0404_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0404/XX01ZVNS2B-x0404_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0404/XX01ZVNS2B-x0404_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0422:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0422/XX01ZVNS2B-x0422_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0422/XX01ZVNS2B-x0422_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0422/XX01ZVNS2B-x0422_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0422/XX01ZVNS2B-x0422_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0422/XX01ZVNS2B-x0422_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0425:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0425/XX01ZVNS2B-x0425_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0425/XX01ZVNS2B-x0425_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0425/XX01ZVNS2B-x0425_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0425/XX01ZVNS2B-x0425_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0425/XX01ZVNS2B-x0425_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0429:
+    B:
+      '203':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0429/XX01ZVNS2B-x0429_B_203_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0429/XX01ZVNS2B-x0429_B_203_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0429/XX01ZVNS2B-x0429_B_203_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0429/XX01ZVNS2B-x0429_B_203_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0429/XX01ZVNS2B-x0429_B_203_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0435:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0435/XX01ZVNS2B-x0435_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0435/XX01ZVNS2B-x0435_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0435/XX01ZVNS2B-x0435_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0435/XX01ZVNS2B-x0435_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0435/XX01ZVNS2B-x0435_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0455:
+    B:
+      '204':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0455/XX01ZVNS2B-x0455_B_204_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0455/XX01ZVNS2B-x0455_B_204_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0455/XX01ZVNS2B-x0455_B_204_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0455/XX01ZVNS2B-x0455_B_204_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0455/XX01ZVNS2B-x0455_B_204_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0465:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0465/XX01ZVNS2B-x0465_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0465/XX01ZVNS2B-x0465_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0465/XX01ZVNS2B-x0465_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0465/XX01ZVNS2B-x0465_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0465/XX01ZVNS2B-x0465_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0472:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0472/XX01ZVNS2B-x0472_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0472/XX01ZVNS2B-x0472_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0472/XX01ZVNS2B-x0472_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0472/XX01ZVNS2B-x0472_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0472/XX01ZVNS2B-x0472_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0490:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0490/XX01ZVNS2B-x0490_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0490/XX01ZVNS2B-x0490_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0490/XX01ZVNS2B-x0490_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0490/XX01ZVNS2B-x0490_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0490/XX01ZVNS2B-x0490_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0553:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0553/XX01ZVNS2B-x0553_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0553/XX01ZVNS2B-x0553_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0553/XX01ZVNS2B-x0553_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0553/XX01ZVNS2B-x0553_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0553/XX01ZVNS2B-x0553_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0559:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0559/XX01ZVNS2B-x0559_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0559/XX01ZVNS2B-x0559_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0559/XX01ZVNS2B-x0559_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0559/XX01ZVNS2B-x0559_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0559/XX01ZVNS2B-x0559_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0589:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0589/XX01ZVNS2B-x0589_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0589/XX01ZVNS2B-x0589_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0589/XX01ZVNS2B-x0589_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0589/XX01ZVNS2B-x0589_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0589/XX01ZVNS2B-x0589_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0601:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0601/XX01ZVNS2B-x0601_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0601/XX01ZVNS2B-x0601_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0601/XX01ZVNS2B-x0601_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0601/XX01ZVNS2B-x0601_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0601/XX01ZVNS2B-x0601_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0605:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0605/XX01ZVNS2B-x0605_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0605/XX01ZVNS2B-x0605_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0605/XX01ZVNS2B-x0605_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0605/XX01ZVNS2B-x0605_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0605/XX01ZVNS2B-x0605_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0673:
+    B:
+      '401':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_401_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_401_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_401_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_401_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_401_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+      '501':
+        aligned_artefacts:
+          XX01ZVNS2B-x0673+B+501+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_501_XX01ZVNS2B-x0673+B+501+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0673+B+501+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_501_XX01ZVNS2B-x0673+B+501+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0673+B+501+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_501_XX01ZVNS2B-x0673+B+501+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0673+B+501+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_501_XX01ZVNS2B-x0673+B+501+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0673+B+501+1: upload_1/aligned_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_B_501_XX01ZVNS2B-x0673+B+501+1_sigmaa.ccp4
+  XX01ZVNS2B-x0687:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0687/XX01ZVNS2B-x0687_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0687/XX01ZVNS2B-x0687_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0687/XX01ZVNS2B-x0687_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0687/XX01ZVNS2B-x0687_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0687/XX01ZVNS2B-x0687_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0693:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0693/XX01ZVNS2B-x0693_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0693/XX01ZVNS2B-x0693_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0693/XX01ZVNS2B-x0693_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0693/XX01ZVNS2B-x0693_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0693/XX01ZVNS2B-x0693_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0701:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0701/XX01ZVNS2B-x0701_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0701/XX01ZVNS2B-x0701_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0701/XX01ZVNS2B-x0701_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0701/XX01ZVNS2B-x0701_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0701/XX01ZVNS2B-x0701_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0709:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0709/XX01ZVNS2B-x0709_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0709/XX01ZVNS2B-x0709_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0709/XX01ZVNS2B-x0709_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0709/XX01ZVNS2B-x0709_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0709/XX01ZVNS2B-x0709_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0719:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0719/XX01ZVNS2B-x0719_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0719/XX01ZVNS2B-x0719_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0719/XX01ZVNS2B-x0719_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0719/XX01ZVNS2B-x0719_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0719/XX01ZVNS2B-x0719_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0727:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0727/XX01ZVNS2B-x0727_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0727/XX01ZVNS2B-x0727_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0727/XX01ZVNS2B-x0727_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0727/XX01ZVNS2B-x0727_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0727/XX01ZVNS2B-x0727_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0772:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0772/XX01ZVNS2B-x0772_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0772/XX01ZVNS2B-x0772_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0772/XX01ZVNS2B-x0772_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0772/XX01ZVNS2B-x0772_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0772/XX01ZVNS2B-x0772_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0773:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+      '401':
+        aligned_artefacts:
+          XX01ZVNS2B-x0773+B+401+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_401_XX01ZVNS2B-x0773+B+401+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0773+B+401+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_401_XX01ZVNS2B-x0773+B+401+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0773+B+401+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_401_XX01ZVNS2B-x0773+B+401+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0773+B+401+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_401_XX01ZVNS2B-x0773+B+401+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0773+B+401+1: upload_1/aligned_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_B_401_XX01ZVNS2B-x0773+B+401+1_sigmaa.ccp4
+  XX01ZVNS2B-x0777:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0777/XX01ZVNS2B-x0777_B_301_XX01ZVNS2B-x0777+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0777/XX01ZVNS2B-x0777_B_301_XX01ZVNS2B-x0777+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0777/XX01ZVNS2B-x0777_B_301_XX01ZVNS2B-x0777+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0777/XX01ZVNS2B-x0777_B_301_XX01ZVNS2B-x0777+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0777/XX01ZVNS2B-x0777_B_301_XX01ZVNS2B-x0777+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0788:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+      '302':
+        aligned_artefacts:
+          XX01ZVNS2B-x0788+B+302+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_302_XX01ZVNS2B-x0788+B+302+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0788+B+302+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_302_XX01ZVNS2B-x0788+B+302+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0788+B+302+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_302_XX01ZVNS2B-x0788+B+302+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0788+B+302+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_302_XX01ZVNS2B-x0788+B+302+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0788+B+302+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_302_XX01ZVNS2B-x0788+B+302+1_sigmaa.ccp4
+      '303':
+        aligned_artefacts:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_303_XX01ZVNS2B-x0788+B+303+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_303_XX01ZVNS2B-x0788+B+303+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_303_XX01ZVNS2B-x0788+B+303+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_303_XX01ZVNS2B-x0788+B+303+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_B_303_XX01ZVNS2B-x0788+B+303+1_sigmaa.ccp4
+  XX01ZVNS2B-x0800:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0800/XX01ZVNS2B-x0800_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0800/XX01ZVNS2B-x0800_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0800/XX01ZVNS2B-x0800_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0800/XX01ZVNS2B-x0800_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0800/XX01ZVNS2B-x0800_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0806:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+      '401':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_401_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_401_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_401_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_401_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_B_401_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0819:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0819/XX01ZVNS2B-x0819_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0819/XX01ZVNS2B-x0819_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0819/XX01ZVNS2B-x0819_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0819/XX01ZVNS2B-x0819_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0819/XX01ZVNS2B-x0819_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0827:
+    B:
+      '203':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0827/XX01ZVNS2B-x0827_B_203_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0827/XX01ZVNS2B-x0827_B_203_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0827/XX01ZVNS2B-x0827_B_203_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0827/XX01ZVNS2B-x0827_B_203_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0827/XX01ZVNS2B-x0827_B_203_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0844:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0844/XX01ZVNS2B-x0844_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0844/XX01ZVNS2B-x0844_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0844/XX01ZVNS2B-x0844_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0844/XX01ZVNS2B-x0844_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0844/XX01ZVNS2B-x0844_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0846:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x0846+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_301_XX01ZVNS2B-x0846+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0846+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_301_XX01ZVNS2B-x0846+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0846+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_301_XX01ZVNS2B-x0846+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0846+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_301_XX01ZVNS2B-x0846+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0846+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_301_XX01ZVNS2B-x0846+B+301+1_sigmaa.ccp4
+      '401':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_401_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_401_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_401_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_401_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_B_401_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0875:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0875/XX01ZVNS2B-x0875_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0875/XX01ZVNS2B-x0875_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0875/XX01ZVNS2B-x0875_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0875/XX01ZVNS2B-x0875_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0875/XX01ZVNS2B-x0875_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0884:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+      '401':
+        aligned_artefacts:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_401_XX01ZVNS2B-x0777+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_401_XX01ZVNS2B-x0777+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_401_XX01ZVNS2B-x0777+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_401_XX01ZVNS2B-x0777+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0777+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_B_401_XX01ZVNS2B-x0777+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0904:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0904/XX01ZVNS2B-x0904_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0904/XX01ZVNS2B-x0904_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0904/XX01ZVNS2B-x0904_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0904/XX01ZVNS2B-x0904_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0904/XX01ZVNS2B-x0904_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0944:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0944/XX01ZVNS2B-x0944_B_301_XX01ZVNS2B-x0130+B+204+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0944/XX01ZVNS2B-x0944_B_301_XX01ZVNS2B-x0130+B+204+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0944/XX01ZVNS2B-x0944_B_301_XX01ZVNS2B-x0130+B+204+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0944/XX01ZVNS2B-x0944_B_301_XX01ZVNS2B-x0130+B+204+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0130+B+204+1: upload_1/aligned_files/XX01ZVNS2B-x0944/XX01ZVNS2B-x0944_B_301_XX01ZVNS2B-x0130+B+204+1_sigmaa.ccp4
+  XX01ZVNS2B-x0945:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0945/XX01ZVNS2B-x0945_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0945/XX01ZVNS2B-x0945_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0945/XX01ZVNS2B-x0945_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0945/XX01ZVNS2B-x0945_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0945/XX01ZVNS2B-x0945_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0951:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0951/XX01ZVNS2B-x0951_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0951/XX01ZVNS2B-x0951_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0951/XX01ZVNS2B-x0951_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0951/XX01ZVNS2B-x0951_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0951/XX01ZVNS2B-x0951_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0969:
+    B:
+      '203':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_203_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_203_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_203_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_203_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_203_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+      '204':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_204_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_204_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_204_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_204_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_B_204_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x0990:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+      '302':
+        aligned_artefacts:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_302_XX01ZVNS2B-x0788+B+303+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_302_XX01ZVNS2B-x0788+B+303+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_302_XX01ZVNS2B-x0788+B+303+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_302_XX01ZVNS2B-x0788+B+303+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x0788+B+303+1: upload_1/aligned_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_B_302_XX01ZVNS2B-x0788+B+303+1_sigmaa.ccp4
+  XX01ZVNS2B-x1046:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+      '304':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_304_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_304_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_304_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_304_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_B_304_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1098:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1098/XX01ZVNS2B-x1098_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1098/XX01ZVNS2B-x1098_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1098/XX01ZVNS2B-x1098_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1098/XX01ZVNS2B-x1098_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1098/XX01ZVNS2B-x1098_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1234:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1234/XX01ZVNS2B-x1234_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1234/XX01ZVNS2B-x1234_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1234/XX01ZVNS2B-x1234_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1234/XX01ZVNS2B-x1234_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1234/XX01ZVNS2B-x1234_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1237:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1237/XX01ZVNS2B-x1237_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1237/XX01ZVNS2B-x1237_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1237/XX01ZVNS2B-x1237_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1237/XX01ZVNS2B-x1237_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1237/XX01ZVNS2B-x1237_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1261:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1261/XX01ZVNS2B-x1261_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1261/XX01ZVNS2B-x1261_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1261/XX01ZVNS2B-x1261_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1261/XX01ZVNS2B-x1261_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1261/XX01ZVNS2B-x1261_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1265:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1265/XX01ZVNS2B-x1265_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1265/XX01ZVNS2B-x1265_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1265/XX01ZVNS2B-x1265_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1265/XX01ZVNS2B-x1265_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1265/XX01ZVNS2B-x1265_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1271:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1271/XX01ZVNS2B-x1271_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1271/XX01ZVNS2B-x1271_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1271/XX01ZVNS2B-x1271_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1271/XX01ZVNS2B-x1271_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1271/XX01ZVNS2B-x1271_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1274:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1274/XX01ZVNS2B-x1274_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1274/XX01ZVNS2B-x1274_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1274/XX01ZVNS2B-x1274_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1274/XX01ZVNS2B-x1274_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1274/XX01ZVNS2B-x1274_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1288:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1288/XX01ZVNS2B-x1288_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1288/XX01ZVNS2B-x1288_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1288/XX01ZVNS2B-x1288_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1288/XX01ZVNS2B-x1288_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1288/XX01ZVNS2B-x1288_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1291:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1291/XX01ZVNS2B-x1291_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1291/XX01ZVNS2B-x1291_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1291/XX01ZVNS2B-x1291_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1291/XX01ZVNS2B-x1291_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1291/XX01ZVNS2B-x1291_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1317:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1317/XX01ZVNS2B-x1317_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1317/XX01ZVNS2B-x1317_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1317/XX01ZVNS2B-x1317_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1317/XX01ZVNS2B-x1317_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1317/XX01ZVNS2B-x1317_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1320:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1320/XX01ZVNS2B-x1320_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1320/XX01ZVNS2B-x1320_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1320/XX01ZVNS2B-x1320_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1320/XX01ZVNS2B-x1320_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1320/XX01ZVNS2B-x1320_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1325:
+    B:
+      '203':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1325/XX01ZVNS2B-x1325_B_203_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1325/XX01ZVNS2B-x1325_B_203_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1325/XX01ZVNS2B-x1325_B_203_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1325/XX01ZVNS2B-x1325_B_203_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1325/XX01ZVNS2B-x1325_B_203_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1333:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1333/XX01ZVNS2B-x1333_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1333/XX01ZVNS2B-x1333_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1333/XX01ZVNS2B-x1333_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1333/XX01ZVNS2B-x1333_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1333/XX01ZVNS2B-x1333_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1342:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1342/XX01ZVNS2B-x1342_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1342/XX01ZVNS2B-x1342_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1342/XX01ZVNS2B-x1342_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1342/XX01ZVNS2B-x1342_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1342/XX01ZVNS2B-x1342_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1390:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1390/XX01ZVNS2B-x1390_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1390/XX01ZVNS2B-x1390_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1390/XX01ZVNS2B-x1390_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1390/XX01ZVNS2B-x1390_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1390/XX01ZVNS2B-x1390_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1398:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1398/XX01ZVNS2B-x1398_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1398/XX01ZVNS2B-x1398_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1398/XX01ZVNS2B-x1398_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1398/XX01ZVNS2B-x1398_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1398/XX01ZVNS2B-x1398_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1406:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1406/XX01ZVNS2B-x1406_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1406/XX01ZVNS2B-x1406_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1406/XX01ZVNS2B-x1406_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1406/XX01ZVNS2B-x1406_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1406/XX01ZVNS2B-x1406_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1413:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1413/XX01ZVNS2B-x1413_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1413/XX01ZVNS2B-x1413_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1413/XX01ZVNS2B-x1413_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1413/XX01ZVNS2B-x1413_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1413/XX01ZVNS2B-x1413_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1451:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1451/XX01ZVNS2B-x1451_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1451/XX01ZVNS2B-x1451_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1451/XX01ZVNS2B-x1451_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1451/XX01ZVNS2B-x1451_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1451/XX01ZVNS2B-x1451_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1470:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1470/XX01ZVNS2B-x1470_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1470/XX01ZVNS2B-x1470_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1470/XX01ZVNS2B-x1470_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1470/XX01ZVNS2B-x1470_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1470/XX01ZVNS2B-x1470_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1495:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1495/XX01ZVNS2B-x1495_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1495/XX01ZVNS2B-x1495_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1495/XX01ZVNS2B-x1495_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1495/XX01ZVNS2B-x1495_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1495/XX01ZVNS2B-x1495_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1596:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1596/XX01ZVNS2B-x1596_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1596/XX01ZVNS2B-x1596_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1596/XX01ZVNS2B-x1596_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1596/XX01ZVNS2B-x1596_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1596/XX01ZVNS2B-x1596_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1664:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1664/XX01ZVNS2B-x1664_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1664/XX01ZVNS2B-x1664_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1664/XX01ZVNS2B-x1664_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1664/XX01ZVNS2B-x1664_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1664/XX01ZVNS2B-x1664_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1667:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1667/XX01ZVNS2B-x1667_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1667/XX01ZVNS2B-x1667_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1667/XX01ZVNS2B-x1667_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1667/XX01ZVNS2B-x1667_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1667/XX01ZVNS2B-x1667_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1674:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1674/XX01ZVNS2B-x1674_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1674/XX01ZVNS2B-x1674_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1674/XX01ZVNS2B-x1674_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1674/XX01ZVNS2B-x1674_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1674/XX01ZVNS2B-x1674_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1680:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1680/XX01ZVNS2B-x1680_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1680/XX01ZVNS2B-x1680_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1680/XX01ZVNS2B-x1680_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1680/XX01ZVNS2B-x1680_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1680/XX01ZVNS2B-x1680_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1682:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1682/XX01ZVNS2B-x1682_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1682/XX01ZVNS2B-x1682_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1682/XX01ZVNS2B-x1682_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1682/XX01ZVNS2B-x1682_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1682/XX01ZVNS2B-x1682_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1688:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1688/XX01ZVNS2B-x1688_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1688/XX01ZVNS2B-x1688_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1688/XX01ZVNS2B-x1688_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1688/XX01ZVNS2B-x1688_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1688/XX01ZVNS2B-x1688_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1713:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1713/XX01ZVNS2B-x1713_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1713/XX01ZVNS2B-x1713_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1713/XX01ZVNS2B-x1713_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1713/XX01ZVNS2B-x1713_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1713/XX01ZVNS2B-x1713_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1715:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1715/XX01ZVNS2B-x1715_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1715/XX01ZVNS2B-x1715_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1715/XX01ZVNS2B-x1715_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1715/XX01ZVNS2B-x1715_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1715/XX01ZVNS2B-x1715_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1716:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1716/XX01ZVNS2B-x1716_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1716/XX01ZVNS2B-x1716_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1716/XX01ZVNS2B-x1716_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1716/XX01ZVNS2B-x1716_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1716/XX01ZVNS2B-x1716_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1719:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1719/XX01ZVNS2B-x1719_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1719/XX01ZVNS2B-x1719_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1719/XX01ZVNS2B-x1719_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1719/XX01ZVNS2B-x1719_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1719/XX01ZVNS2B-x1719_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1726:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1726/XX01ZVNS2B-x1726_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1726/XX01ZVNS2B-x1726_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1726/XX01ZVNS2B-x1726_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1726/XX01ZVNS2B-x1726_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1726/XX01ZVNS2B-x1726_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1727:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1727/XX01ZVNS2B-x1727_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1727/XX01ZVNS2B-x1727_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1727/XX01ZVNS2B-x1727_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1727/XX01ZVNS2B-x1727_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1727/XX01ZVNS2B-x1727_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1728:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1728/XX01ZVNS2B-x1728_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1728/XX01ZVNS2B-x1728_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1728/XX01ZVNS2B-x1728_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1728/XX01ZVNS2B-x1728_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1728/XX01ZVNS2B-x1728_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1731:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1731/XX01ZVNS2B-x1731_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1731/XX01ZVNS2B-x1731_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1731/XX01ZVNS2B-x1731_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1731/XX01ZVNS2B-x1731_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1731/XX01ZVNS2B-x1731_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1743:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1743/XX01ZVNS2B-x1743_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1743/XX01ZVNS2B-x1743_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1743/XX01ZVNS2B-x1743_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1743/XX01ZVNS2B-x1743_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1743/XX01ZVNS2B-x1743_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1745:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1745/XX01ZVNS2B-x1745_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1745/XX01ZVNS2B-x1745_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1745/XX01ZVNS2B-x1745_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1745/XX01ZVNS2B-x1745_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1745/XX01ZVNS2B-x1745_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1752:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1752/XX01ZVNS2B-x1752_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1752/XX01ZVNS2B-x1752_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1752/XX01ZVNS2B-x1752_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1752/XX01ZVNS2B-x1752_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1752/XX01ZVNS2B-x1752_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1753:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1753/XX01ZVNS2B-x1753_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1753/XX01ZVNS2B-x1753_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1753/XX01ZVNS2B-x1753_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1753/XX01ZVNS2B-x1753_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1753/XX01ZVNS2B-x1753_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1756:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1756/XX01ZVNS2B-x1756_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1756/XX01ZVNS2B-x1756_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1756/XX01ZVNS2B-x1756_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1756/XX01ZVNS2B-x1756_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1756/XX01ZVNS2B-x1756_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1761:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1761/XX01ZVNS2B-x1761_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1761/XX01ZVNS2B-x1761_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1761/XX01ZVNS2B-x1761_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1761/XX01ZVNS2B-x1761_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1761/XX01ZVNS2B-x1761_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1837:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1837/XX01ZVNS2B-x1837_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1837/XX01ZVNS2B-x1837_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1837/XX01ZVNS2B-x1837_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1837/XX01ZVNS2B-x1837_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1837/XX01ZVNS2B-x1837_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x1838:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1838/XX01ZVNS2B-x1838_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1838/XX01ZVNS2B-x1838_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1838/XX01ZVNS2B-x1838_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1838/XX01ZVNS2B-x1838_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x1838/XX01ZVNS2B-x1838_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2048:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2048/XX01ZVNS2B-x2048_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2048/XX01ZVNS2B-x2048_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2048/XX01ZVNS2B-x2048_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2048/XX01ZVNS2B-x2048_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2048/XX01ZVNS2B-x2048_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2094:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2094/XX01ZVNS2B-x2094_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2094/XX01ZVNS2B-x2094_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2094/XX01ZVNS2B-x2094_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2094/XX01ZVNS2B-x2094_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2094/XX01ZVNS2B-x2094_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2119:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2119/XX01ZVNS2B-x2119_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2119/XX01ZVNS2B-x2119_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2119/XX01ZVNS2B-x2119_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2119/XX01ZVNS2B-x2119_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2119/XX01ZVNS2B-x2119_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2126:
+    B:
+      '203':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2126/XX01ZVNS2B-x2126_B_203_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2126/XX01ZVNS2B-x2126_B_203_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2126/XX01ZVNS2B-x2126_B_203_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2126/XX01ZVNS2B-x2126_B_203_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2126/XX01ZVNS2B-x2126_B_203_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2135:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2135/XX01ZVNS2B-x2135_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2135/XX01ZVNS2B-x2135_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2135/XX01ZVNS2B-x2135_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2135/XX01ZVNS2B-x2135_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2135/XX01ZVNS2B-x2135_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2217:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2217/XX01ZVNS2B-x2217_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2217/XX01ZVNS2B-x2217_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2217/XX01ZVNS2B-x2217_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2217/XX01ZVNS2B-x2217_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2217/XX01ZVNS2B-x2217_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2235:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2235/XX01ZVNS2B-x2235_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2235/XX01ZVNS2B-x2235_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2235/XX01ZVNS2B-x2235_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2235/XX01ZVNS2B-x2235_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2235/XX01ZVNS2B-x2235_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2262:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2262/XX01ZVNS2B-x2262_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2262/XX01ZVNS2B-x2262_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2262/XX01ZVNS2B-x2262_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2262/XX01ZVNS2B-x2262_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2262/XX01ZVNS2B-x2262_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2306:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2306/XX01ZVNS2B-x2306_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2306/XX01ZVNS2B-x2306_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2306/XX01ZVNS2B-x2306_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2306/XX01ZVNS2B-x2306_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2306/XX01ZVNS2B-x2306_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2439:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2439/XX01ZVNS2B-x2439_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2439/XX01ZVNS2B-x2439_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2439/XX01ZVNS2B-x2439_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2439/XX01ZVNS2B-x2439_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2439/XX01ZVNS2B-x2439_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+  XX01ZVNS2B-x2500:
+    B:
+      '301':
+        aligned_artefacts:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2500/XX01ZVNS2B-x2500_B_301_XX01ZVNS2B-x1291+B+301+1_artefacts.pdb
+        aligned_diff_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2500/XX01ZVNS2B-x2500_B_301_XX01ZVNS2B-x1291+B+301+1_diff.ccp4
+        aligned_event_maps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2500/XX01ZVNS2B-x2500_B_301_XX01ZVNS2B-x1291+B+301+1_event.ccp4
+        aligned_structures:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2500/XX01ZVNS2B-x2500_B_301_XX01ZVNS2B-x1291+B+301+1.pdb
+        aligned_xmaps:
+          XX01ZVNS2B-x1291+B+301+1: upload_1/aligned_files/XX01ZVNS2B-x2500/XX01ZVNS2B-x2500_B_301_XX01ZVNS2B-x1291+B+301+1_sigmaa.ccp4
+canonical_sites: upload_1/canonical_sites.yaml
+conformer_site_transforms: upload_1/conformer_site_transforms.yaml
+conformer_sites: upload_1/conformer_sites.yaml
+connected_components: upload_1/connected_components.yaml
+crystalforms: assemblies.yaml
+dataset_assignments: upload_1/assigned_xtalforms.yaml
+fs_model: upload_1/fs_model.yaml
+ligand_neighbourhood_transforms: upload_1/neighbourhood_transforms.yaml
+ligand_neighbourhoods: upload_1/neighbourhoods.yaml
+reference_alignments:
+  XX01ZVNS2B-x0075:
+    XX01ZVNS2B-x0130+B+204+1:
+      aligned_artefacts: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0130+B+204+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0130+B+204+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0130+B+204+1_ref.ccp4
+    XX01ZVNS2B-x0673+B+501+1:
+      aligned_artefacts: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0673+B+501+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0673+B+501+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0673+B+501+1_ref.ccp4
+    XX01ZVNS2B-x0773+B+401+1:
+      aligned_artefacts: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0773+B+401+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0773+B+401+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0773+B+401+1_ref.ccp4
+    XX01ZVNS2B-x0777+B+301+1:
+      aligned_artefacts: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0777+B+301+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0777+B+301+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0777+B+301+1_ref.ccp4
+    XX01ZVNS2B-x0788+B+302+1:
+      aligned_artefacts: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0788+B+302+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0788+B+302+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0788+B+302+1_ref.ccp4
+    XX01ZVNS2B-x0788+B+303+1:
+      aligned_artefacts: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0788+B+303+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0788+B+303+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0788+B+303+1_ref.ccp4
+    XX01ZVNS2B-x0846+B+301+1:
+      aligned_artefacts: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0846+B+301+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0846+B+301+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x0846+B+301+1_ref.ccp4
+    XX01ZVNS2B-x1291+B+301+1:
+      aligned_artefacts: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x1291+B+301+1_artefacts_ref.pdb
+      aligned_structures: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x1291+B+301+1_ref.pdb
+      aligned_xmaps: upload_1/aligned_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075_XX01ZVNS2B-x1291+B+301+1_ref.ccp4
+reference_structure_transforms: upload_1/reference_structure_transforms.yaml
+source_dir: upload_1
+xtalform_sites: upload_1/xtalform_sites.yaml

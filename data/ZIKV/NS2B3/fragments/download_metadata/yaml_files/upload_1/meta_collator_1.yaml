@@ -1,0 +1,2693 @@
+run_on: '2024-03-08 11:27:58.291608'
+collator_cwd: /dls/labxchem/data/lb32627/lb32627-65/processing/analysis/upload/upload_1
+collator_config_file: ../config.yaml
+input_dirs:
+- /dls/labxchem/data/lb32627/lb32627-65
+- /dls/labxchem/data/lb32627/lb32627-65/processing/analysis/upload/references
+output_dir: /dls/labxchem/data/lb32627/lb32627-65/processing/analysis/upload
+version_number: 1
+version_dir: upload_1
+previous_version_dirs: []
+code_prefix_tooltips:
+  Z: XX01ZVNS2B
+crystals:
+  XX01ZVNS2B-x0051:
+    type: model_building
+    last_updated: '2024-01-18 16:20:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1201620232
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0051/XX01ZVNS2B-x0051.pdb
+        sha256: d9572016ec9571639838849986afc140cf7e9c1cb50c8cda70d98642c152dba8
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0051/XX01ZVNS2B-x0051.mtz
+        sha256: daeeb09f249bf62994d6f0fd8e820d6e92e735f19cf10cd297d4dd2f9456bc95
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0051/XX01ZVNS2B-x0051.cif
+        sha256: cbadfa9da6eee98baa21d1b71eb2d3872d9eab5e38264a0a45e0dc0231a142e5
+        smiles: COc1ccc2sc(N)nc2c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0051/XX01ZVNS2B-x0051_1_B_301.ccp4
+        sha256: edcda04e49eedd3fda6f011a2b26caed8a2315e7ed7d99693d7792f004cda35f
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.43
+  XX01ZVNS2B-x0089:
+    type: model_building
+    last_updated: '2023-12-01 18:57:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z336080990
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0089/XX01ZVNS2B-x0089.pdb
+        sha256: 2836383fae836ea84ed7eba014818a8a58b1118e3d92846a2417b78eb8b7f36c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0089/XX01ZVNS2B-x0089.mtz
+        sha256: 667927e26d5e55c222ee3d8011b587ebcaf40330494d236312920ed5a73153cf
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0089/XX01ZVNS2B-x0089.cif
+        sha256: afd705a796d5e24c94aedfebecac9a1f5f97ebd74fddfecbe8a02f385c17cfda
+        smiles: CC(C)Nc1nc2ccccc2[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0089/XX01ZVNS2B-x0089_1_B_301.ccp4
+        sha256: 9c67b440bddc7a6bef2cce7f5410b1e844ff7a895ba1fc89245128c65766ca39
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.34
+  XX01ZVNS2B-x0101:
+    type: model_building
+    last_updated: '2023-12-01 18:57:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z68299550
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0101/XX01ZVNS2B-x0101.pdb
+        sha256: d431c4e16f7582d44129caf6fa84cfdb846dc830c2c13bf97eb0a38f4f7eb429
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0101/XX01ZVNS2B-x0101.mtz
+        sha256: 6afb3d8d066ed78e01430421f71f16f38e8d11aaddec9bca5c8e0fb31edf044e
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0101/XX01ZVNS2B-x0101.cif
+        sha256: 596145afb1a023d83801b5b4c803e03c584b54fc61a0545d0b0423935b489559
+        smiles: CC(C)(CO)NC(=O)c1cccc(Cl)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0101/XX01ZVNS2B-x0101_1_B_301.ccp4
+        sha256: e811481635c2502b73d65f03612bd5be60857d1523e93a717da90c669b35c7a0
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.38
+  XX01ZVNS2B-x0130:
+    type: model_building
+    last_updated: '2023-12-01 18:57:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z57122377
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0130/XX01ZVNS2B-x0130.pdb
+        sha256: aa684c9e3ee179190434df5ec84f880cc93a0cdaee126890fb7575df325959a0
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0130/XX01ZVNS2B-x0130.mtz
+        sha256: ba55901f3a80e2a4ab67b9fb65ce10840091afa1c5c5d59ba48ef0c646cf65f4
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0130/XX01ZVNS2B-x0130.cif
+        sha256: 4aa573e8ce9198bac25d7e321dd91a6e2be1e28a933c9fad381eed9d03dc4485
+        smiles: CN1CCN(C(=O)c2ccc(F)c(F)c2)CC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0130/XX01ZVNS2B-x0130_1_B_204.ccp4
+        sha256: eb9da06643598fd88c0125ca3e37fe0a3aea143bbec5afe8f98ba79e162ada9d
+        model: '1'
+        chain: B
+        res: 204
+        index: 1
+        bdc: 0.34
+  XX01ZVNS2B-x0182:
+    type: model_building
+    last_updated: '2024-01-12 14:54:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: POB0087
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0182/XX01ZVNS2B-x0182.pdb
+        sha256: 8dd41099f0cd9c73006be036b84b2c96432ff4ba24258dc995c2ad8dd063f131
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0182/XX01ZVNS2B-x0182.mtz
+        sha256: 35bae8ed11b2c88df6c72add4a57fcd71241fa2fb2400061c5d61fd3fb29b511
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0182/XX01ZVNS2B-x0182.cif
+        sha256: 23c850d5b382540630c42b27eb4446ef88fcf9a78d2847654750f68499b1e467
+        smiles: NC(=O)[C@]1(c2ccc(F)cc2)CCCNC1
+  XX01ZVNS2B-x0227:
+    type: model_building
+    last_updated: '2023-12-01 19:00:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: POB0075
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0227/XX01ZVNS2B-x0227.pdb
+        sha256: 3dd6f0ba423a3c8fba5a2598340988438ef697e999d753cb9fe5619bfb626eb8
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0227/XX01ZVNS2B-x0227.mtz
+        sha256: ea9346c34613af001d2bfb61fd59184e3235ebe7dfc6d5fe277861d563a456d2
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0227/XX01ZVNS2B-x0227.cif
+        sha256: ea942d5390fad15ff512ade917ec88ca67b34795a286e13b9a88d9cdb49dda26
+        smiles: NCC1(c2ccccn2)CCCC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0227/XX01ZVNS2B-x0227_1_B_301.ccp4
+        sha256: 78fd016d4d822c96159e6817867f06735ca41d28293997f0b08f975189c0a479
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.31
+  XX01ZVNS2B-x0229:
+    type: model_building
+    last_updated: '2023-12-01 19:00:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: POB0120
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229.pdb
+        sha256: 30a82e7f176c949e7e1d9accb5afe99518910600303e2d71f4685c4ebfbccf4c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229.mtz
+        sha256: eeb9d09ebd1805388be7d9fca13b828feaab2782d9d5f038c97fe437c42d443b
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229.cif
+        sha256: 5ecb76f4cfbb5f8676ed147d7a7cc105289a849a3a39f81917ce11ef952ea0fc
+        smiles: O=C1Nc2ccccc2C[C@]12CCCN2
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_1_B_301.ccp4
+        sha256: 86d54600d0d5ac9a57865ad8d82f2c0566ab30bcf51f57d6a4476c6581bfe051
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0229/XX01ZVNS2B-x0229_1_B_303.ccp4
+        sha256: 86d54600d0d5ac9a57865ad8d82f2c0566ab30bcf51f57d6a4476c6581bfe051
+        model: '1'
+        chain: B
+        res: 303
+        index: 1
+        bdc: 0.33
+  XX01ZVNS2B-x0386:
+    type: model_building
+    last_updated: '2023-12-01 19:03:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1962142017
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0386/XX01ZVNS2B-x0386.pdb
+        sha256: 03cc50349b705b0283c6b2d86ea5c5cabb05302e8cb690e6ae742513b4a0d8aa
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0386/XX01ZVNS2B-x0386.mtz
+        sha256: 8f729891d55ea664f4255e2a13bef56ecdea4071a0ce6c59afee802699690007
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0386/XX01ZVNS2B-x0386.cif
+        sha256: 30cc1f932fef4cd45e0d850a686feefbf8f0a1c7cb70764a23d37ecd17562699
+        smiles: NCc1cocn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0386/XX01ZVNS2B-x0386_1_B_301.ccp4
+        sha256: b1837faea119865a2086a9664f2104b2a90b0442ab76ed33db8fa7ae1855d756
+        model: '1'
+        chain: B
+        res: 301
+        index: 3
+        bdc: 0.19
+  XX01ZVNS2B-x0404:
+    type: model_building
+    last_updated: '2023-12-01 19:04:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z425338146
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0404/XX01ZVNS2B-x0404.pdb
+        sha256: e5f859bafb233488a50c0fd1a262a152674248a52e2c5f61fb95bf720c6bd394
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0404/XX01ZVNS2B-x0404.mtz
+        sha256: 9cd0dbd832036099c0508130b906318907fcc79f069cd6d26b20af04b95e926e
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0404/XX01ZVNS2B-x0404.cif
+        sha256: 3e566016d8ba127a67f429eea037ad0716c7087418509f5810807eb1f18973f7
+        smiles: CS(=O)(=O)c1ccc(N2CCNCC2)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0404/XX01ZVNS2B-x0404_1_B_301.ccp4
+        sha256: 71a5217ce0bfee9683abe386a0234f75489dd6c99c4323b00cca4bcd4cb5c08b
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.12
+  XX01ZVNS2B-x0422:
+    type: model_building
+    last_updated: '2023-12-01 19:04:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z119990326
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0422/XX01ZVNS2B-x0422.pdb
+        sha256: d7227bdf9492a851d8b12ec15e5fb4afb27f3eb84b377603ba12db8dafe04916
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0422/XX01ZVNS2B-x0422.mtz
+        sha256: cf8044d1fd607172238ff24fa537009673c6421029abd955115a7672327f6738
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0422/XX01ZVNS2B-x0422.cif
+        sha256: b60028f583d308a2aa53477d1ae705882dc1c90e3eb14fecd07ca55dfd2fffe3
+        smiles: Nc1nnc(-c2cccs2)[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0422/XX01ZVNS2B-x0422_1_B_301.ccp4
+        sha256: 0915af9b469ac777eda852315fca3549410377ab8afc083f648b051a1296e454
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.27
+  XX01ZVNS2B-x0425:
+    type: model_building
+    last_updated: '2023-12-01 19:04:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z270758780
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0425/XX01ZVNS2B-x0425.pdb
+        sha256: 7f04b49eedf05ba54a26386e6ea2b92929eea4a49ece99bdcf62d983ffc44dce
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0425/XX01ZVNS2B-x0425.mtz
+        sha256: 1a159ca2e46be4f35cb5efd97c7ee635aea5ddc0c2c7299396a6a8e3a6dfd770
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0425/XX01ZVNS2B-x0425.cif
+        sha256: b28e8240c05353b17fde9d0dc2b424a75267b17fe162950491244721b19333d3
+        smiles: CN(C)c1cc(CN)ccn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0425/XX01ZVNS2B-x0425_1_B_301.ccp4
+        sha256: cc1da34070a84feac58eab07e02836158ad89993946aaab2874676707098e961
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.25
+  XX01ZVNS2B-x0429:
+    type: model_building
+    last_updated: '2023-12-01 19:04:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z57477251
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0429/XX01ZVNS2B-x0429.pdb
+        sha256: e4d52ae127f83e39f426417fa9263c8fc8a81a9d9659ee8869401f5b01193169
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0429/XX01ZVNS2B-x0429.mtz
+        sha256: cca34aa143eed7203d4ba18773605129c1503beaa73ece481cad7ba828da4461
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0429/XX01ZVNS2B-x0429.cif
+        sha256: 19a7bb5b09244fb1a80f627c570d4475e4df04462b6ac2e68928690563f0d203
+        smiles: c1ccc2c(N3CCNCC3)ccnc2c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0429/XX01ZVNS2B-x0429_1_B_203.ccp4
+        sha256: c1af7fab6add687074edf62f0fd5c46a5c181f84a065127421dd9644d2204463
+        model: '1'
+        chain: B
+        res: 203
+        index: 1
+        bdc: 0.23
+  XX01ZVNS2B-x0435:
+    type: model_building
+    last_updated: '2023-12-01 19:04:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z362020366
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0435/XX01ZVNS2B-x0435.pdb
+        sha256: 094889f59aa2347259f4a3cc26f9787bad0a5b134211b689d02e49b19d85d6a8
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0435/XX01ZVNS2B-x0435.mtz
+        sha256: 52bedd4161bac7cacf43546cae02ffc876ecaeef79c8624a553c160a92ef7505
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0435/XX01ZVNS2B-x0435.cif
+        sha256: 11100a589e53dd40167aee63cdfc4a6a1238195593398895a51ffc5089d85c1b
+        smiles: Nc1nnc2ccccn12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0435/XX01ZVNS2B-x0435_1_B_301.ccp4
+        sha256: 9aac86b9209f84dad9abf12491c4231fb345426af70f70d9a9c1007d911420b8
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.23
+  XX01ZVNS2B-x0455:
+    type: model_building
+    last_updated: '2023-12-01 19:05:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z212053854
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0455/XX01ZVNS2B-x0455.pdb
+        sha256: 1a654c17e1eab9004a9e8b6214a243b34bfaab89c2b3c7a3f2c481a0675e4243
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0455/XX01ZVNS2B-x0455.mtz
+        sha256: a24755d8dcb91f1f327b0f45fc549e793603bb34fb288a7a5d602f5d52f6657c
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0455/XX01ZVNS2B-x0455.cif
+        sha256: 36a7da4c3e4979c3a3649fb46413fb2156b75fdcfa563868a473bcf2d57cbc18
+        smiles: c1cnc2c(c1)NCCC2
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0455/XX01ZVNS2B-x0455_1_B_204.ccp4
+        sha256: 14a571d607a153e03eb73ea7a0c0dca83fa99b972d3a305d1efd901eaec4197d
+        model: '1'
+        chain: B
+        res: 204
+        index: 1
+        bdc: 0.21
+  XX01ZVNS2B-x0465:
+    type: model_building
+    last_updated: '2023-12-05 14:43:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z31113727
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0465/XX01ZVNS2B-x0465.pdb
+        sha256: cececfe8ab19298757d41aaebfad60e7c83ea3947a85a94b27b4f990844a2ff7
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0465/XX01ZVNS2B-x0465.mtz
+        sha256: 7c994506ee3c050c190f40aecf16dbc961ec5bb65f4f33462cb2d8298f2bbbb7
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0465/XX01ZVNS2B-x0465.cif
+        sha256: 53c5a5c49032d6b6216a86e25b8e4405646250c8c81c8f642a1d043117fe7fa0
+        smiles: O=C1CCN(c2ccccn2)CC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0465/XX01ZVNS2B-x0465_1_B_301.ccp4
+        sha256: ed1956ae93ff754270212a97a6f5f6fb004ed62978a29e2088de0ee97323be04
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.24
+  XX01ZVNS2B-x0472:
+    type: model_building
+    last_updated: '2023-12-01 19:05:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z270834034
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0472/XX01ZVNS2B-x0472.pdb
+        sha256: b3bb5d3e1e515f4d2a1bf5c250666853ed68aa786a533fd46a50b8e3d20cb381
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0472/XX01ZVNS2B-x0472.mtz
+        sha256: 268f18e811edd97fed14e3eea0b4b5a63db41a2a5fe1f504b1aaf8b42c1df3d8
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0472/XX01ZVNS2B-x0472.cif
+        sha256: 098d71f8457bfd795751f99784315a340ce3ccd2436b840295c56cb5f5944fb5
+        smiles: C[C@H](CN)N1CCc2sccc2C1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0472/XX01ZVNS2B-x0472_1_B_301.ccp4
+        sha256: baea80bfe7f05a553981b7b72acbb1fd98e981ed723b8b2d4452fba7cf9ee31d
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.19
+  XX01ZVNS2B-x0490:
+    type: model_building
+    last_updated: '2024-02-29 16:31:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z53833304
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0490/XX01ZVNS2B-x0490.pdb
+        sha256: 3836f8e0e30524aabc8da344d140ddfd16076ff2bd9c03f86af1bf53d33631e0
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0490/XX01ZVNS2B-x0490.mtz
+        sha256: 081ea3cb5f57fe2c439331b1e34d6de08c112c96cd0a3c0cae1fc214098963e3
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0490/XX01ZVNS2B-x0490.cif
+        sha256: a5479f0f2aa89400931c13fe17fa6c8029d46cf52f5cd8e1d41e365f24358fec
+        smiles: CCn1cnc2ccccc21
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0490/XX01ZVNS2B-x0490_1_B_301.ccp4
+        sha256: 11fec5e93b38120c24741859b46bfa5521fdd8e0c1df7c5bdad9990295d30fe3
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.29
+  XX01ZVNS2B-x0553:
+    type: model_building
+    last_updated: '2023-12-01 19:07:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z57493554
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0553/XX01ZVNS2B-x0553.pdb
+        sha256: a3a680ccd259dd242af917ecd5baf4ca77ee4b7d2338b94addaf6ad3b66cf3b2
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0553/XX01ZVNS2B-x0553.mtz
+        sha256: 733b9ec3f0941a979a45504ab1c5d4dee096ad3751d120751193872400c06352
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0553/XX01ZVNS2B-x0553.cif
+        sha256: 54c3b0c30d3acb4a75ff38d676028c8ac0147a484f7d456bf5a11d73289897ef
+        smiles: C[n+]1ccc(C#N)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0553/XX01ZVNS2B-x0553_1_B_301.ccp4
+        sha256: 347666359c7320daa11b963948627713a42011a7549dd1f585400ba66b48b6ee
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.2
+  XX01ZVNS2B-x0559:
+    type: model_building
+    last_updated: '2023-12-01 19:07:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1198149728
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0559/XX01ZVNS2B-x0559.pdb
+        sha256: 9a08b76793542fa156e3deadd23634c3031a3b987cd9260b78cd69a60caef0b1
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0559/XX01ZVNS2B-x0559.mtz
+        sha256: 7d928071ffb38c544fee0e6ca73fd6781df046f33b1d9d0a297e11e44443121a
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0559/XX01ZVNS2B-x0559.cif
+        sha256: 420152718b4750cfc34ea82d3758f73a3286726b49af0fb8368aadaa1f4d0e33
+        smiles: C=Cc1c[nH]cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0559/XX01ZVNS2B-x0559_1_B_301.ccp4
+        sha256: 3aefb7b69a52a91efc0be55926a3875ff90b36ebc114b2f694e21a58808b0047
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.21
+  XX01ZVNS2B-x0589:
+    type: model_building
+    last_updated: '2023-12-01 19:08:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1269184291
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0589/XX01ZVNS2B-x0589.pdb
+        sha256: 8b2f41c1f2df377befe380ef8c75d4b9a31eb531880bbf2959e39c7f7448eded
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0589/XX01ZVNS2B-x0589.mtz
+        sha256: 445f4e30a6c557211894be4e019288c39873c3d97b3db28b8eeef2b61c6467ef
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0589/XX01ZVNS2B-x0589.cif
+        sha256: 2bd103848fe6e57fdc05c0f67f2e33aaa1de51905d30f6de220ba9cb7678c11d
+        smiles: C[n+]1cccc(Br)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0589/XX01ZVNS2B-x0589_1_B_301.ccp4
+        sha256: fdc48ad1377841b0bf0ce554a82e3f9b619a9d1b383851ecc4b50c86e1ef960e
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.17
+  XX01ZVNS2B-x0601:
+    type: model_building
+    last_updated: '2024-01-18 16:30:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z4605084899
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0601/XX01ZVNS2B-x0601.pdb
+        sha256: d7ab0a0ca9a3e6f36b9d4f185cc730923d7d33b76eb4be0f4ff5620177f8fb7b
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0601/XX01ZVNS2B-x0601.mtz
+        sha256: fbad01dd3cdf0ef030622279c17416c7b585b7b749c98ce7ed9adb0372c10996
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0601/XX01ZVNS2B-x0601.cif
+        sha256: b05675c29417dbe380c05d3caeaac38e34616d1aecd69ac8ff18e25fad93bb5c
+        smiles: C=Cc1cc[n+](C)n1C
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0601/XX01ZVNS2B-x0601_1_B_301.ccp4
+        sha256: 2b7221395e37e68b19c85bd3887f5446689437e35505a94215feda5e929219a0
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.16
+  XX01ZVNS2B-x0605:
+    type: model_building
+    last_updated: '2023-12-01 19:08:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1269221363
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0605/XX01ZVNS2B-x0605.pdb
+        sha256: c1b826fbf8fe62119646bce2cb227559c27f5c5b6abfb54a087c3746b19a1862
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0605/XX01ZVNS2B-x0605.mtz
+        sha256: 86d8cb6a885a647b8ea650c390dde257b5ba9cc21eae935aa0b119892226035c
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0605/XX01ZVNS2B-x0605.cif
+        sha256: c2b8a5cd953a784df4a650cc8364805671c7df324578b00b9515a3b1b63306f8
+        smiles: C=Cc1ccc[n+](C)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0605/XX01ZVNS2B-x0605_1_B_301.ccp4
+        sha256: 0e091806e48afb70d30179dc357b6c1d11e196ef91a1dd4cabda473c6c0d057a
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.2
+  XX01ZVNS2B-x0673:
+    type: model_building
+    last_updated: '2023-12-01 19:10:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1102357527
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673.pdb
+        sha256: cef1d004ab0de97a48d3fb21c47b0d7b66b01b16b731beeb21d47797b9bc0467
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673.mtz
+        sha256: 8de5a2057745cc775bd2a0c9ce8fdeb8320430707b9aca381fb25bf369df6cdb
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673.cif
+        sha256: fff477daf4f9371201f4dced9077449adc93dcfaa62fb331ffa7a19269369948
+        smiles: O=C1CC[C@@H](NC(=O)c2cscn2)CN1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_1_B_401.ccp4
+        sha256: f9557419e543089ab10746ed760aa8b64ebcea2bcca3975f77587e608b3d3601
+        model: '1'
+        chain: B
+        res: 401
+        index: 2
+        bdc: 0.25
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0673/XX01ZVNS2B-x0673_1_B_501.ccp4
+        sha256: 3ab7e05a270aa0a2b5c1a98b95be3a0368da4592629e54b573bdc5dbbbc50349
+        model: '1'
+        chain: B
+        res: 501
+        index: 1
+        bdc: 0.2
+  XX01ZVNS2B-x0687:
+    type: model_building
+    last_updated: '2023-12-01 19:10:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1148747945
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0687/XX01ZVNS2B-x0687.pdb
+        sha256: 6b1b800f670a08aef7a8f5f4c6de12c41fa4a7c4121f855eccbc63d384d53ce6
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0687/XX01ZVNS2B-x0687.mtz
+        sha256: 18ac2a9c66b7c348359a0216e61823f64a0dc1eafd5687837be1c74a47e244a4
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0687/XX01ZVNS2B-x0687.cif
+        sha256: 019fc403a14379523b10af3dfa1c532004e0534b0ce1868c00e648c3dbca450b
+        smiles: CC(=O)Nc1ccncc1C
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0687/XX01ZVNS2B-x0687_1_B_301.ccp4
+        sha256: 6ea1f3a196f9452b2b33053c1cf5ac530f1371ed12a281ca8f9d06829ca38e40
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.19
+  XX01ZVNS2B-x0693:
+    type: model_building
+    last_updated: '2023-12-01 19:10:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1165350851
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0693/XX01ZVNS2B-x0693.pdb
+        sha256: e83bdff44c0656686c0c7bfff57d9a58595d0d7a982f03dac4776ce0201ad45e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0693/XX01ZVNS2B-x0693.mtz
+        sha256: b2b9299c370a7739341db6f1c5de84f9da96bd64ef372145ce0e2c8af70ecf2c
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0693/XX01ZVNS2B-x0693.cif
+        sha256: 3f854243a81bd7d10afb59dd000278187e98f9e5428217fc2f72cd0dbdf0da73
+        smiles: Cc1[nH][nH]c(=O)c1CCO
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0693/XX01ZVNS2B-x0693_1_B_301.ccp4
+        sha256: 9ca52f40d5a4919d71628b372f466e5182c589c2154716cd52efbd7cb7a60e27
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.27
+  XX01ZVNS2B-x0701:
+    type: model_building
+    last_updated: '2023-12-01 19:11:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1198158918
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0701/XX01ZVNS2B-x0701.pdb
+        sha256: 1dace327584cf75b6036b9ef03bdf40c0df0ef364011f4e6735e1aa56fa38a88
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0701/XX01ZVNS2B-x0701.mtz
+        sha256: 602aeee260477c823717f2ead97e59cb4458bfed56506ce555bf0f74371f234d
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0701/XX01ZVNS2B-x0701.cif
+        sha256: 63494cb86ffc22b0f31c0d82cd9e26872c89eee72abc95cd232879f0e30d7687
+        smiles: N#Cc1n[nH]c2ccccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0701/XX01ZVNS2B-x0701_1_B_301.ccp4
+        sha256: 2b786ebb1442b7af123392dbee3da924505390d92bd4e0c90ebf765e62c776fc
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.27
+  XX01ZVNS2B-x0709:
+    type: model_building
+    last_updated: '2023-12-01 19:11:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1198317053
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0709/XX01ZVNS2B-x0709.pdb
+        sha256: 49d18851522adb244dde4d80ade797aaa8c2987ca213cbd189f33347f634c921
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0709/XX01ZVNS2B-x0709.mtz
+        sha256: 77bdb35f280fc549ce54ada81203931515e4596262068b02b77ba4a51b4bed6c
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0709/XX01ZVNS2B-x0709.cif
+        sha256: 9c2c4184e2b4ec1803a9585a86d67438932204df1af24a57750aec12976af036
+        smiles: Cc1cnc2c(cnn2CC(=O)O)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0709/XX01ZVNS2B-x0709_1_B_301.ccp4
+        sha256: 209982bf0d0a8dbc31abefb66f6956705ea7f5d8299a88a1ca19427891bb503a
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.31
+  XX01ZVNS2B-x0719:
+    type: model_building
+    last_updated: '2023-12-01 19:11:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1203191681
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0719/XX01ZVNS2B-x0719.pdb
+        sha256: 18abcc840ce87954309e39d4b7e6d3c0342de82f825069d05857df747bd58eb1
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0719/XX01ZVNS2B-x0719.mtz
+        sha256: c1a1ff947b6e15b862228a452910b5e022f25e10a49c7f267147c12cf283bf0b
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0719/XX01ZVNS2B-x0719.cif
+        sha256: ef444c31df99c7f45d091243a6bca5169c68e3aa2fddc5dd4976319d660158eb
+        smiles: CC(=O)NCc1ncc[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0719/XX01ZVNS2B-x0719_1_B_301.ccp4
+        sha256: f0d33d4d1885039c750259662f5407841146a12f864bff03337a7aaa806da5eb
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.22
+  XX01ZVNS2B-x0727:
+    type: model_building
+    last_updated: '2023-12-01 19:11:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1216833237
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0727/XX01ZVNS2B-x0727.pdb
+        sha256: 36b7f9ee0e827680b2ec40cc39aa088509a7cc77e1070baa28bbdc726692e141
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0727/XX01ZVNS2B-x0727.mtz
+        sha256: 3ff877ef68a4ecc9d3f710b6cbcd962203be520e14daefa2dfa1820009a1bbab
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0727/XX01ZVNS2B-x0727.cif
+        sha256: 20ce333a42666e50018bc99a978f54d252fa4f563c16af2f1f3b0446e1344334
+        smiles: CNc1nccc2ccccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0727/XX01ZVNS2B-x0727_1_B_301.ccp4
+        sha256: 70afc5e8bed49d3af630bc01dde06467d8358b43572e0929e328b8de260a33f2
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.33
+  XX01ZVNS2B-x0772:
+    type: model_building
+    last_updated: '2023-12-01 19:12:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1269184613
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0772/XX01ZVNS2B-x0772.pdb
+        sha256: 9ee3f875170c94a8c525b0534e05945de26b744e9a1edb2055ff7ae236daada1
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0772/XX01ZVNS2B-x0772.mtz
+        sha256: ce517687323b5026c41d016a9e856bb6212dfa2059874be991f2ffc1b703a684
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0772/XX01ZVNS2B-x0772.cif
+        sha256: 14b10ab1d4f906d075fd4c77bffa8f17fac9bdb545579855702f09eadbe61ca6
+        smiles: NS(=O)(=O)c1ccc2ncsc2c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0772/XX01ZVNS2B-x0772_1_B_301.ccp4
+        sha256: 7a1f186c5dd1f73a74472bca9ba4c39a9a0b035590571443342b6a3ad8b54d30
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+  XX01ZVNS2B-x0773:
+    type: model_building
+    last_updated: '2023-12-01 19:12:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1269220427
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773.pdb
+        sha256: fda0f2d7bfcad95550529d8a1fd71ac5fdd1888cd669b4629c7a3ea509adc533
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773.mtz
+        sha256: fab9b84c080f1a83f7e0e4b81b3c769f56fe2ae72aff05ab66cd8dab4db52f55
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773.cif
+        sha256: f7be5e71282b8283c72fe7d318f428b5e8a4f18cf2004b39cb88d2968f6ae918
+        smiles: CS(=O)(=O)c1cccc2cccnc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_1_B_301.ccp4
+        sha256: 4a6478c61b020da4761dd0a87528fe95e6f75ba2d790bcfd5fbe5be54397ad5d
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0773/XX01ZVNS2B-x0773_1_B_401.ccp4
+        sha256: a07c4713631a70a4b9de1daf7f5866c8838736b72dfc189d89d2fd29bf242726
+        model: '1'
+        chain: B
+        res: 401
+        index: 2
+        bdc: 0.34
+  XX01ZVNS2B-x0777:
+    type: model_building
+    last_updated: '2023-12-01 19:12:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1272517105
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0777/XX01ZVNS2B-x0777.pdb
+        sha256: 384a7a648a8b38c207efbf9610ed292d853d5f29e3fc4f0f0b0ee9decd200176
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0777/XX01ZVNS2B-x0777.mtz
+        sha256: f5768a37db1158d1cc2754a5c6b5abc40ecec2270c6f4fee5c4e03ce42be4c73
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0777/XX01ZVNS2B-x0777.cif
+        sha256: cc6b9a9f40711c5cbc354360ed6be9f9b95e58f84fe5f617fb37cf1343eff10e
+        smiles: Cc1nsc(N[C@H]2CCC[C@]2(C)CO)n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0777/XX01ZVNS2B-x0777_1_B_301.ccp4
+        sha256: 4433f33f3487cdbe83b06f2e47d2fb00061288946b99d1b3785331d5d2eee191
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.16
+  XX01ZVNS2B-x0788:
+    type: model_building
+    last_updated: '2023-12-01 19:13:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1328968520
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788.pdb
+        sha256: 5f19f337938a6f5694ddfd4d9d204bae4d897b302651d7661f0fd31b195931e1
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788.mtz
+        sha256: 9621d959b6a017726c767d1070caf70ba75c9e1da2b0d73105e3254ef344ac22
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788.cif
+        sha256: bc9d2bde806960400968d631fc3075be76d93cb08ec62459cdc5f25f06a2e7d8
+        smiles: CS(=O)(=O)c1nccn1Cc1cscn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_1_B_301.ccp4
+        sha256: 258552cb6b5d6eb7c736cc61d49307caced1ecac34b3040321b21e789af85ca4
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.27
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_1_B_302.ccp4
+        sha256: 258552cb6b5d6eb7c736cc61d49307caced1ecac34b3040321b21e789af85ca4
+        model: '1'
+        chain: B
+        res: 302
+        index: 1
+        bdc: 0.27
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0788/XX01ZVNS2B-x0788_1_B_303.ccp4
+        sha256: 258552cb6b5d6eb7c736cc61d49307caced1ecac34b3040321b21e789af85ca4
+        model: '1'
+        chain: B
+        res: 303
+        index: 1
+        bdc: 0.27
+  XX01ZVNS2B-x0800:
+    type: model_building
+    last_updated: '2023-12-01 19:13:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1397964787
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0800/XX01ZVNS2B-x0800.pdb
+        sha256: 08510809c07da2997b3ca4f39bf53564df40cf473b3ce759fc65b32396a31379
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0800/XX01ZVNS2B-x0800.mtz
+        sha256: c15f55ab81452356828d5d1c6a19e8c5be45788ff98f24a59b4d3216a76ddced
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0800/XX01ZVNS2B-x0800.cif
+        sha256: 1319d1edaf83444c129191519ef14facf85b64a4771fe866bfab243a72e137d6
+        smiles: NC(=O)c1c[nH]c(C2CC2)n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0800/XX01ZVNS2B-x0800_1_B_301.ccp4
+        sha256: 23e5ad56ac1d340323778e6b214c967f8f5e391dfcfd758af15e842e179dc836
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.25
+  XX01ZVNS2B-x0806:
+    type: model_building
+    last_updated: '2023-12-01 19:13:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1428159350
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806.pdb
+        sha256: b0de24a22dcd6a5da1dbade24aba2d7a586b85ca22dec485187515f017387882
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806.mtz
+        sha256: a25f66410462f5080bc6cc358a83d289039b126bda211d2fc78819983856b03f
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806.cif
+        sha256: e674b800f58f45149db9bd4d05839f8f80ec9500e4ec17b117f09474fafa556c
+        smiles: C[C@H](N)c1cn(-c2ccccc2)nn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_1_B_301.ccp4
+        sha256: 4d45b4cd1fe3198ffb869c7f2b6ce8b4139e9e4af4aabadd8797b9e92b0799e2
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.27
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0806/XX01ZVNS2B-x0806_1_B_401.ccp4
+        sha256: 0c9069ae027bc6e88674dc40cead9afa402cda270a82dc0942b4083b2bc110c5
+        model: '1'
+        chain: B
+        res: 401
+        index: 2
+        bdc: 0.17
+  XX01ZVNS2B-x0819:
+    type: model_building
+    last_updated: '2023-12-01 19:13:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1491215378
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0819/XX01ZVNS2B-x0819.pdb
+        sha256: 23c85f8eafb7a95de7388aca35dd27ee1d2b8482760143e5fad9dfeac54a9aa8
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0819/XX01ZVNS2B-x0819.mtz
+        sha256: 2222d864fcc1f697b3dc7761d236e5bf2789f635299cc1d01db4c3eadf745217
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0819/XX01ZVNS2B-x0819.cif
+        sha256: 986fc761ad8b497b7b0469df9eac3e43ce981240bd5359f69bcbc7b6153dc01c
+        smiles: CS(=O)(=O)NC1CCNCC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0819/XX01ZVNS2B-x0819_1_B_301.ccp4
+        sha256: 7d61741cf4340517ac56c6643939d80720a1e3d1f6a1fc841791bf048f6d9661
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.14
+  XX01ZVNS2B-x0827:
+    type: model_building
+    last_updated: '2023-12-01 19:14:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1509195674
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0827/XX01ZVNS2B-x0827.pdb
+        sha256: 8e1f908c6fb7a9d35cec5a2176a99ead0f7ecbeb07925d0d11dc9350aa5172d6
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0827/XX01ZVNS2B-x0827.mtz
+        sha256: 9248dac437c534c8e8b842a4af3be88ce0dc7f9d359af03b9259af73c974af35
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0827/XX01ZVNS2B-x0827.cif
+        sha256: bf6cae5d9a668a9675d9b22df35a2397bd6c32b271ab5e8324e62a6ecdabc3dc
+        smiles: c1cc([C@H]2CCCNC2)c2cc[nH]c2c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0827/XX01ZVNS2B-x0827_1_B_203.ccp4
+        sha256: eba29a2a2545ee119f117651ad736f31a38846de67503afa07ad903eb32d7506
+        model: '1'
+        chain: B
+        res: 203
+        index: 1
+        bdc: 0.42
+  XX01ZVNS2B-x0844:
+    type: model_building
+    last_updated: '2023-12-01 19:14:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1575274523
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0844/XX01ZVNS2B-x0844.pdb
+        sha256: 02f057ff519a9763ab3358c0146b6044b76b6b4048e9dff6cd0a21b381c1f5e4
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0844/XX01ZVNS2B-x0844.mtz
+        sha256: af8f9a8b0935df8a217cbe9ca2093cc680e2e58a8da37110e664250c8e0a2c1f
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0844/XX01ZVNS2B-x0844.cif
+        sha256: 06ce23458fee13696cf59f6b4c5783b1131517b208e1efe13090e069cb2614ba
+        smiles: N#CCC1=N[C@H]2CCCC[C@H]2N1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0844/XX01ZVNS2B-x0844_1_B_301.ccp4
+        sha256: 14e6f94e7e15f586aef1eea21b47c0c0259c7df5756743a0dff0a7f17fb648d6
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.28
+  XX01ZVNS2B-x0846:
+    type: model_building
+    last_updated: '2023-12-01 19:14:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1587220559
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846.pdb
+        sha256: 46d207f9f4f047a3c7b432f3f7450303838730050a909a13c3b4b122a213cc7a
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846.mtz
+        sha256: a798a3a906162b25ea2ac0ea11a2cc5b87709e0f200eb1c918c359e2a8f7380f
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846.cif
+        sha256: 9f57f4835ff177cc4b91a1ac3dafc4520c4aed742d4deb7c599ea9aec56e727d
+        smiles: Oc1ccccc1CNc1nc2ccccc2[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_1_B_301.ccp4
+        sha256: 22441447c4b5090e2c507d276ae22fe8aeb952d54022346dc19bc6905709c722
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.31
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0846/XX01ZVNS2B-x0846_1_B_401.ccp4
+        sha256: acc853330e06816b6456f6a7d24316ca86b25924ded84eefd9b4bc60134ef360
+        model: '1'
+        chain: B
+        res: 401
+        index: 1
+        bdc: 0.38
+  XX01ZVNS2B-x0875:
+    type: model_building
+    last_updated: '2023-12-01 19:15:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z1787627869
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0875/XX01ZVNS2B-x0875.pdb
+        sha256: 6faed370d313db30abd8f1f3d65d32c1267ce3bf6f59bc644043431ccbcb047e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0875/XX01ZVNS2B-x0875.mtz
+        sha256: 354898effaed15979cffb2563d7afffc0911cc5ebe1ddb1f597ce6127de5ad79
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0875/XX01ZVNS2B-x0875.cif
+        sha256: 4090e540747c186721888ab3e37f251d3f982484943c3e1cd98db6813c57cbd4
+        smiles: CN(C[C@@H]1CCOC1)c1ncncc1Cl
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0875/XX01ZVNS2B-x0875_1_B_301.ccp4
+        sha256: c5edcdb3ffcc143592eb36de91a03e7573bfbe3bdda490fbb347982e69a1af12
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.29
+  XX01ZVNS2B-x0884:
+    type: model_building
+    last_updated: '2023-12-01 19:15:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z18769001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884.pdb
+        sha256: 316c9bd57f4268b10c792d19ce277420097cb4d8778e8b5b5efbf5a298b735ef
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884.mtz
+        sha256: cf79c819958ac8ea3bb233894cd97095c7545a5185042333425ce7c460f8d403
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884.cif
+        sha256: 079d3e28cbdfad1045ac825ad9df3713b6dc4d04c7a0f1060f309d853bd28562
+        smiles: C[C@H](Oc1ccccc1C#N)C(N)=O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_1_B_301.ccp4
+        sha256: 81bbbce511c11b9080c404b9650e8c2d505236a03e7d1214b2931f3a39b11e45
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.18
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0884/XX01ZVNS2B-x0884_1_B_401.ccp4
+        sha256: a5704968b5f13829304829e1e68dc96c25a9736092308b6b329a368057becbcf
+        model: '1'
+        chain: B
+        res: 401
+        index: 1
+        bdc: 0.17
+  XX01ZVNS2B-x0904:
+    type: model_building
+    last_updated: '2023-12-01 19:15:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z19755216
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0904/XX01ZVNS2B-x0904.pdb
+        sha256: b5f1173b40b41f033e20f2e5237dc128516ef04092a421c4a1b8386c98c7676b
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0904/XX01ZVNS2B-x0904.mtz
+        sha256: d2f333b83bcf01d22b738db4f0120363a4686a9c9b570d6ce6e6ec92055f7143
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0904/XX01ZVNS2B-x0904.cif
+        sha256: 38fc45e0edcf7d3df05ea72aecaafc6d44585b62bee6bee03c1af546220f6806
+        smiles: CN(C)C(=O)COc1cccc(F)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0904/XX01ZVNS2B-x0904_1_B_301.ccp4
+        sha256: a4898fc70120f0ac0f40c9e416e05ddaba8c999b9ea963cb87108a13c1e9b40e
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+  XX01ZVNS2B-x0944:
+    type: model_building
+    last_updated: '2024-01-09 13:17:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z228586974
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0944/XX01ZVNS2B-x0944.pdb
+        sha256: 6d038cdb4a1d38ca3e40d4e48191e9d74e99c4c608cb6b517dca0d171879c0db
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0944/XX01ZVNS2B-x0944.mtz
+        sha256: 513ac771188d14d51123fd65c629660590ccd90b65eabcba204b2d6117fdc871
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0944/XX01ZVNS2B-x0944.cif
+        sha256: 7d9ebedc8cc3331d66f3e01b25c4c0fe718fb3eaac157800f3b5bd043ccfd157
+        smiles: O=C(c1cccc(F)c1)N1CCNCC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0944/XX01ZVNS2B-x0944_1_B_301.ccp4
+        sha256: 42f0dd7f8cabb7ff34f75f7159ce7f45ec583b4975a0a72b960c93770a1e61c9
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.39
+  XX01ZVNS2B-x0945:
+    type: model_building
+    last_updated: '2023-12-01 19:16:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z228587394
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0945/XX01ZVNS2B-x0945.pdb
+        sha256: e4fb58a85cd9726cda18bcd37a55b03966b8ebd354dece3f850bd957399534ca
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0945/XX01ZVNS2B-x0945.mtz
+        sha256: d18f7871c5b172bf58846cd13b9270e6f2928d1f8ed4545b8ae4ba7422ba09c2
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0945/XX01ZVNS2B-x0945.cif
+        sha256: d6d24c843fdb681cb4073348edc8d5702f7a78691246853e07f7f2032472f337
+        smiles: COc1ccnc(N2CCNCC2)n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0945/XX01ZVNS2B-x0945_1_B_301.ccp4
+        sha256: e7647ce6ef5226865776d044afc7c4251a12a863ab1d4aa06c04ea88b89efc91
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.35
+  XX01ZVNS2B-x0951:
+    type: model_building
+    last_updated: '2023-12-01 19:17:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z234898257
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0951/XX01ZVNS2B-x0951.pdb
+        sha256: 345f8ba33f64c68ca898a169306151efdbc16517d4d0b7be471038b9780d650a
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0951/XX01ZVNS2B-x0951.mtz
+        sha256: b4261a75172949bbb333375c9787557e49c97fb6942178070ed4f9996bf21c29
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0951/XX01ZVNS2B-x0951.cif
+        sha256: 6710be8a2e6d71b1ce532e4ce54c00a087e8f2189f2d4ef9407041f10d733e85
+        smiles: CNCc1nnc2ccccn12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0951/XX01ZVNS2B-x0951_1_B_301.ccp4
+        sha256: 6bf250620928442be80c2a2c2b2cee187058aa7a776024588c99e213bbc1faa2
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.23
+  XX01ZVNS2B-x0969:
+    type: model_building
+    last_updated: '2023-12-01 19:17:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z2509342103
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969.pdb
+        sha256: fb591544674b25e80d3ee79c0f808d3cd5f0b3112096f5114198add5d8c2edb3
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969.mtz
+        sha256: 3bbd64c782b45bf1e03cf02dff500b18f8230278043951608055e280579f494a
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969.cif
+        sha256: b9611c9e024c896ca578fb93427600bdeb566088c91d2701dc55adebdb666845
+        smiles: Cc1cnn2c1CNCC2
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_1_B_203.ccp4
+        sha256: f3daaecf27aa2ad0445ca32e3a025397f04959746b1347b48f21c04fea4db1f5
+        model: '1'
+        chain: B
+        res: 203
+        index: 1
+        bdc: 0.41
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0969/XX01ZVNS2B-x0969_1_B_204.ccp4
+        sha256: f3daaecf27aa2ad0445ca32e3a025397f04959746b1347b48f21c04fea4db1f5
+        model: '1'
+        chain: B
+        res: 204
+        index: 1
+        bdc: 0.41
+  XX01ZVNS2B-x0990:
+    type: model_building
+    last_updated: '2023-12-01 19:17:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z270760338
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990.pdb
+        sha256: e17a9cc9cabe59b9109705b8fbfdc07554d1beb01f8ef3bb9f16be3a7c72c118
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990.mtz
+        sha256: ae06408583830592e23bc7ac5b5fe17a12c52d5557f815db2dd9d32fabb88285
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990.cif
+        sha256: 162a26a89f39da27dc125520c686ef30050c68a52802a6bcf389c1e41268028e
+        smiles: CN(C)C(=O)N1CCNCC1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_1_B_301.ccp4
+        sha256: a4651145a0ad2d9dd86461741a0d0042d155ab1d24c110c743a1320930feb969
+        model: '1'
+        chain: B
+        res: 301
+        index: 3
+        bdc: 0.38
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x0990/XX01ZVNS2B-x0990_1_B_302.ccp4
+        sha256: 9e08e070a135390bbb1f622c116827bc3651cb5dce592df9cd43e07db414298b
+        model: '1'
+        chain: B
+        res: 302
+        index: 1
+        bdc: 0.41
+  XX01ZVNS2B-x1046:
+    type: model_building
+    last_updated: '2024-01-18 16:35:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z31735562
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046.pdb
+        sha256: b57d184d039344c4e6a228360e1d99536e845b326f001f3932b817b736046ae7
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046.mtz
+        sha256: 0b7a8ef5eccb0221d0862f0520b5eccb1059d837a1654080d7faa16882c2f28b
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046.cif
+        sha256: c966ec86046f7837da89ed915a107d97363b34448f5a7af2e412957f047cf89c
+        smiles: COCC(=O)Nc1cccc(NC(C)=O)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_1_B_301.ccp4
+        sha256: 589a472416aeff46b8189d7e92225d52000d0bbeac8e06949fabb192821e923a
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.58
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1046/XX01ZVNS2B-x1046_1_B_304.ccp4
+        sha256: 589a472416aeff46b8189d7e92225d52000d0bbeac8e06949fabb192821e923a
+        model: '1'
+        chain: B
+        res: 304
+        index: 1
+        bdc: 0.58
+  XX01ZVNS2B-x1098:
+    type: model_building
+    last_updated: '2023-12-01 19:20:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Z396117078
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1098/XX01ZVNS2B-x1098.pdb
+        sha256: 9358d92c44e57784e7b66dc5bdf2de435882ed08eeec72f4f85c16384b54d1fa
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1098/XX01ZVNS2B-x1098.mtz
+        sha256: 13f26df2e92ca542f16728b982b162a6d9706360901a776fd1df032e8a63276b
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1098/XX01ZVNS2B-x1098.cif
+        sha256: 990dd9536759585a9d2a1793f36e859871bc8efb4554590dcb8bb917b6afd31f
+        smiles: Cn1cc(NC(=O)c2ccccc2C(F)(F)F)cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1098/XX01ZVNS2B-x1098_1_B_301.ccp4
+        sha256: c2e2e2ca2547ba354fa4bdb0c61e065f7515b6a9109ef1b901972d25b4365ff5
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.45
+  XX01ZVNS2B-x1234:
+    type: model_building
+    last_updated: '2024-02-01 17:27:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014643-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1234/XX01ZVNS2B-x1234.pdb
+        sha256: 0742c3667b168b6ae67b0f9033bd159bc3cf0ba826c98c9b9a4c98a4c1096553
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1234/XX01ZVNS2B-x1234.mtz
+        sha256: ed96d5731294e22f75297e27d27b55d4ecb6a4b68ae76fbbed8845ad1f7e97c7
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1234/XX01ZVNS2B-x1234.cif
+        sha256: c9750d200964561345acddad1f07f77e8b778ebea508dc06251b510469c3910b
+        smiles: COc1cncc(-c2ccccc2C(=O)Nc2cnn(C)c2)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1234/XX01ZVNS2B-x1234_1_B_301.ccp4
+        sha256: 11db65eafaea5aef3adf738ca3f656c1fb4c99bf125aab369748d8f3a3693330
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.31
+  XX01ZVNS2B-x1237:
+    type: model_building
+    last_updated: '2023-12-11 15:32:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014657-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1237/XX01ZVNS2B-x1237.pdb
+        sha256: d500c6ff5f0aca0972ee05361a3e21934efab3e1b3c8d6c07d3b2bc6745bafeb
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1237/XX01ZVNS2B-x1237.mtz
+        sha256: 1ee847e78cb2f85e0323124969a5847afb327fd581644c18d099406eb9081b1a
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1237/XX01ZVNS2B-x1237.cif
+        sha256: bde903b9663b49951dbe288d3bac9cf6a400b3110846d4cfe483bca9d8bc0715
+        smiles: Cc1cnccc1NC(=O)c1cc(C2CC2)n(C)c1C
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1237/XX01ZVNS2B-x1237_1_B_301.ccp4
+        sha256: f9d07acc4903ff28fce5070cb1c15f5410a725e8eb85e55ba8f42438ba0d686b
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.3
+  XX01ZVNS2B-x1261:
+    type: model_building
+    last_updated: '2023-12-11 12:34:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014708-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1261/XX01ZVNS2B-x1261.pdb
+        sha256: f91bf5506f4929303ce336abedda8041653e542f4ce8dfb22daf9016a2394f24
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1261/XX01ZVNS2B-x1261.mtz
+        sha256: 81eeee8bfb98af0bd46ce632df02723c510775e44e86a1dc6b2602d63c66d5cd
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1261/XX01ZVNS2B-x1261.cif
+        sha256: 95984cfb543ff53034a7719572248ccf1eafe77db6f899a8ea4c80051f851210
+        smiles: COCc1cc(-c2ccccc2C(=O)Nc2cnn(C)c2)ccn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1261/XX01ZVNS2B-x1261_1_B_301.ccp4
+        sha256: ba6a96ed6b2b5f58dfa73664857f7557e40dccdc941ba2f287ec43dc372a613a
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.39
+  XX01ZVNS2B-x1265:
+    type: model_building
+    last_updated: '2023-12-11 12:34:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014712-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1265/XX01ZVNS2B-x1265.pdb
+        sha256: 538d6aba7cbbc699558c6ecd0884f75246aead15f4e366d8a6fbba114a17f43b
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1265/XX01ZVNS2B-x1265.mtz
+        sha256: 8bdf7d18004d2e66049b61c212517117ee5f44930a01e918da29cbf6529014f2
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1265/XX01ZVNS2B-x1265.cif
+        sha256: 90213d0f3711e72ccc09455d122ae82dedabbda3fcf68212f502147f79d61177
+        smiles: COc1cc(-c2ccccc2C(=O)Nc2cnn(C)c2)ccn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1265/XX01ZVNS2B-x1265_1_B_301.ccp4
+        sha256: 5ee2386f7b7030df0ba045369fc406497d5fb5964af33c5be5ef1fe266067c69
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.28
+  XX01ZVNS2B-x1271:
+    type: model_building
+    last_updated: '2024-01-18 16:54:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014657-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1271/XX01ZVNS2B-x1271.pdb
+        sha256: 9e31c20738760cfd049ba3dda7ed84d2785cbf9513ce9a685438f26f137b74c2
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1271/XX01ZVNS2B-x1271.mtz
+        sha256: 9db38945df3bd4ed9735228d825af2db4a6824ce1680c03a2b379aaac0c29ad6
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1271/XX01ZVNS2B-x1271.cif
+        sha256: bde903b9663b49951dbe288d3bac9cf6a400b3110846d4cfe483bca9d8bc0715
+        smiles: Cc1cnccc1NC(=O)c1cc(C2CC2)n(C)c1C
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1271/XX01ZVNS2B-x1271_1_B_301.ccp4
+        sha256: 001f931af7c36c30fde5bdffaf9efbe86107cc894749839e4db60e9a179b9be8
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.3
+  XX01ZVNS2B-x1274:
+    type: model_building
+    last_updated: '2023-12-11 12:48:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014668-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1274/XX01ZVNS2B-x1274.pdb
+        sha256: 852afc6c893f5a8228432a15e69f52fd3a4f8c3c2b9d0b487be42d13b207b898
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1274/XX01ZVNS2B-x1274.mtz
+        sha256: 36ff93d769ceceeb317ade8d76c6b915d298d6f2f706b48e700996739d49e7e3
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1274/XX01ZVNS2B-x1274.cif
+        sha256: 912fa2e6189195ad7c2b695c0feeace58d9d86d365989abf12e243a0f9246896
+        smiles: Cc1cnccc1NC(=O)c1cccc(-c2nccs2)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1274/XX01ZVNS2B-x1274_1_B_301.ccp4
+        sha256: b1a3d9a6cb64e4a3b98e3dc0088e768f0a3a71bd95c6ce58b66becb0b126a239
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.29
+  XX01ZVNS2B-x1288:
+    type: model_building
+    last_updated: '2023-12-11 12:36:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014704-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1288/XX01ZVNS2B-x1288.pdb
+        sha256: 8c0e409f6d4aa8d60323e2d92f17c334dc434b4505a5feb772ca694b88e65d5d
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1288/XX01ZVNS2B-x1288.mtz
+        sha256: 9fa11024491772a53704ed6645c047e1c14ea7d16cb2b3ffbaad7a522582d034
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1288/XX01ZVNS2B-x1288.cif
+        sha256: 393f44f48f46c5aefc663a99a495ec23ad75161bd7ea107806ac0c9c1d1733bc
+        smiles: Cc1cc(-c2ccccc2C(=O)Nc2cnn(C)c2)cnc1F
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1288/XX01ZVNS2B-x1288_1_B_301.ccp4
+        sha256: 0e48efad783bef257c9cb57363b3343be953b588f2613f000ed503b171928ac6
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+  XX01ZVNS2B-x1291:
+    type: model_building
+    last_updated: '2023-12-11 12:37:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014707-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1291/XX01ZVNS2B-x1291.pdb
+        sha256: d8856a9813ba19f0f5edf9c666fb9a348032829ddf8ab2b9aafd8120fcdbed55
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1291/XX01ZVNS2B-x1291.mtz
+        sha256: fa22578a20f9f4517fd129bbaecf23bb367bb7c95bfb16983fb83eeb018ade3a
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1291/XX01ZVNS2B-x1291.cif
+        sha256: ef54c2df2502f2baed6333a67748d1a47fe22eae0b611022ee5b9a706435c825
+        smiles: CN(C)Cc1nc(CNc2cc(Cl)cc(C(=O)NC(C)(C)CO)c2)cs1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1291/XX01ZVNS2B-x1291_1_B_301.ccp4
+        sha256: 893aa5212a0810d01f9144a5c43ef2066967d838b5ce449dc58cfc2fcca5e4ef
+        model: '1'
+        chain: B
+        res: 301
+        index: 3
+        bdc: 0.38
+  XX01ZVNS2B-x1317:
+    type: model_building
+    last_updated: '2023-12-11 12:37:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014812-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1317/XX01ZVNS2B-x1317.pdb
+        sha256: 538649f0d847adec5c5de685f6826f2e94f348e93531a9fde424bda6045e0d7a
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1317/XX01ZVNS2B-x1317.mtz
+        sha256: 892cf1fa318982ee3923349a931b78c9956113c7eb58b9260c342096db2442f6
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1317/XX01ZVNS2B-x1317.cif
+        sha256: 4526565c18535d1189e5f21e712806f752fb51e328c341a460929339bc0e3a9d
+        smiles: CS(=O)(=O)c1ccc(N2CCNCC2)cc1NC(=O)c1cccc2ncccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1317/XX01ZVNS2B-x1317_1_B_301.ccp4
+        sha256: a532cf4052255525f2d95ac0ac2430afccb12b1ce0bdac9d708d57347bdc29b1
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.43
+  XX01ZVNS2B-x1320:
+    type: model_building
+    last_updated: '2023-12-11 12:38:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014821-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1320/XX01ZVNS2B-x1320.pdb
+        sha256: 2ef27c1564d3615423221a6a6b24cd9cb5fd5969453c2f21b1fd04bf3acf7873
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1320/XX01ZVNS2B-x1320.mtz
+        sha256: 58400498689636db0e0693b6e71dad68261dacc03f116b8dabdd51ad005a7d5d
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1320/XX01ZVNS2B-x1320.cif
+        sha256: 06613fc63f67940faba31c4b90195d8c07cba55fc0068e9a262dc9ee1855908b
+        smiles: COc1ccc(-c2ccccc2C(=O)Nc2cnn(C)c2)cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1320/XX01ZVNS2B-x1320_1_B_301.ccp4
+        sha256: a7d1cc4ba5cc22a8265205fa77b11522cb4e5fb0123bd882d1437482cef7c396
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+  XX01ZVNS2B-x1325:
+    type: model_building
+    last_updated: '2024-01-19 17:38:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014738-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1325/XX01ZVNS2B-x1325.pdb
+        sha256: 8d25bde415af409b769497babaeb64aac067ba27398eb39d1bf89cc76547ab2d
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1325/XX01ZVNS2B-x1325.mtz
+        sha256: 6f95195d68063656accf259d64fcf85ff88ab3f9ebc56dd22fccfbacea714ffe
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1325/XX01ZVNS2B-x1325.cif
+        sha256: 284e2ba87187300d15fbe3b62d2e9c86b9ff99f6b3f20c0f221f0d9b4c287360
+        smiles: Cc1ncc(-c2ccccc2C(=O)Nc2cnn(C)c2)cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1325/XX01ZVNS2B-x1325_1_B_203.ccp4
+        sha256: f2f30d10355bd85d778d9943bfb3d0b33005700d01c3d3bc1017116ba00ead08
+        model: '1'
+        chain: B
+        res: 203
+        index: 1
+        bdc: 0.44
+  XX01ZVNS2B-x1333:
+    type: model_building
+    last_updated: '2024-01-12 13:46:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014767-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1333/XX01ZVNS2B-x1333.pdb
+        sha256: 260f7c00bcc69285bfaa636dc7b113dc7261a50d6b27ab19310bfcc71baa518d
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1333/XX01ZVNS2B-x1333.mtz
+        sha256: 5d94a14924c5198feff4b653ab6c3fd4cec59dd1e96280402ef230138b2798bc
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1333/XX01ZVNS2B-x1333.cif
+        sha256: 00b63bbe6db570553c9508e37639d7627a984b0e6d18b8af35ff73dce9be35e9
+        smiles: CN(C)Cc1cc(CNc2cc(Cl)cc(C(=O)NC(C)(C)CO)c2)ccc1O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1333/XX01ZVNS2B-x1333_1_B_301.ccp4
+        sha256: 7ce4ac9fd8371b0a7fa67814604eda0757db153c05ddd62a84d0a698ea176162
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.43
+  XX01ZVNS2B-x1342:
+    type: model_building
+    last_updated: '2023-12-11 12:39:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014795-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1342/XX01ZVNS2B-x1342.pdb
+        sha256: c2242ef02397249a0205e9ff7686df038fefa5137cf8d5232b4f2d6617ba2420
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1342/XX01ZVNS2B-x1342.mtz
+        sha256: 2fc0fd79251577d1b5fa16116753228e5788c5a400afade217a82c43a848f4f7
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1342/XX01ZVNS2B-x1342.cif
+        sha256: d4ac38c5fe72adf42a0b3eab8c81633c1544868b7280a3f056502253a3ed0ef4
+        smiles: Cn1cc(NC(=O)c2cccc3ncccc23)cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1342/XX01ZVNS2B-x1342_1_B_301.ccp4
+        sha256: 48aac0b6358f38e1a81af3f1da6f8453aea102774e6444cac6c874c488d4bdc4
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.28
+  XX01ZVNS2B-x1390:
+    type: model_building
+    last_updated: '2023-12-11 12:49:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014812-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1390/XX01ZVNS2B-x1390.pdb
+        sha256: 7add2d0d776ebfa2efa149180663ab77f2c2712de10660d6168e69d28d37a589
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1390/XX01ZVNS2B-x1390.mtz
+        sha256: 64eba27d05b5bdb1bfe21a11ad32d8cacff733ead4634551ab23613e2211644f
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1390/XX01ZVNS2B-x1390.cif
+        sha256: 4526565c18535d1189e5f21e712806f752fb51e328c341a460929339bc0e3a9d
+        smiles: CS(=O)(=O)c1ccc(N2CCNCC2)cc1NC(=O)c1cccc2ncccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1390/XX01ZVNS2B-x1390_1_B_301.ccp4
+        sha256: 976475ad8b26fcd02f7ff3e5be0c2a7ce2bd76d696631fb53167bdcf326ddc52
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.44
+  XX01ZVNS2B-x1398:
+    type: model_building
+    last_updated: '2023-12-11 12:49:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014738-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1398/XX01ZVNS2B-x1398.pdb
+        sha256: c41e7db65cbe7d04eaa415d5aa0a02e169cbdff40bd1d8867fba62ddc123980e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1398/XX01ZVNS2B-x1398.mtz
+        sha256: 4405a558ea1151b1ac2bc355bd22d3a581fbc0a464092d070cae703732f5eb28
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1398/XX01ZVNS2B-x1398.cif
+        sha256: 284e2ba87187300d15fbe3b62d2e9c86b9ff99f6b3f20c0f221f0d9b4c287360
+        smiles: Cc1ncc(-c2ccccc2C(=O)Nc2cnn(C)c2)cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1398/XX01ZVNS2B-x1398_1_B_301.ccp4
+        sha256: 4c3e15be3e14e9e8cb35b66569bba26341e513f34771d428ca8a81f035c12e68
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.34
+  XX01ZVNS2B-x1406:
+    type: model_building
+    last_updated: '2023-12-11 12:40:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014767-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1406/XX01ZVNS2B-x1406.pdb
+        sha256: 7b6aa6eb8bf673e2ede7f73093c5ba9506206ddf02b88edd676ddba1c8f0ec96
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1406/XX01ZVNS2B-x1406.mtz
+        sha256: 545e4b0eeef70e6c320e61b49a2da80c88a05a39d5f5d414d7b2feda5a596459
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1406/XX01ZVNS2B-x1406.cif
+        sha256: 00b63bbe6db570553c9508e37639d7627a984b0e6d18b8af35ff73dce9be35e9
+        smiles: CN(C)Cc1cc(CNc2cc(Cl)cc(C(=O)NC(C)(C)CO)c2)ccc1O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1406/XX01ZVNS2B-x1406_1_B_301.ccp4
+        sha256: e8ab1a67b044660aed69841c3d47e8118cd58e69bb6fbd95116227e8304005d3
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.52
+  XX01ZVNS2B-x1413:
+    type: model_building
+    last_updated: '2023-12-11 12:49:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014790-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1413/XX01ZVNS2B-x1413.pdb
+        sha256: cbe5a4dd7464c392e0d90aaa3565c3cc974abc3cfd62987c82a0afe79b3e8b6e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1413/XX01ZVNS2B-x1413.mtz
+        sha256: de2e9c4ded586cfbeaf5d6d95c48bfc6ca82fcb8dc19669b896642e3c2862776
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1413/XX01ZVNS2B-x1413.cif
+        sha256: bcd1841f7f88ba0ecdd8e9e1436653912c4dd81693c9ba91cf66860dfc96dc9d
+        smiles: O=C(Nc1cnn2c1CNCC2)c1cccc2ncccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1413/XX01ZVNS2B-x1413_1_B_301.ccp4
+        sha256: cf5d13ae7df3cc1b291e29f39c62cb7b52d65bbc4a9f6d121a68ec2f6ce45c69
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.31
+  XX01ZVNS2B-x1451:
+    type: model_building
+    last_updated: '2023-12-11 12:41:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014856-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1451/XX01ZVNS2B-x1451.pdb
+        sha256: e2f1124ea6dfc857aa5eab5646c75816499fb33d18b8ae5dffcf2739ae4764d6
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1451/XX01ZVNS2B-x1451.mtz
+        sha256: 5999320541a300b3c1fc543f334151924fa2637005147f03f8039bfb882f7159
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1451/XX01ZVNS2B-x1451.cif
+        sha256: 97a19d311870a5ec81b7819b5fad28ec3d81f8529ed522b4b5947a543fae9916
+        smiles: CNc1ccc(-c2ccccc2C(=O)Nc2cnn(C)c2)cn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1451/XX01ZVNS2B-x1451_1_B_301.ccp4
+        sha256: e651df5c8bd316a6b51aafa0754680da836c41e1c1b682b3c412b472a75f29b1
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.5
+  XX01ZVNS2B-x1470:
+    type: model_building
+    last_updated: '2023-12-01 19:27:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014897-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1470/XX01ZVNS2B-x1470.pdb
+        sha256: cceb313c4bdb81aabea2d5947397610fccb28f4835acc0b256118089aa7d5a4b
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1470/XX01ZVNS2B-x1470.mtz
+        sha256: 6391f50b9b8e1d95f85a8655a347ef4bc8af11c6e913777b57f007ff807302be
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1470/XX01ZVNS2B-x1470.cif
+        sha256: 747fccbb81f5cef4bedff0c5fe523cfef2e3033bb11e35124d86666df8fd36b4
+        smiles: COc1cc(COc2cncnc2)nc(N2CCNCC2)n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1470/XX01ZVNS2B-x1470_1_B_301.ccp4
+        sha256: 4267a48988f5efec68cb0bcba16b6c548f2cd9eda64918a7140a7680dfbaf9a2
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.3
+  XX01ZVNS2B-x1495:
+    type: model_building
+    last_updated: '2023-12-11 12:41:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014903-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1495/XX01ZVNS2B-x1495.pdb
+        sha256: b8698c2abe5cd2dbafc0f5cd8f2ea3d87d8002417f18ccc09cf019d6c74aa74a
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1495/XX01ZVNS2B-x1495.mtz
+        sha256: f692c655ba84b07a9fed416e420df9fd76fe4d4d6eb3af40e9f357dda08a0577
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1495/XX01ZVNS2B-x1495.cif
+        sha256: 195104db8bf04a2d549ba6c33605303385214e304e80dab2ee27a28671b93bd0
+        smiles: Cc1cn2ccc(C(=O)Nc3ccncc3C)cc2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1495/XX01ZVNS2B-x1495_1_B_301.ccp4
+        sha256: a06c5ce76b5c15a4997d6c439621f82026f1c604b94fc7435ae934a464f09de6
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.31
+  XX01ZVNS2B-x1596:
+    type: model_building
+    last_updated: '2023-12-11 12:42:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014939-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1596/XX01ZVNS2B-x1596.pdb
+        sha256: 25a80da7387d59bfee1dba7122baaa2c484b68eb401c3619d1632f25ecc1d8c1
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1596/XX01ZVNS2B-x1596.mtz
+        sha256: b82d43375da1d3f6787cf46b64cabf809a0a66ab7d3ddeec1ce085918643da1f
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1596/XX01ZVNS2B-x1596.cif
+        sha256: b4ea051b6573b37931989ea876a183c5aecf7c36b79a215f1bb8189103d2292e
+        smiles: COc1cc(COc2cc(C)nc3ncnn23)nc(N2CCNCC2)n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1596/XX01ZVNS2B-x1596_1_B_301.ccp4
+        sha256: 045810a3316dd86e6e9b4d047f9cffaf5758dd192c76093846b43c095ed1a219
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.47
+  XX01ZVNS2B-x1597:
+    type: model_building
+    last_updated: '2023-12-11 12:42:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0014942-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1597/XX01ZVNS2B-x1597.pdb
+        sha256: f45094558beb60709409bb4f84b4cc3ce8fba90a61c4a050b70ba36ecd58a466
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1597/XX01ZVNS2B-x1597.mtz
+        sha256: d8702846f40a8bbf99d42207cdc077bc8c6c81b9891df69abb2351076b98f82a
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1597/XX01ZVNS2B-x1597.cif
+        sha256: 87f404a83990600885cd5f361dfadeebb15d905f984a769440dc1b40fdff84b2
+        smiles: CCC(=O)Nc1cncc(C(=O)Nc2ccncc2C)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1597/XX01ZVNS2B-x1597_1_W_201.ccp4
+        sha256: d935b9a4bbce4d0d8bf18a217d6f659b05459d611ad5dbcea3daf1572286850b
+        model: '1'
+        chain: W
+        res: 201
+        index: 1
+        bdc: 0.36
+  XX01ZVNS2B-x1664:
+    type: model_building
+    last_updated: '2023-12-11 12:49:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0011172-001-002
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1664/XX01ZVNS2B-x1664.pdb
+        sha256: 3a7b7137b0d3f40885bc7b6ce3a286b9f12517014353c5ac306ce3275ca99969
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1664/XX01ZVNS2B-x1664.mtz
+        sha256: 24581bc187749b40cdf3b8fc264cb4bbc6862315332c0c0d8dbe9cce676e6668
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1664/XX01ZVNS2B-x1664.cif
+        sha256: 55d6b50b9b786a4b4cfebcd887f38177317dab813b21cb7cc4e0ad009b433fee
+        smiles: Nc1ccc2c(Cl)cccc2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1664/XX01ZVNS2B-x1664_1_B_301.ccp4
+        sha256: bb2b2b0950872aed163d7df0212ec33a5de27562116073d6528901a54958525f
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.29
+  XX01ZVNS2B-x1667:
+    type: model_building
+    last_updated: '2023-12-11 12:49:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0000865-003-002
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1667/XX01ZVNS2B-x1667.pdb
+        sha256: 30551fa75f65eead98515983ff3acaf48835e1b64861f1ec4360fae0efca7281
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1667/XX01ZVNS2B-x1667.mtz
+        sha256: 2218a68926df8c7c4a23965428384cddfb45c91dff4479b2aff9025335a138af
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1667/XX01ZVNS2B-x1667.cif
+        sha256: 759e4f29367febc6c51bd80073768beb54a4e55461255ea90620090f87517d10
+        smiles: Cc1cccc(C(=O)Nc2cc(N)ccc2C)c1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1667/XX01ZVNS2B-x1667_1_B_301.ccp4
+        sha256: f21222446b90b42e59449b58fa8873f4b56c7726bc8d2c460bf801c2caabe346
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.39
+  XX01ZVNS2B-x1674:
+    type: model_building
+    last_updated: '2024-01-19 17:23:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0011177-001-002
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1674/XX01ZVNS2B-x1674.pdb
+        sha256: 15e8051bd748a13c55a611f5ddbf490203871c2425f32a372771c2a4dd794aee
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1674/XX01ZVNS2B-x1674.mtz
+        sha256: 1aa226250931a3cc992f758f5fe2bf8f15bf895df1942b0ca0554af1b6d456d0
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1674/XX01ZVNS2B-x1674.cif
+        sha256: 1f0ff30bddac44c7022dde9de90df3dd874931621750dcc6cf8a7da696d83f0c
+        smiles: Cc1cc(N)c2ccc(Cl)c(Cl)c2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1674/XX01ZVNS2B-x1674_1_B_301.ccp4
+        sha256: cd2eae79d1ff9c84ad6a34bef52b1a095ed23a90fff0d4f3ee43e8a3b6c2eb07
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+  XX01ZVNS2B-x1680:
+    type: model_building
+    last_updated: '2023-12-11 12:44:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0011702-001-002
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1680/XX01ZVNS2B-x1680.pdb
+        sha256: 940cfb8224569dff139265c57e9807f3bd6e8aa7bb81d87c90d6ac87817f6d9a
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1680/XX01ZVNS2B-x1680.mtz
+        sha256: 1f27940bfd3837030d2faa31f8027af32ecde0905d0fcda44b1981c8e7446e75
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1680/XX01ZVNS2B-x1680.cif
+        sha256: 28d220506c5dac58f6c23a55f35453d485569451f2d1aa1c4132c4d80e683550
+        smiles: Cc1cc(N)c2cc(Cl)cc(Cl)c2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1680/XX01ZVNS2B-x1680_1_B_301.ccp4
+        sha256: c5dbfab27f74a123382a0961b70eda714bac3485515dda0e6e0574af3fc83617
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.42
+  XX01ZVNS2B-x1682:
+    type: model_building
+    last_updated: '2023-12-11 12:50:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0011703-001-002
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1682/XX01ZVNS2B-x1682.pdb
+        sha256: 86193976d546c5575578050cf119ec5fe7ac924ab39794fdda34423a8094e843
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1682/XX01ZVNS2B-x1682.mtz
+        sha256: 73ed5b9e15760f13af62ec79142dfd558f5f51490fbcc1e96a36c30f861ed930
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1682/XX01ZVNS2B-x1682.cif
+        sha256: 315356eee0fae25898c00cbe6197c883e5d2ae8bdb8c76697d936e37ade474cc
+        smiles: Nc1ccnc2c(OC(F)(F)F)cccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1682/XX01ZVNS2B-x1682_1_B_301.ccp4
+        sha256: b37e10ee201a53f1e021f486643694571b2a36cb252dfa846881ef7fa5dfb546
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.46
+  XX01ZVNS2B-x1688:
+    type: model_building
+    last_updated: '2023-12-11 12:45:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0011710-001-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1688/XX01ZVNS2B-x1688.pdb
+        sha256: 7c8d906c04ae747efd7f3adf73bf25ae6bb19b2e2c52706dc9305aec3f3b842e
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1688/XX01ZVNS2B-x1688.mtz
+        sha256: f62473483b94091b2d23e101067fea5021948caca69c40fbbee9ed18ad473947
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1688/XX01ZVNS2B-x1688.cif
+        sha256: 7e94b15c35dfae08102866b7878e60f7eb40ee99aab9f3e5a752318e55db04e5
+        smiles: Cc1nc(-c2ccc(C)c3ncccc23)c[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1688/XX01ZVNS2B-x1688_1_B_301.ccp4
+        sha256: 999158ac3b72ffa088422854c4512fdbbde10aadc434f84b63ddacfd042abc35
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.35
+  XX01ZVNS2B-x1713:
+    type: model_building
+    last_updated: '2024-02-01 17:32:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0011739-001-002
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1713/XX01ZVNS2B-x1713.pdb
+        sha256: 1ca1bccfe47880894371462060bec114cec90954a094e2402b3d928e0d452be6
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1713/XX01ZVNS2B-x1713.mtz
+        sha256: f572578c35f5f11756e77b9d8501d3e65dae2138861d7f07c5baa007a3c8a675
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1713/XX01ZVNS2B-x1713.cif
+        sha256: 370c0fb10e28045419e672821cccd24e3aa941843110431ff2ad5f11ff73d2ec
+        smiles: Nc1ccnc2c(Cl)cccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1713/XX01ZVNS2B-x1713_1_B_301.ccp4
+        sha256: 10ef3b76f68f068cba987585736fd5f2d8c41dba0e23788dd28ab47a6bb382f4
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.39
+  XX01ZVNS2B-x1715:
+    type: model_building
+    last_updated: '2024-02-01 17:32:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0011741-001-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1715/XX01ZVNS2B-x1715.pdb
+        sha256: b4a60b1d84b3741c982d42138f27b65611675d7aa9174641b2e32fb5750c5587
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1715/XX01ZVNS2B-x1715.mtz
+        sha256: 51a51b1f46158a0b19f6d421feac4b9dcb9242c79ae688f8341e14cdf37f918e
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1715/XX01ZVNS2B-x1715.cif
+        sha256: 10f8234122f5374f18161487201568c2914d024e1bb7c2b39441e25803357e77
+        smiles: Cc1cc(OCC(N)=O)c2cccc(C)c2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1715/XX01ZVNS2B-x1715_1_B_301.ccp4
+        sha256: 1d5fa5d60bac3b92c9e543323f704ee1e32ea0c68b687823dae8dd7b7d744efe
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.34
+  XX01ZVNS2B-x1716:
+    type: model_building
+    last_updated: '2024-02-01 17:33:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0011753-001-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1716/XX01ZVNS2B-x1716.pdb
+        sha256: 2536c4a7a63a59bc70685a5cf67c1dbff836b514ca3d96929fc012d85b45ffda
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1716/XX01ZVNS2B-x1716.mtz
+        sha256: 1dc7edfb8734bdd10373168fa9d3613a50204db0df1f69007e0f9e6a64adbd11
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1716/XX01ZVNS2B-x1716.cif
+        sha256: e80a24bccb515e1c0797a21b91250c1db5d958e71ba4cec4e30f1ff7ecec1809
+        smiles: CCOC(=O)c1cnc2c(C#N)cccc2c1N
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1716/XX01ZVNS2B-x1716_1_B_301.ccp4
+        sha256: 30f4d2da0d539e771b3cd076ce90b0413fc4a64cae6eb654045b90560fed0ffa
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+  XX01ZVNS2B-x1719:
+    type: model_building
+    last_updated: '2024-01-18 16:45:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0011743-001-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1719/XX01ZVNS2B-x1719.pdb
+        sha256: 35a1eac0c12aa088b496a002f1d517a361a3b5c9ece5e6ae2aa0ffa0f51b1602
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1719/XX01ZVNS2B-x1719.mtz
+        sha256: daeea1ae7a0dd1ea532576e26a7816cc839e09887eeae5403425d5e9f2029898
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1719/XX01ZVNS2B-x1719.cif
+        sha256: 0b5f2353c0e52039fa543b8c746a7f9024992de03e412d0561d32e1bedf40872
+        smiles: Nc1nc(-c2ccccn2)nc2ccccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1719/XX01ZVNS2B-x1719_1_B_301.ccp4
+        sha256: 0f53e7956c46ee57ef31da841b6b67b2e44af2e1ebf6da3975cf86cd71082dd7
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.29
+  XX01ZVNS2B-x1726:
+    type: model_building
+    last_updated: '2024-02-01 17:37:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0012429-001-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1726/XX01ZVNS2B-x1726.pdb
+        sha256: cac75a6861909cea66026f2ad65c8ee98625823534ab57df8667702f34166034
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1726/XX01ZVNS2B-x1726.mtz
+        sha256: 975b68f3c5e5d3fe555b80bfd8e526010324fb250c1dfc6824919e891fe43f9f
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1726/XX01ZVNS2B-x1726.cif
+        sha256: 6751c1d3311f111f76b786ce1c95001d4ef51c711460fba63a2eda5062ec3e7c
+        smiles: CC(=O)N[C@@H](CCCN)C(=O)Nc1cccc2c(Cl)cc(C)nc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1726/XX01ZVNS2B-x1726_1_B_301.ccp4
+        sha256: a2650d53034d25173de6deb6812b2b87d6711280ad261fd0044457a3fbc3e6cd
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.34
+  XX01ZVNS2B-x1727:
+    type: model_building
+    last_updated: '2024-02-01 17:37:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0012433-001-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1727/XX01ZVNS2B-x1727.pdb
+        sha256: 22873e8c667691105695e1b255519e9ab37c0ec88f6ba0d66ee1b5698fb808b6
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1727/XX01ZVNS2B-x1727.mtz
+        sha256: 4e6c69974ecd083032679e924417623fc193852f4361253e247cc543d93122c9
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1727/XX01ZVNS2B-x1727.cif
+        sha256: c5169c9b11779f90a93c76d25e1e1a8f305ac7c174cad3626786b293c27e1985
+        smiles: CC(=O)N[C@@H](CCCC[NH3+])C(=O)Nc1cccc2c(Cl)cc(C)nc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1727/XX01ZVNS2B-x1727_1_B_301.ccp4
+        sha256: 76515593a4d782efd713cf24349f3260b34b7e36ef89cbbb687c67e6877c2c91
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+  XX01ZVNS2B-x1728:
+    type: model_building
+    last_updated: '2024-02-01 17:38:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0012503-001-003
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1728/XX01ZVNS2B-x1728.pdb
+        sha256: e8df781baa5a4d2ee2eae30b08ac994b6a57338a1cc28eb9e679ac9aa0e32fd9
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1728/XX01ZVNS2B-x1728.mtz
+        sha256: cf598a68b13c9ffd4b4b99b127b46784258d2bcdf0ef4c306dfabe300eb42db1
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1728/XX01ZVNS2B-x1728.cif
+        sha256: 50bfd7a7ccf98d2d3343ec949f117908f245e99400888fbd232cd31f9f9adc98
+        smiles: CC(=O)N[C@@H](CCCN)C(=O)Nc1cccc2cccnc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1728/XX01ZVNS2B-x1728_1_B_301.ccp4
+        sha256: 7e1f8fe9d5c8652cc024fff54fab573d3b83099b9347a9cc90aea9ac36199db1
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.39
+  XX01ZVNS2B-x1731:
+    type: model_building
+    last_updated: '2023-12-11 12:45:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0012466-002-003
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1731/XX01ZVNS2B-x1731.pdb
+        sha256: 4d9dd48e2936bd5c9804708540b5a489c95bb538c228f71ef4c7d44ac2d11ebd
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1731/XX01ZVNS2B-x1731.mtz
+        sha256: f5aa6380acccdb868798d6ee30bb8dc1431059d934840115434979c2a0f91cf5
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1731/XX01ZVNS2B-x1731.cif
+        sha256: fb50422a7e4660f364cb3e716bb7a3fa40c72c8ef4eb2f8b66d6b36e9b42294b
+        smiles: Cc1cc(CO)c2cccc(NC(=O)C3CCNCC3)c2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1731/XX01ZVNS2B-x1731_1_B_301.ccp4
+        sha256: 567c7e5d9e994306c0a3167c91f6e547c907e105fa35f92c2f04016804df0067
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.39
+  XX01ZVNS2B-x1743:
+    type: model_building
+    last_updated: '2023-12-11 12:47:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0012607-001-003
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1743/XX01ZVNS2B-x1743.pdb
+        sha256: f7a1cb581ee26336f89ad0b782d37c79b5e11a6bef45e73fdc9de46180cec3b1
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1743/XX01ZVNS2B-x1743.mtz
+        sha256: c487226831866cdae396be48f492b81da10aec3c3c71c540d0600aaedd1eaeae
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1743/XX01ZVNS2B-x1743.cif
+        sha256: fb50422a7e4660f364cb3e716bb7a3fa40c72c8ef4eb2f8b66d6b36e9b42294b
+        smiles: Cc1cc(CO)c2cccc(NC(=O)C3CCNCC3)c2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1743/XX01ZVNS2B-x1743_1_B_301.ccp4
+        sha256: f7e1b146fe0c1fd1231dd1d1a4b34e07454497f50997538a0ba59f958c0ea563
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.41
+  XX01ZVNS2B-x1745:
+    type: model_building
+    last_updated: '2023-12-11 12:47:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: MFP-0012625-001-002
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1745/XX01ZVNS2B-x1745.pdb
+        sha256: 45a9266ba4ab2eb3bdfd9526d317e261c7a45e32841662fa4b2bf3c18d72ce83
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1745/XX01ZVNS2B-x1745.mtz
+        sha256: b53cba5a39a39a52997ae087cd3cd9d24b8ce4c5b1664be567b2050e490c6693
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1745/XX01ZVNS2B-x1745.cif
+        sha256: b6ce52e67be6e3e15bfa12b20355cec78b770686205878c7e32779ee4209adac
+        smiles: Nc1cncc2ccccc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1745/XX01ZVNS2B-x1745_1_B_301.ccp4
+        sha256: 02ecc8a6bb19db2d40b5ac6feba7dc93570d1d5f5a77aeb582bd720686804a3f
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.26
+  XX01ZVNS2B-x1752:
+    type: model_building
+    last_updated: '2024-02-01 17:45:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: 3632-093-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1752/XX01ZVNS2B-x1752.pdb
+        sha256: e122b3969ab51c2be3b6f2063d86217bfb9593b13eda08d8aee757588d865646
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1752/XX01ZVNS2B-x1752.mtz
+        sha256: 42fad521998e2d55f43ca723b41edc89dba5b6df53722f6a7ae3a0d318b25912
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1752/XX01ZVNS2B-x1752.cif
+        sha256: 47fa34516185cd710528ca3d600ab7b747e3f596ca611a6a95d527ba817bd6e3
+        smiles: CC(=O)N[C@@H](CCCN)C(=O)Nc1cccc2cccnc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1752/XX01ZVNS2B-x1752_1_B_301.ccp4
+        sha256: d3ca04f3f8a6d7ff41ab518428b827bb0157dddd8945c6b1ccc87bacc8f38bf1
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.31
+  XX01ZVNS2B-x1753:
+    type: model_building
+    last_updated: '2024-02-01 17:46:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: 3632-JP-070-004
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1753/XX01ZVNS2B-x1753.pdb
+        sha256: 49671cec6735a07188ec3e3304c27a69782ba4ec5c0edb2e09c8d3ab8934eaab
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1753/XX01ZVNS2B-x1753.mtz
+        sha256: 58d35145c058a01a0d5520aaee31aca8dd1dadeb30b9fdd130877420b6decec2
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1753/XX01ZVNS2B-x1753.cif
+        sha256: 50c1cf6f261c63f83ba0abf330b2a9bff72390eb12d816f1e2cc0f1ef52548a7
+        smiles: Cc1cc(CO)c2cccc(NC(=O)[C@H]3C[C@@H](N)C3)c2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1753/XX01ZVNS2B-x1753_1_B_301.ccp4
+        sha256: 2c49443f1c8d4d4c93f3a4c8c4a03a23ea53b9f9f4379e5bf8d72a384be7b7f9
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.35
+  XX01ZVNS2B-x1756:
+    type: model_building
+    last_updated: '2024-02-01 17:47:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: VERC112346
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1756/XX01ZVNS2B-x1756.pdb
+        sha256: 1180689195b3d8e6fd444e89aae3def3c15aea954bd27a420b202e4d92c9eaf3
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1756/XX01ZVNS2B-x1756.mtz
+        sha256: a69d07880632994b7389e37678456667f013731ebd8670bd7ce398a4ae56e082
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1756/XX01ZVNS2B-x1756.cif
+        sha256: dd69634807a6f222e696bc2acf3f0345ea0dea588e5031913f31aeb6faae4fc3
+        smiles: '[NH3+][C@@H](Cc1ccc2ccccc2n1)C(=O)[O-]'
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1756/XX01ZVNS2B-x1756_1_B_301.ccp4
+        sha256: fe29e5436f5398c338fd75c6dbea14537548ddbeed20db17dc5e7c9bac51aed3
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.34
+  XX01ZVNS2B-x1761:
+    type: model_building
+    last_updated: '2024-02-01 17:48:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: NegAcid1-Am02
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1761/XX01ZVNS2B-x1761.pdb
+        sha256: c88ca2efd5d1126a40bce2f29bd89b70d9347350e00322586de748530a2f12c4
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1761/XX01ZVNS2B-x1761.mtz
+        sha256: ef4817dad76429dcbc9728abc50b98c8bd3c8cbd4587a3d62a14497e5804dd54
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1761/XX01ZVNS2B-x1761.cif
+        sha256: 668be283a7a84784759065da61cbed91a73ac6d86ec2d53d4c7228afe108712c
+        smiles: Cc1cc(CO)c2cccc(Cc3ccccc3C(=O)N3CC[C@@H](N)C3)c2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1761/XX01ZVNS2B-x1761_1_B_301.ccp4
+        sha256: 0e03b4ab8d078fbca6cba4ed10cb9d1fffce22edfeef918ac97af6fd36d54b4f
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.28
+  XX01ZVNS2B-x1837:
+    type: model_building
+    last_updated: '2023-12-11 12:48:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: NegAcid3-Am02
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1837/XX01ZVNS2B-x1837.pdb
+        sha256: d670d66554dd7052d55daef62defd713aba05d41d4f12f8de79a175ab2f7072c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1837/XX01ZVNS2B-x1837.mtz
+        sha256: 1b36bc3f00a86cd73b8754789852f3ebc99a974f2082ad89b137c9f51d669381
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1837/XX01ZVNS2B-x1837.cif
+        sha256: 3d568e59f09d0a937bf1c6833422fa12e974fc331b5c7c8ccda195bb4077c7a6
+        smiles: Cc1cc(CO)c2cccc(CC(=O)N3CC[C@@H](N)C3)c2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1837/XX01ZVNS2B-x1837_1_B_301.ccp4
+        sha256: 753fdc87e5f3de1e4fc615addc6c1b1e2af5fa725fda4fe82cf09f524d3d7944
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.29
+  XX01ZVNS2B-x1838:
+    type: model_building
+    last_updated: '2023-12-14 15:39:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: NegAcid3-Am03
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1838/XX01ZVNS2B-x1838.pdb
+        sha256: a5fa140cdf808e6cdb24cb6ca7a5bc1a37bfd9290019db8cc350c0029fbf41ad
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1838/XX01ZVNS2B-x1838.mtz
+        sha256: 2bc86a5901bd4d3b0da871240619b5699466797a29c9b28376b1db8d8add2584
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x1838/XX01ZVNS2B-x1838.cif
+        sha256: 1f7a926e2336d17917bfd358654256b4aeb58e78352d93db4f73fe33e8105c8d
+        smiles: Cc1cc(CO)c2cccc(CC(=O)N3CC[C@@H](CN)C3)c2n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x1838/XX01ZVNS2B-x1838_1_B_301.ccp4
+        sha256: 304821057b37de3a8518f656fc6adbb3d1f7e987d9322fab6599b860f3b532b2
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.34
+  XX01ZVNS2B-x2048:
+    type: model_building
+    last_updated: '2024-02-01 17:50:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: Amine4-Ac01
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2048/XX01ZVNS2B-x2048.pdb
+        sha256: 866966f295f890958062f335d231be45854fd7f915a6c119d7e28e9ca795e07c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2048/XX01ZVNS2B-x2048.mtz
+        sha256: a7d1775fb43d78a3c54b516eff6ad3ec09a103f61221eb3f3dc7b046a9173639
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2048/XX01ZVNS2B-x2048.cif
+        sha256: b6f4dcae1074e9b144c8c17048b28faa398d7b73923d43377bd6f67c41ad3998
+        smiles: CC(=O)N[C@@H](CCCN)C(=O)Nc1cccc2c(CO)cc(C)nc12
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2048/XX01ZVNS2B-x2048_1_B_301.ccp4
+        sha256: 78394ce249988b1e75f0f9fb611cf817d98b72869600bc4bad993c5915d4ed06
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.46
+  XX01ZVNS2B-x2094:
+    type: model_building
+    last_updated: '2024-02-02 11:52:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015097-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2094/XX01ZVNS2B-x2094.pdb
+        sha256: 0fcd90be4c4c41a37ea22cbaf51ae06f10e19bedb1ac6786eed36b20a594633c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2094/XX01ZVNS2B-x2094.mtz
+        sha256: 68ddc7910b453b3c664d80b4374370ccc1a5ce599dc10a66e29f4cce1c97db05
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2094/XX01ZVNS2B-x2094.cif
+        sha256: 855e1d60d8a588d8f346caf926778aa40bbecd4d5ad992da3e589099fe00f322
+        smiles: O=C(c1csc([C@H]2CCCNC2)n1)N1CC[C@H](c2cccnc2)C1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2094/XX01ZVNS2B-x2094_1_B_301.ccp4
+        sha256: dc25d74e0fc16e402b59671a361f33d075290079f8d7ee43e1a9c0bd357b6fed
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.44
+  XX01ZVNS2B-x2119:
+    type: model_building
+    last_updated: '2024-01-19 16:56:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015164-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2119/XX01ZVNS2B-x2119.pdb
+        sha256: 3f186a5310819aca9a98a3cd3d0b71fe807275a8b1011d5becb1ae306cea0858
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2119/XX01ZVNS2B-x2119.mtz
+        sha256: feee052ff50fc2fde7c51e8cf099d8e26b915aeab2a8fdeb8243c64fd053f912
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2119/XX01ZVNS2B-x2119.cif
+        sha256: 91650bd1575b6f55b9f3adbd6e82324ba08ec635fe1df401e0d7e5026d261f3d
+        smiles: NCc1ccc(C[C@H](NC(=O)c2ccccc2)C(=O)N2CCCCC2)cc1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2119/XX01ZVNS2B-x2119_1_B_301.ccp4
+        sha256: f6f0f8a78485123222521e8f24315bf518cd896fa8fb67f8029cd2c78a5b970a
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.53
+  XX01ZVNS2B-x2126:
+    type: model_building
+    last_updated: '2024-02-01 17:53:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015080-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2126/XX01ZVNS2B-x2126.pdb
+        sha256: 085437d1391c67acb78f4718ccf7b17d2951aab244a0f353285bcd0049101837
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2126/XX01ZVNS2B-x2126.mtz
+        sha256: 4ef06fedc84ead87b59d7c711a0042104743accab22983047e2a1b360bd91eb7
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2126/XX01ZVNS2B-x2126.cif
+        sha256: 514d3e0a7c5f4096ec6ab666979f51204d697a512f0b2d7425df0fd91649ead3
+        smiles: Cn1oc(C(=O)Nc2cc(Cl)cc(C(=O)NC(C)(C)CO)c2)cc1=O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2126/XX01ZVNS2B-x2126_1_B_203.ccp4
+        sha256: b86daf6b8e757a8f2b2d0127e920809a9dc08ff448e2ba79fed332e0fdbeeeb3
+        model: '1'
+        chain: B
+        res: 203
+        index: 1
+        bdc: 0.4
+  XX01ZVNS2B-x2135:
+    type: model_building
+    last_updated: '2024-01-19 16:56:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015093-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2135/XX01ZVNS2B-x2135.pdb
+        sha256: f2b9b72386e8e1da490b489dc9d51cf7da4ca2749756bcfd5c7abffb5e27d0aa
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2135/XX01ZVNS2B-x2135.mtz
+        sha256: 890a8a8e53e278d30855059ccba6001725d97db878a24864d1ba718f3b66601d
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2135/XX01ZVNS2B-x2135.cif
+        sha256: 98b1ee97675fbc9b4f8f51425dde1cb624dc0bcec85c0aeee6e05925a21b5a4f
+        smiles: Cc1nc(CNC(=O)c2[nH]c([C@H]3CCCNC3)nc2C)c[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2135/XX01ZVNS2B-x2135_1_B_301.ccp4
+        sha256: e1a840bddfd7a80c0294109bf41bafca20c8b03c95b46ceb70852780acb07f98
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.39
+  XX01ZVNS2B-x2217:
+    type: model_building
+    last_updated: '2024-01-24 11:40:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015216-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2217/XX01ZVNS2B-x2217.pdb
+        sha256: 582077130326dbeec255c26ccb019be88ed041a15af79bd214750135c2934c86
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2217/XX01ZVNS2B-x2217.mtz
+        sha256: 7b8a0e304670eed8207cb97d2e36dfa7b89157dca3176e3306c15995c9abd2c7
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2217/XX01ZVNS2B-x2217.cif
+        sha256: b7e4b5a12a240138032ae86af2f8f4add90be8b6790212fbe53bc6286bb65ed0
+        smiles: CC(C)Nc1nc2ccc(C(=O)Nc3c[nH]c(C(N)=O)c3)cc2[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2217/XX01ZVNS2B-x2217_1_B_301.ccp4
+        sha256: 1087dbb179c59e65632e2208efad02ba5fd6e10fc3259cc38063c3d790753153
+        model: '1'
+        chain: B
+        res: 301
+        index: 2
+        bdc: 0.46
+  XX01ZVNS2B-x2235:
+    type: model_building
+    last_updated: '2024-01-19 16:57:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015259-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2235/XX01ZVNS2B-x2235.pdb
+        sha256: b58044341d9e7e4226a4c3c4261bb7d00b194738315b6f43ea8e21b8a9afea17
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2235/XX01ZVNS2B-x2235.mtz
+        sha256: c08900e25deca65252cb16d6536327f196fd6a4713366cb7c348a4d9fc777182
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2235/XX01ZVNS2B-x2235.cif
+        sha256: a789987dd8b9c309156ea15d256e883e267d68c8e56bf0509d023103df0961c6
+        smiles: CC(C)Nc1nc2ccc(C(=O)Nc3cnn(C)c3)cc2[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2235/XX01ZVNS2B-x2235_1_B_301.ccp4
+        sha256: d48a287c5358f7c2ef56c9b3fe30f9424db66bb3eb84cf35da17faa8f75b1b88
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.43
+  XX01ZVNS2B-x2262:
+    type: model_building
+    last_updated: '2024-01-19 17:00:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015286-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2262/XX01ZVNS2B-x2262.pdb
+        sha256: 4fb1cf339e26384f9d508dcc45bc1a3ebd3412f0f59298ebf9636d1250689034
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2262/XX01ZVNS2B-x2262.mtz
+        sha256: b4a33e6cbed10ffc7a9a56ff192144c56beab01aa9a29a226ab12b20b3895ce9
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2262/XX01ZVNS2B-x2262.cif
+        sha256: 3480d9977f13200dc0625608b261a33d201cb97622579c7e5c9bb5b58b33deb0
+        smiles: Cc1nc([C@H]2CCCNC2)[nH]c1C(=O)Nc1ccccn1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2262/XX01ZVNS2B-x2262_1_B_301.ccp4
+        sha256: bff17b0a6df095efde3518bb37c3f58a3299e03946cd645389065083e4d4ffcb
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.42
+  XX01ZVNS2B-x2306:
+    type: model_building
+    last_updated: '2024-01-19 17:00:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015288-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2306/XX01ZVNS2B-x2306.pdb
+        sha256: 086494c8b732fda7e93af498c3d8ab3816b3e5b2a2c0f01813abc92f3fb6ed0c
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2306/XX01ZVNS2B-x2306.mtz
+        sha256: 18f2e07012f400067f0e0c981635a955f24298d859597219ebf1b7c6bcd6cacb
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2306/XX01ZVNS2B-x2306.cif
+        sha256: 828ac1e132c838937762efd23e46529fb5903258ebc4b4f7b56ca290f1f520bc
+        smiles: CC(C)Nc1nc2ccc(C(=O)Nc3nnc4cccnn34)cc2[nH]1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2306/XX01ZVNS2B-x2306_1_B_301.ccp4
+        sha256: ab4f996e1bef9b165af158d1179bc0c81cc13211cceef563eab92bc586e93283
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.33
+  XX01ZVNS2B-x2439:
+    type: model_building
+    last_updated: '2024-01-19 17:00:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015487-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2439/XX01ZVNS2B-x2439.pdb
+        sha256: 302c2f33ecb173bfaa06908d98989cb5967cb2b32667d69775fcc8296d78378d
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2439/XX01ZVNS2B-x2439.mtz
+        sha256: bd24606766f1a546c7ea41a77baed3bd8b2f37cbccb986be19ae2faad7243933
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2439/XX01ZVNS2B-x2439.cif
+        sha256: fcd574bc9eeb2de8b14adbbfff21188f20cf227ddb6bc6ef59d058967990b4cd
+        smiles: Cc1cnccc1NC(=O)c1cccn(C[C@@H]2CCNC2)c1=O
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2439/XX01ZVNS2B-x2439_1_B_301.ccp4
+        sha256: aafbad9f65c21cf20bebdce4c318b4830286f9a7144e22f616abb5e389e7592f
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.48
+  XX01ZVNS2B-x2500:
+    type: model_building
+    last_updated: '2024-01-24 12:03:00'
+    refinement_outcome: 5 - Deposition ready
+    compound_code: ASAP-0015442-001
+    code_prefix: Z
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2500/XX01ZVNS2B-x2500.pdb
+        sha256: 4197371239f3dc9f3bce737ceca30fb7e1a9095f57821100c4af2497913bb15a
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2500/XX01ZVNS2B-x2500.mtz
+        sha256: a4e7e0b08e61c443e1a7ecc052cb356d95d9a5f40929aa05c8a28cac8ca907a6
+      ligand_cif:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x2500/XX01ZVNS2B-x2500.cif
+        sha256: 6dcdb9af01bf360aa2ed2ab54512c14af48fa599b42492a7cd875db8cefe8143
+        smiles: COc1cc(Cc2ccnc(N3CCNCC3)c2)nc(N2CCNCC2)n1
+      panddas_event_files:
+      - file: upload_1/crystallographic_files/XX01ZVNS2B-x2500/XX01ZVNS2B-x2500_1_B_301.ccp4
+        sha256: d59dcec3c09eb31c9f3f2f7111f679567f22a9d75c95b98f850aed8c9057c217
+        model: '1'
+        chain: B
+        res: 301
+        index: 1
+        bdc: 0.39
+  XX01ZVNS2B-x0075:
+    reference: true
+    code_prefix: Z
+    type: manual
+    crystallographic_files:
+      xtal_pdb:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075.pdb
+        sha256: b41a755c683e1d6246537e6270ff1f4cddb80f2805c7718e85e8e11e98eac6d5
+      xtal_mtz:
+        file: upload_1/crystallographic_files/XX01ZVNS2B-x0075/XX01ZVNS2B-x0075.mtz
+        sha256: 768972686d453d356e39e04c87e3de09e6dd10b0774314a65c1059646612b636

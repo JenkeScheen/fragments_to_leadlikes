@@ -1,0 +1,38 @@
+COMPND    XX01ZVNS2B-x1237_B_301_XX01ZVNS2B-x1291+B+301+1
+HETATM    1  C1  UNL     1      -8.606   6.739 -11.527  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -8.580   5.345 -10.954  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -8.654   5.162  -9.582  1.00  0.00           C  
+HETATM    4  N1  UNL     1      -8.638   3.951  -9.000  1.00  0.00           N  
+HETATM    5  C4  UNL     1      -8.539   2.886  -9.800  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -8.464   2.960 -11.165  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -8.481   4.209 -11.764  1.00  0.00           C  
+HETATM    8  N2  UNL     1      -8.403   4.325 -13.172  1.00  0.00           N  
+HETATM    9  C7  UNL     1      -7.410   4.919 -13.887  1.00  0.00           C  
+HETATM   10  O1  UNL     1      -6.500   5.552 -13.364  1.00  0.00           O  
+HETATM   11  C8  UNL     1      -7.512   4.784 -15.347  1.00  0.00           C  
+HETATM   12  C9  UNL     1      -8.652   4.428 -16.097  1.00  0.00           C  
+HETATM   13  C10 UNL     1      -8.321   4.435 -17.430  1.00  0.00           C  
+HETATM   14  C11 UNL     1      -9.104   4.136 -18.629  1.00  0.00           C  
+HETATM   15  C12 UNL     1     -10.586   3.949 -18.534  1.00  0.00           C  
+HETATM   16  C13 UNL     1      -9.716   2.780 -18.777  1.00  0.00           C  
+HETATM   17  N3  UNL     1      -6.993   4.788 -17.551  1.00  0.00           N  
+HETATM   18  C14 UNL     1      -6.250   4.909 -18.806  1.00  0.00           C  
+HETATM   19  C15 UNL     1      -6.480   5.010 -16.249  1.00  0.00           C  
+HETATM   20  C16 UNL     1      -5.061   5.406 -16.036  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    3    7
+CONECT    3    4
+CONECT    4    5    5
+CONECT    5    6
+CONECT    6    7    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10   10   11
+CONECT   11   12   19   19
+CONECT   12   13   13
+CONECT   13   14   17
+CONECT   14   15   16
+CONECT   15   16
+CONECT   17   18   19
+CONECT   19   20
+END

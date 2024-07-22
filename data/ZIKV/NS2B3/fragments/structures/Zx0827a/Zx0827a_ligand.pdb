@@ -1,0 +1,31 @@
+COMPND    XX01ZVNS2B-x0827_B_203_XX01ZVNS2B-x1291+B+301+1
+HETATM    1  C1  UNL     1      -5.968   5.894 -16.559  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -5.452   5.762 -17.804  1.00  0.00           C  
+HETATM    3  N1  UNL     1      -6.383   5.211 -18.645  1.00  0.00           N  
+HETATM    4  C3  UNL     1      -7.314   5.388 -16.611  1.00  0.00           C  
+HETATM    5  C4  UNL     1      -7.539   4.966 -17.939  1.00  0.00           C  
+HETATM    6  C5  UNL     1      -8.726   4.368 -18.337  1.00  0.00           C  
+HETATM    7  C6  UNL     1      -9.701   4.144 -17.386  1.00  0.00           C  
+HETATM    8  C7  UNL     1      -9.504   4.535 -16.072  1.00  0.00           C  
+HETATM    9  C8  UNL     1      -8.342   5.181 -15.665  1.00  0.00           C  
+HETATM   10  C9  UNL     1      -8.251   5.718 -14.241  1.00  0.00           C  
+HETATM   11  C10 UNL     1      -8.550   4.650 -13.178  1.00  0.00           C  
+HETATM   12  C11 UNL     1      -8.203   5.135 -11.770  1.00  0.00           C  
+HETATM   13  C12 UNL     1      -7.004   6.538 -13.872  1.00  0.00           C  
+HETATM   14  N2  UNL     1      -6.105   5.770 -13.001  1.00  0.00           N  
+HETATM   15  C13 UNL     1      -6.716   5.490 -11.677  1.00  0.00           C  
+CONECT    1    2    2    4
+CONECT    2    3
+CONECT    3    5
+CONECT    4    5    9    9
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11   13
+CONECT   11   12
+CONECT   12   15
+CONECT   13   14
+CONECT   14   15
+END

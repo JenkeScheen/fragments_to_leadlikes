@@ -1,0 +1,48 @@
+COMPND    XX01ZVNS2B-x2306_B_301_XX01ZVNS2B-x1291+B+301+1
+HETATM    1  C1  UNL     1      -2.249   7.072 -20.574  1.00  0.00           C  
+HETATM    2  C2  UNL     1      -2.881   5.710 -20.794  1.00  0.00           C  
+HETATM    3  C3  UNL     1      -2.357   4.663 -19.825  1.00  0.00           C  
+HETATM    4  N1  UNL     1      -4.348   5.807 -20.743  1.00  0.00           N  
+HETATM    5  C4  UNL     1      -5.144   5.538 -19.684  1.00  0.00           C  
+HETATM    6  N2  UNL     1      -6.396   5.148 -19.827  1.00  0.00           N  
+HETATM    7  C5  UNL     1      -6.890   5.101 -18.525  1.00  0.00           C  
+HETATM    8  C6  UNL     1      -8.146   4.717 -18.054  1.00  0.00           C  
+HETATM    9  C7  UNL     1      -8.373   4.762 -16.701  1.00  0.00           C  
+HETATM   10  C8  UNL     1      -7.401   5.233 -15.806  1.00  0.00           C  
+HETATM   11  C9  UNL     1      -7.607   5.354 -14.329  1.00  0.00           C  
+HETATM   12  O1  UNL     1      -7.013   6.210 -13.693  1.00  0.00           O  
+HETATM   13  N3  UNL     1      -8.393   4.422 -13.720  1.00  0.00           N  
+HETATM   14  C10 UNL     1      -8.503   4.338 -12.337  1.00  0.00           C  
+HETATM   15  N4  UNL     1      -8.538   3.237 -11.606  1.00  0.00           N  
+HETATM   16  N5  UNL     1      -8.627   3.603 -10.252  1.00  0.00           N  
+HETATM   17  C11 UNL     1      -8.676   4.941 -10.226  1.00  0.00           C  
+HETATM   18  C12 UNL     1      -8.781   5.856  -9.158  1.00  0.00           C  
+HETATM   19  C13 UNL     1      -8.834   7.194  -9.487  1.00  0.00           C  
+HETATM   20  C14 UNL     1      -8.763   7.604 -10.857  1.00  0.00           C  
+HETATM   21  N6  UNL     1      -8.658   6.773 -11.865  1.00  0.00           N  
+HETATM   22  N7  UNL     1      -8.614   5.436 -11.492  1.00  0.00           N  
+HETATM   23  C15 UNL     1      -6.161   5.628 -16.275  1.00  0.00           C  
+HETATM   24  C16 UNL     1      -5.918   5.555 -17.631  1.00  0.00           C  
+HETATM   25  N8  UNL     1      -4.827   5.886 -18.410  1.00  0.00           N  
+CONECT    1    2
+CONECT    2    3    4
+CONECT    4    5
+CONECT    5    6    6   25
+CONECT    6    7
+CONECT    7    8    8   24
+CONECT    8    9
+CONECT    9   10   10
+CONECT   10   11   23
+CONECT   11   12   12   13
+CONECT   13   14
+CONECT   14   15   15   22
+CONECT   15   16
+CONECT   16   17   17
+CONECT   17   18   22
+CONECT   18   19   19
+CONECT   19   20
+CONECT   20   21   21
+CONECT   21   22
+CONECT   23   24   24
+CONECT   24   25
+END
