@@ -1,0 +1,311 @@
+{
+    "SARS2_Mac1A-A0006": {
+        "SMILES": "C1:C:C2:C(N3CCC(N4:C:N:C:N:4)C3):N:C:N:C:2:N:1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0935695476366377
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0035": {
+        "SMILES": "CN1CCOC2:C:C:C:C(NC(=O)NC3:C:N:C4:N:N:C:C:4:C:3):C:21",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0241_0A",
+                "FRAGMENT_SMILES": "NC1:C:N:C2:N:N:C:C:2:C:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.054552138714876706
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0049": {
+        "SMILES": "CC1:C:C:N:C(C2CCN(C3:N:C:N:C4:N:C:C:C:3:4)CC2):N:1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09049252890447596
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0050": {
+        "SMILES": "O=S1(=O)CCCC(CNC2:N:C:N:C3:N:N:C:C:2:3)C1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "SARS2_Mac1A-A0060": {
+        "SMILES": "O=C(NC1:C:N:C2:N:N:C:C:2:C:1)C1:C:C:N:C:C:1Cl",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0241_0A",
+                "FRAGMENT_SMILES": "NC1:C:N:C2:N:N:C:C:2:C:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0484177722649914
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0071": {
+        "SMILES": "O=C(C1:N:C:N:C2:N:C:C:C:1:2)N1CCCCCC1C(:O):O",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09547005506291843
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0089": {
+        "SMILES": "CC1:N:C2:N:C:N:C(NC(=O)C3CCOC3C):C:2:C:1C",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.105727785799871
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0144": {
+        "SMILES": "CC1:C:C:C(S(=O)(=O)NC2:C:C:C:C:C:2F):C:C:1C(=O)NC1:C:N:C2:N:N:C:C:2:C:1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0241_0A",
+                "FRAGMENT_SMILES": "NC1:C:N:C2:N:N:C:C:2:C:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.04887505513331346
+            },
+            {
+                "FRAGMENT_NAME": "Mac1-UCSF-P0337_0A",
+                "FRAGMENT_SMILES": "CC1:C:C:C(S(N)(=O)=O):C:C:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.6607952091338268
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0173": {
+        "SMILES": "CC1:C:C:N:C(C2CCN(C3:N:C:N:C4:N:C:C:C:3:4)CC2):N:1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0943760408971
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0225": {
+        "SMILES": "CO1C2CN(C(=O)C3:N:C:N:C4:N:C:C:C:3:4)CC21C(O)O",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09117239224329822
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0306": {
+        "SMILES": "O=C(NC1:C:C:C(C(=O)NCC2:C(C(:O):O):N:C3:C:C:C:C:C:2:3):C:C:1)NC1CC1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "SARS2_Mac1A-A0594": {
+        "SMILES": "CC(C)C(NC1:N:C:N:C2:N:C:C:C:1:2)C(F)F",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0989241819656162
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0595": {
+        "SMILES": "CC(C)C(CO)NC1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10217985246351297
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0604": {
+        "SMILES": "CC(C)C(NC1:N:C:N:C2:N:C:C:C:1:2)C(N)=O",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.08851598752454636
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0621": {
+        "SMILES": "CC(C)C1C(=O)NCCN1C1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10016957595012899
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0630": {
+        "SMILES": "CC(C)C(CO)NC1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09751319326236485
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0662": {
+        "SMILES": "O=C(NC(C(:O):O)C1:C:C:C2:C(:C:1)CCO2)C1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.08897814070350316
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0763": {
+        "SMILES": "O=C(NC(CC(:O):O)C1:C:C:C(F):C:C:1)C1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09504163538767071
+            }
+        ]
+    },
+    "SARS2_Mac1A-A0776": {
+        "SMILES": "CN(C)C1:C:C:C(C(=O)NC(CC(:O):O)C2:C:C:C(Br):C:C:2):N:C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "SARS2_Mac1A-A0780": {
+        "SMILES": "CN1:N:C:C2:C(C(=O)NC(CC(:O):O)C3:C:C:C(Br):C:C:3):C:C:N:C:2:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "SARS2_Mac1A-A0852": {
+        "SMILES": "O=C(NC(CC(O)O)C1:C:C:C(Br):C:C:1)C1:C:C:C2:N:C:C:C:2:N:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "SARS2_Mac1A-A0879": {
+        "SMILES": "O=C(NC(CC(:O):O)C1CCC(Br)CC1)C1:C:N:C2:N:C:C:C:2:C:1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-UCSF-P0282_0A",
+                "FRAGMENT_SMILES": "C1:C:N:C2:N:C:C:C:2:C:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.04394912069064463
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1013": {
+        "SMILES": "O:C(:O)C(NC1:N:C:N:C2:N:C:C:C:1:2)C1:C:C:C2:C(:C:1)OCCO2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.12392687094471218
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1047": {
+        "SMILES": "CC(NC1:N:C:N:C2:N:C:C:C:1:2)C1CCOC1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09299952092612009
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1155": {
+        "SMILES": "O=C(NC1:C:C:C(C(=O)NC(CC(:O):O)C2:C:C:C:C(C(F)F):C:2):C:C:1)NC1CC1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "SARS2_Mac1A-A1179": {
+        "SMILES": "CC(C)C(NC1:N:C:N:C2:N:C:C:C:1:2)C(:O):O",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10104555608488833
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1188": {
+        "SMILES": "O:C(:O)C(CC1CC1)NC1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10195623387060848
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1201": {
+        "SMILES": "O:C(:O)C1CC(O)CN1C1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10596821308041547
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1210": {
+        "SMILES": "O:C(:O)C(CC1CC1)NC1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.08245883897691818
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1219": {
+        "SMILES": "O:C(:O)C(CC1CC1)NC1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09297567217037929
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1222": {
+        "SMILES": "O:C(:O)C1CC(O)CN1C1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10690700470763011
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1251": {
+        "SMILES": "O:C(:O)C(CC1CC1)NC1:N:C:N:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10480697617533098
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1381": {
+        "SMILES": "COC1:C:C:C(C(CC2:N:N:N:N:2)NC(=O)C2:N:C:N:C3:N:C:C:C:2:3):C:C:1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09489941855849958
+            }
+        ]
+    },
+    "SARS2_Mac1A-A1386": {
+        "SMILES": "CNC(=O)C1:C:C2:C(NC(C3:C:C:C4:C(:C:3)OCCO4)C(C)C):N:C:N:C:2:N:1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
+                "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.08662238410924719
+            }
+        ]
+    }
+}

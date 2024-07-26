@@ -1,0 +1,10 @@
+extracted fragments using pymol:
+
+{load all PDBs}
+remove solvent
+remove inorganic
+remove polymer
+remove resn DMS
+remove resn cl
+remove resn so4
+{write structures to ../fragments.sdf}
