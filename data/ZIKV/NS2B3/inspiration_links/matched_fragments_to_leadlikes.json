@@ -1,0 +1,70 @@
+{
+    "XX01ZVNS2B-x2992_ASAP-0016806": {
+        "SMILES": "NCC1:C:C:C:C(NC(=O)C2:C:C(Cl):C:C(NC(=O)OCC3:C:C:C:C:C:3):C:2):C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3021_ASAP-0017670": {
+        "SMILES": "NCCC1:C:C:C:C(NC(=O)C2:C:C(Cl):C:C(NC(=O)OCC3:C:C:C:C:C:3):C:2):C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3024_ASAP-0017692": {
+        "SMILES": "NCCC1:C:C:C(NC(=O)C2:C:C(Cl):C:C(NC(=O)OCC3:C:C:C:C:C:3):C:2):C:C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3028_ASAP-0017733": {
+        "SMILES": "CC(N)C1:C:C:C(NC(=O)C2:C:C(Cl):C:C(NC(=O)OCC3:C:C:C:C:C:3):C:2):C:C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3059_ASAP-0020915": {
+        "SMILES": "O=C(NC1:C:C(Cl):C:C(C(=O)NC2:C:C:C3:C:N:C:C:3:C:2):C:1)OCC1:C:C:C:C:C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3060_ASAP-0020849": {
+        "SMILES": "NCC1:C:C:C:C(NC(=O)C2:C:C(Cl):C:C(CN):C:2):C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3093_ASAP-0022474": {
+        "SMILES": "NCC1:C:C:C:C(NC(=O)C2:C:C:C:N3:C:C(CN4CCCC4):N:C:2:3):C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3093_ASAP-0022538": {
+        "SMILES": "CC(C)C1:N:C2:C:C:C:C(C(=O)NC3:C:C:C:C(CN):C:3):C:2:N:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3264-ASAP-0027707": {
+        "SMILES": "NCC1:C:C(Cl):C:C(C(=O)NC2:C:C:C:C(C3:N:N:N:N:3):C:2):C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3394-ASAP-0028904": {
+        "SMILES": "N#CC(NC1:C:C:C2:C(:C:1)CNC2)C1:C:C(Cl):C:C2:N:N:C:C:1:2",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3397-ASAP-0029000": {
+        "SMILES": "CC(C)NC(=O)C(NC1:C:C:C2:C(:C:1)CNC2)C1:C:C(Cl):C:C2:N:N:C:C:1:2",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3400-ASAP-0029002": {
+        "SMILES": "O=C(NC1:C:C:C2:C(:C:1)CNC2)C1:C:C(Br):C:C2:N:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3432-ASAP-0029045": {
+        "SMILES": "O=C(NC1:C:C:C2:C(:C:1)CNC2)C1:C:C(Br):C:C2:C:C:C:C:C:1:2",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3439-ASAP-0029491": {
+        "SMILES": "O=C(NCC(F)F)C(NC1:C:C:C2:C(:C:1)CNC2)C1:C:C(Cl):C:C(C2CC2):C:1",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3440-ASAP-0029424": {
+        "SMILES": "O=C(NC1:C:C:C2:C(:C:1)CNCCO2)C1:C:C(Cl):C:C2:N:N:C:C:1:2",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3441-ASAP-0029497": {
+        "SMILES": "O=C(NC1:C:C:C2:C(:C:1)CNC2)C1:C:C(F):C:C2:N:N:C:C:1:2",
+        "MATCHED_FRAGMENTS": []
+    },
+    "XX01ZVNS2B-x3452-ASAP-0029394": {
+        "SMILES": "O=C(NC1:C:C:C2:C(:C:1)CNC2)C1:C:C(F):C:C2:N:N:N:C:1:2",
+        "MATCHED_FRAGMENTS": []
+    }
+}
