@@ -1,0 +1,25 @@
+COMPND    A71EV2A-x0305_A_147_1_A71EV2A-x0541+A+147+1
+HETATM    1  F1  UNL     1       8.044  15.058   2.607  1.00  0.00           F  
+HETATM    2  C1  UNL     1       8.037  13.748   2.934  1.00  0.00           C  
+HETATM    3  C2  UNL     1       8.435  12.755   1.973  1.00  0.00           C  
+HETATM    4  C3  UNL     1       9.329  13.055   0.809  1.00  0.00           C  
+HETATM    5  C4  UNL     1       8.138  11.468   2.296  1.00  0.00           C  
+HETATM    6  C5  UNL     1       7.532  11.168   3.479  1.00  0.00           C  
+HETATM    7  C6  UNL     1       7.202  12.152   4.443  1.00  0.00           C  
+HETATM    8  C7  UNL     1       7.460  13.442   4.144  1.00  0.00           C  
+HETATM    9  S1  UNL     1       7.017  14.699   5.238  1.00  0.00           S  
+HETATM   10  O1  UNL     1       8.070  15.619   5.161  1.00  0.00           O  
+HETATM   11  O2  UNL     1       6.509  14.344   6.503  1.00  0.00           O  
+HETATM   12  N1  UNL     1       5.739  15.391   4.506  1.00  0.00           N  
+HETATM   13  C8  UNL     1       5.575  16.836   4.461  1.00  0.00           C  
+CONECT    1    2
+CONECT    2    3    3    8
+CONECT    3    4    5
+CONECT    5    6    6
+CONECT    6    7
+CONECT    7    8    8
+CONECT    8    9
+CONECT    9   10   10   11   11
+CONECT    9   12
+CONECT   12   13
+END

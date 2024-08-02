@@ -1,0 +1,42 @@
+{
+    "A71EV2A-x0207_A_151_1_A71EV2A-x0526+A+147+1": {
+        "SMILES": "CC1=NOC(C(=O)NCC2CCOC2)=C1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "A71EV2A-x0207_A_151_1_A71EV2A-x0526+A+147+1",
+                "FRAGMENT_SMILES": "CC1=NOC(C(=O)NCC2CCOC2)=C1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
+            }
+        ]
+    },
+    "A71EV2A-x1346_A_250_1_A71EV2A-x0526+A+147+1": {
+        "SMILES": "CC1=NN(C)C(C)=C1CC(=O)NC(CNC(=O)CCl)C1=CC=C2C=CC=CC2=C1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "A71EV2A-x1346_A_250_1_A71EV2A-x0526+A+147+1",
+                "FRAGMENT_SMILES": "CC1=NN(C)C(C)=C1CC(=O)NC(CNC(=O)CCl)C1=CC=C2C=CC=CC2=C1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
+            }
+        ]
+    },
+    "A71EV2A-x1431_B_201_1_A71EV2A-x0526+A+147+1": {
+        "SMILES": "CN1C=C(NC(=O)CC#N)C(C(F)F)=N1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "A71EV2A-x1431_B_201_1_A71EV2A-x0526+A+147+1",
+                "FRAGMENT_SMILES": "CN1C=C(NC(=O)CC#N)C(C(F)F)=N1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 6.964652474786963e-07
+            }
+        ]
+    },
+    "A71EV2A-x1445_B_201_1_A71EV2A-x0526+A+147+1": {
+        "SMILES": "COC1=NN(C)C(NC(=O)CC(C)C(F)(F)F)=C1",
+        "MATCHED_FRAGMENTS": [
+            {
+                "FRAGMENT_NAME": "A71EV2A-x1445_B_201_1_A71EV2A-x0526+A+147+1",
+                "FRAGMENT_SMILES": "COC1=NN(C)C(NC(=O)CC(C)C(F)(F)F)=C1",
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
+            }
+        ]
+    }
+}

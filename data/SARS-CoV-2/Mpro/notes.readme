@@ -1,0 +1,14 @@
+This is almost exclusively Moonshot data. For the leadlikes, compounds under MW 250 were removed and all Tags except "XChem Screen - *", "Crystal contact" and "Surface" were downloaded. For fragments, only compounds in Tags "XChem Screen - *" were downloaded. See https://fragalysis-legacy.xchem.diamond.ac.uk/viewer/react/preview/target/Mpro/tas/lb18145-1
+
+Potencies for some of the leadlikes can be found here: 
+
+https://app.postera.ai/account/molecule-set/39d706a6-d1ff-4fc8-a8c6-681a5eb92783?viewer=b3cc3cbd-cfd5-466d-a6b6-8c7790b7eafa
+
+for which the assay protocols can be found here: 
+
+https://asapdiscovery.notion.site/MERS-CoV-SARS-CoV-2-Main-Protease-Mpro-program-March-2024-35dfdcf42ffb4d1ebc8a164d681b68eb
+
+The assay protocols and other details for structural biology of this target and its crystal screens can be found here: 
+
+https://asapdiscovery.org/outputs/target-enabling-packages/#ASAP-COV-MPRO
+
