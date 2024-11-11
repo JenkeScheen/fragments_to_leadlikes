@@ -1,0 +1,772 @@
+Molecule Name,CDD Number,SMILES,SARS-CoV-2-NSP3-MAC1_TR-FRET-dose-response_weizmann: pIC50_Mean,SARS-CoV-2-NSP3-MAC1_TR-FRET-dose-response_weizmann: pIC50_Mean Standard Deviation (±),SARS-CoV-2-NSP3-MAC1_TR-FRET-dose-response_weizmann: pIC50_Mean Count,SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Run Date,SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Experiment Status,SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Soaking time,SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Crystal mounting result,SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Completeness (High res shell),SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Space Group,SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Ligand confidence,SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Fragalysis Link,SARS-COV-2-NSP3-MAC1_X-ray_Diamond: CChalf (overall),SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Completeness (overall),SARS-COV-2-NSP3-MAC1_X-ray_Diamond: ISig(I) (overall),SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Refinement Rwork,SARS-COV-2-NSP3-MAC1_X-ray_Diamond: Refinement Rfree,worked
+ASAP-0010739,,CC(C)[C@@H](Nc1ncnc(N)c1Cl)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,21:40:24,OK: No comment:No comment,47.4,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0010739-001/L/P/C,,,,,,True
+ASAP-0000453,,CC(C)[C@H](CO)Nc1ncnc2[nH]ccc12,,,,2023-11-21,CompChem ready,21:40:24,OK: No comment:No comment,6.7,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0000453-001/L/P/C,,,,,,True
+ASAP-0000495,,OC(=O)[C@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc2c(c1)CCO2,,,,2023-11-21,Deposition ready,01:03:36,OK: No comment:No comment,33.0,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000495-001/L/P/C,,,,,,True
+ASAP-0013389,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnc(N)nc3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,,,32.5,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013389-001/L/P/C,,,,,,True
+ASAP-0000131,,OC(=O)c1[nH]c2ccccc2c1CNC(=O)c1ccc(NC(=O)NC2CC2)cc1,,,,2023-11-21,Deposition ready,01:16:53,OK: No comment:No comment,90.7,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000131-001/L/P/C,,,,,,True
+ASAP-0013738,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(n1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,31/12/1899 21:49:27,,5.8,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013738-001/L/P/C,,,,,,True
+ASAP-0013255,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(c1)NC(=O)CO2,,,,2023-11-21,CompChem ready,,,45.1,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013255-001/L/P/C,,,,,,True
+ASAP-0011207,,CC(C)[C@@H](Nc1ncnc2[nH]cc(C(=O)NC3CC3)c12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,00:05:40,,51.8,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011207-001/L/P/C,,,,,,True
+ASAP-0008348,,CNC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,01:46:00,OK: No comment:No comment,50.8,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0008348-001/L/P/C,,,,,,True
+ASAP-0013388,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cn[nH]c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,,,7.9,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013388-001/L/P/C,,,,,,True
+ASAP-0012318,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCO2,,,,2023-11-21,CompChem ready,00:05:40,,6.0,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0012318-001/L/P/C,,,,,,True
+ASAP-0008347,,O=C(O)[C@@H](CC1CC1)Nc1ncnc2[nH]ccc12,,,,2023-11-21,CompChem ready,01:29:46,OK: No comment:No comment,100.0,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0008347-001/L/P/C,,,,,,True
+ASAP-0000090,,C[C@H]1OCC[C@H]1C(=O)Nc1ncnc2[nH]c(C)c(C)c12,,,,2023-11-21,Deposition ready,02:11:00,OK: No comment:No comment,25.6,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000090-001/L/P/C,,,,,,True
+ASAP-0011428,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,00:04:51,,98.2,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011428-001/L/P/C,,,,,,True
+ASAP-0000620,,OC(=O)C[C@@H](NC(=O)c1ccc2[nH]ccc2n1)c1ccc(Br)cc1,,,,2023-11-21,CompChem ready,01:23:20,OK: No comment:No comment,24.6,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000620-001/L/P/C,,,,,,True
+ASAP-0014597,,CC(=O)N1[C@@H]2CC[C@H]1c1c(ncnc1N[C@@H](c1ccc3c(c1)S(=O)(=O)CCC3)C(C)C)C2,,,,2023-11-21,CompChem ready,,,94.3,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0014597-001/L/P/C,,,,,,True
+ASAP-0000670,,OC(=O)C[C@@H](NC(=O)c1cnc2[nH]ccc2c1)c1ccc(Br)cc1,,,,2023-11-21,CompChem ready,01:17:24,OK: No comment:No comment,65.2,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000670-001/L/P/C,,,,,,True
+ASAP-0000452,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)C(F)F,,,,2023-11-21,Deposition ready,01:36:07,OK: No comment:No comment,32.4,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000452-001/L/P/C,,,,,,True
+ASAP-0011204,,CCNC(=O)c1cc2c(N[C@@H](c3ccc4ncn(C)c(=O)c4c3)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,00:05:40,,74.1,P 1 21 1,High confidence,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011204-001/L/P/C,,,,,,True
+ASAP-0011176,,CNCc1cc(-c2cc3c(N[C@@H](c4ccc5c(c4)S(=O)(=O)CCC5)C(C)C)ncnc3[nH]2)co1,,,,2023-11-21,CompChem ready,23:58:24,OK: No comment:No comment,3.6,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011176-001/L/P/C,,,,,,True
+ASAP-0000072,,OC(=O)[C@H]1CCCCCN1C(=O)c1ncnc2[nH]ccc12,,,,2023-11-21,Deposition ready,02:00:00,OK: No comment:No comment,73.3,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000072-001/L/P/C,,,,,,True
+ASAP-0008287,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1cnn(C)c1,,,,2023-11-21,CompChem ready,21:40:24,OK: No comment:No comment,5.8,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0008287-001/L/P/C,,,,,,True
+ASAP-0013385,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccc4c(c3)C(C)(C)C(=O)N4)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,,,34.2,P 1 21 1,High confidence,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013385-001/L/P/C,,,,,,True
+ASAP-0011076,,CCNC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)S(=O)(=O)NCC4)C(C)C)ncnc2[nH]1,6.89,0.133,4.0,2023-11-21,CompChem ready,00:05:39,,61.7,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011076-001/L/P/C,,,,,,True
+ASAP-0013775,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccn4cnnc4c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,31/12/1899 21:49:27,,99.6,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013775-001/L/P/C,,,,,,True
+ASAP-0010716,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(n1)OCCO2,,,,2023-11-21,CompChem ready,02/04/1900 19:54:14,,98.8,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0010716-001/L/P/C,,,,,,True
+ASAP-0000593,,OC(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccncc1,,,,2023-11-21,CompChem ready,02:05:45,OK: No comment:No comment,32.2,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000593-001/L/P/C,,,,,,True
+ASAP-0012336,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)N[C@H]3CCN(C)C3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,01:52:41,OK: No comment:No comment,16.4,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0012336-001/L/P/C,,,,,,True
+ASAP-0008351,,O=C(O)[C@@H]1C[C@@H](O)CN1c1ncnc2[nH]ccc12,,,,2023-11-21,CompChem ready,01:31:18,OK: No comment:No comment,35.0,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0008351-001/L/P/C,,,,,,True
+ASAP-0012346,,CNC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,21:40:24,OK: No comment:No comment,70.3,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0012346-001/L/P/C,,,,,,True
+ASAP-0000753,,Cn1c(C(O)=O)c(NC(=O)c2ccc(NC(=O)NC3CC3)cc2)c2cccnc12,,,,2023-11-21,CompChem ready,01:17:19,OK: No comment:No comment,93.3,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000753-001/L/P/C,,,,,,True
+ASAP-0012317,,CCNC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCO4)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,00:05:40,,24.2,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0012317-001/L/P/C,,,,,,True
+ASAP-0008379,,O=C(O)[C@H](CC1CC1)Nc1ncnc2[nH]ccc12,,,,2023-11-21,CompChem ready,01:25:32,OK: No comment:No comment,97.3,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0008379-001/L/P/C,,,,,,True
+ASAP-0013827,,CCNC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,,,6.2,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013827-001/L/P/C,,,,,,True
+ASAP-0011221,,Cn1ncc(-c2cc3c(N[C@@H](c4ccc5c(n4)OCCO5)C(C)(C)C)ncnc3[nH]2)c1C#N,,,,2023-11-21,CompChem ready,23:58:24,OK: No comment:No comment,18.5,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011221-001/L/P/C,,,,,,True
+ASAP-0000455,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1cccs1,,,,2023-11-21,CompChem ready,21:40:24,OK: No comment:No comment,6.5,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0000455-001/L/P/C,,,,,,True
+ASAP-0013839,,CC(C)[C@H](Nc1ncnc2c1OCCO2)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,,,95.4,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013839-001/L/P/C,,,,,,True
+ASAP-0000462,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)C(N)=O,,,,2023-11-21,Deposition ready,01:40:41,OK: No comment:No comment,32.9,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000462-001/L/P/C,,,,,,True
+ASAP-0008304,,O=C(O)C[C@@H](NC(=O)c1ccc(NC(=O)NC2CC2)cc1)c1cccc(C(F)F)c1,4.13,0.0171,2.0,2023-11-21,CompChem ready,01:12:10,OK: No comment:Cracked,18.4,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0008304-001/L/P/C,,,,,,True
+ASAP-0011215,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccc4cncn4c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,00:04:50,,92.1,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011215-001/L/P/C,,,,,,True
+ASAP-0000588,,OC(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(F)cc1,,,,2023-11-21,CompChem ready,02:04:12,OK: No comment:No comment,44.3,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000588-001/L/P/C,,,,,,True
+ASAP-0012349,,CCNC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,02/04/1900 19:54:14,,91.9,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0012349-001/L/P/C,,,,,,True
+ASAP-0013392,,CC(C)[C@@H](Nc1ncnc2[nH]c(C3=CCOC3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,,,67.3,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013392-001/L/P/C,,,,,,True
+ASAP-0008485,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CC(=O)N(C)C)c3)cc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,CompChem ready,02/04/1900 19:54:14,,10.1,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0008485-001/L/P/C,,,,,,True
+ASAP-0013730,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccn(C)c(=O)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,31/12/1899 21:49:27,,33.1,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013730-001/L/P/C,,,,,,True
+ASAP-0011144,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,7.81,0.0709,3.0,2023-11-21,CompChem ready,23:58:24,OK: No comment:No comment,6.2,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011144-001/L/P/C,,,,,,True
+ASAP-0000877,,C[C@@H](Nc1ncnc2[nH]ccc12)[C@@H]1CCOC1,,,,2023-11-21,CompChem ready,02:11:02,OK: No comment:No comment,20.2,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000877-001/L/P/C,,,,,,True
+ASAP-0011210,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)[S@H](=O)CCO2,,,,2023-11-21,CompChem ready,00:05:40,,18.8,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011210-001/L/P/C,,,,,,True
+ASAP-0013821,,CCNC(=O)c1cc2c(N[C@H](c3ccnc(N)c3)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,31/12/1899 21:49:27,,6.1,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013821-001/L/P/C,,,,,,True
+ASAP-0000479,,CC(C)[C@@H]1C(=O)NCCN1c1ncnc2[nH]ccc12,,,,2023-11-21,Deposition ready,01:47:07,OK: No comment:No comment,24.2,P 43,Correct ligand but weak density,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000479-001/L/P/C,,,,,,True
+ASAP-0013390,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnc(N4CC(O)C4)nc3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,,,31.7,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013390-001/L/P/C,,,,,,True
+ASAP-0011177,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(n1)NC(=O)CO2,,,,2023-11-21,CompChem ready,02/04/1900 19:54:14,,97.7,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011177-001/L/P/C,,,,,,True
+ASAP-0012338,,CNC(=O)c1cccc(-c2cc3c(N[C@H](c4ccc5c(c4)S(=O)(=O)CCC5)C(C)C)ncnc3[nH]2)c1,,,,2023-11-21,CompChem ready,23:58:24,OK: No comment:No comment,5.5,P 1 21 1,High confidence,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0012338-001/L/P/C,,,,,,True
+ASAP-0011153,,CNC(=O)c1c[nH]c2ncnc(N[C@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)c12,6.94,0.027,2.0,2023-11-21,CompChem ready,00:05:40,,93.1,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011153-001/L/P/C,,,,,,True
+ASAP-0011446,,Cc1nn(C)cc1-c1cc2c(N[C@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,02/04/1900 19:54:13,,42.6,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011446-001/L/P/C,,,,,,True
+ASAP-0013383,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccc(=O)n(C)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,,,5.9,P 1 21 1,No ligand modelled,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013383-001/L/P/C,,,,,,True
+ASAP-0011184,,CNC(=O)Cn1cc(-c2cc3c(N[C@@H](c4ccc5c(c4)S(=O)(=O)CCC5)C(C)C)ncnc3[nH]2)cn1,,,,2023-11-21,CompChem ready,23:58:24,OK: No comment:No comment,28.8,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011184-001/L/P/C,,,,,,True
+ASAP-0013259,,CC(C)[C@@H](Nc1ncnc2[nH]c(S(C)(=O)=O)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,,,19.4,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013259-001/L/P/C,,,,,,True
+ASAP-0000789,,O=C(O)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,CompChem ready,01:19:53,OK: No comment:No comment,99.2,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000789-001/L/P/C,,,,,,True
+ASAP-0013318,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccc(S(=O)(=O)NCCO)cc3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,31/12/1899 21:49:27,,60.5,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013318-001/L/P/C,,,,,,True
+ASAP-0000605,,Cn1ncc2c(C(=O)N[C@@H](CC(O)=O)c3ccc(Br)cc3)ccnc12,,,,2023-11-21,CompChem ready,02:10:32,OK: No comment:No comment,49.6,P 43,Correct ligand but weak density,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000605-001/L/P/C,,,,,,True
+ASAP-0011192,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)c3)cc12)c1ccc2c(c1)S(=O)(=O)NCC2,,,,2023-11-21,CompChem ready,23:58:24,OK: No comment:No comment,98.3,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011192-001/L/P/C,,,,,,True
+ASAP-0000601,,CN(C)c1ccc(C(=O)N[C@@H](CC(O)=O)c2ccc(Br)cc2)nc1,,,,2023-11-21,CompChem ready,02:09:20,OK: No comment:No comment,22.9,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0000601-001/L/P/C,,,,,,True
+ASAP-0008324,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)C(=O)O,4.79,0.0276,2.0,2023-11-21,CompChem ready,01:15:12,OK: No comment:No comment,21.3,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0008324-001/L/P/C,,,,,,True
+ASAP-0013769,,CCNC(=O)c1cc2c(N[C@H](c3ccc4nc(NC(C)=O)sc4c3)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,31/12/1899 21:49:27,,67.9,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013769-001/L/P/C,,,,,,True
+ASAP-0010744,,COC1=CC=C([C@H](C(C2=NN=NN2)C)NC(C2=NC=NC3=C2C=CN3)=O)C=C1,,,,2023-11-21,CompChem ready,21:40:24,OK: No comment:No comment,22.3,P 1 21 1,High confidence,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0010744-001/L/P/C,,,,,,True
+ASAP-0013269,,CNS(=O)(=O)c1cc2c(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,2023-11-21,CompChem ready,,,41.0,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013269-001/L/P/C,,,,,,True
+ASAP-0012329,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,23:58:24,OK: No comment:No comment,47.4,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0012329-001/L/P/C,,,,,,True
+ASAP-0008445,,C[C@@H](C(=O)O)[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,2023-11-21,CompChem ready,00:50:42,,71.5,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0008445-001/L/P/C,,,,,,True
+ASAP-0012310,,CC(C)[C@H](Nc1ncnc2[nH]cnc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,CompChem ready,00:50:42,,18.5,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0012310-001/L/P/C,,,,,,True
+ASAP-0008340,,COc1ccc([C@@H](Cc2nnn[nH]2)NC(=O)c2ncnc3[nH]ccc23)cc1,6.16,0.0836,2.0,2023-11-21,CompChem ready,01:44:20,OK: No comment:No comment,100.0,P 43,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1A/mols/ASAP-0008340-001/L/P/C,,,,,,True
+ASAP-0011436,,CCNC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCC4)C3CC3)ncnc2[nH]1,,,,2023-11-21,CompChem ready,00:05:39,,99.6,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0011436-001/L/P/C,,,,,,True
+ASAP-0013772,,CC(=O)N1CCN(Cc2cccc(-c3cc4c(N[C@@H](c5ccc6c(c5)S(=O)(=O)CCC6)C(C)C)ncnc4[nH]3)c2)CC1,,,,2023-11-21,CompChem ready,31/12/1899 21:49:27,,94.0,P 1 21 1,,https://fragalysis.diamond.ac.uk/viewer/react/preview/direct/target/SARS2_Mac1B/mols/ASAP-0013772-001/L/P/C,,,,,,True
+ASAP-0000790,,Cc1[nH]c2ncnc(NC(=O)c3ccc(-n4cccc4)nc3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:19:53,OK: No comment:No comment,42.4,P 43,,,,,,,,False
+ASAP-0000875,,C[C@@H](Nc1ncnc2[nH]ccc12)[C@@H]1CCCCO1,,,,2024-03-20,Structure analysed and rejected,2:09:52 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000876,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cc[nH]n3)cc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,02:10:23,OK: No comment:No comment,9.1,P 43,,,,,,,,False
+ASAP-0000878,,CNC(=O)c1ccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2023-11-21,Structure analysed and rejected,02:11:45,OK: No comment:Cracked,11.9,P 43,,,,,,,,False
+ASAP-0000880,,N=C(N)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,2024-03-20,Structure analysed and rejected,2:13:07 AM,OK: No comment:No comment,8.5,P 43,,,,,,,,False
+ASAP-0000788,,O=C(Nc1ccc(C(=O)Nc2c(C(=O)O)oc3cc(Br)ccc23)cc1)NC1CC1,,,,2024-02-28,Structure analysed and rejected,1:19:53 AM,OK: No comment:No comment,25.5,P 43,,,,,,,,False
+ASAP-0000881,,O[C@@H]1CCCC[C@@H]1Nc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,02:13:49,OK: No comment:No comment,8.3,P 43,,,,,,,,False
+ASAP-0000787,,CC(C)[C@@H](Nc1ncnc2[nH]c3cc(F)ccc3c12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:19:53 AM,OK: No comment:No comment,94.8,P 43,,,,,,,,False
+ASAP-0000879,,CNC(=N)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,2024-03-20,Structure analysed and rejected,1:56:33 AM,OK: No comment:No comment,19.7,P 43,,,,,,,,False
+ASAP-0000867,,C[C@@H](Nc1ncnc2[nH]ccc12)[C@@H]1CCS(=O)(=O)C1,,,,2023-11-21,Structure analysed and rejected,02:03:06,OK: No comment:No comment,69.3,P 43,,,,,,,,False
+ASAP-0000870,,FC(F)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:50:04,OK: No comment:No comment,9.3,P 43,,,,,,,,False
+ASAP-0000869,,O=C(O)C[C@@H](NC(=O)c1ccc(NC(=O)NC2CC2)cc1)C1CCOCC1,,,,2023-11-21,Structure analysed and rejected,01:49:27,OK: No comment:No comment,9.2,P 43,,,,,,,,False
+ASAP-0000866,,c1nc(N[C@@H](c2ccc3c(c2)OCCO3)C2CCC2)c2cc[nH]c2n1,,,,2024-02-28,Structure analysed and rejected,1:46:44 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000871,,COc1cccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)c1,,,,2023-11-21,Structure analysed and rejected,02:06:01,OK: No comment:No comment,12.9,P 43,,,,,,,,False
+ASAP-0000868,,COc1ccc([C@@H](Nc2ncnc3[nH]ccc23)C(C)C)cc1OC,,,,2024-03-20,Structure analysed and rejected,1:48:35 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000865,,CNc1ccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2024-02-28,Structure analysed and rejected,2:01:29 AM,OK: No comment:Cracked,12.6,P 43,,,,,,,,False
+ASAP-0000873,,O=C(O)C[C@@H](NC(=O)c1ccc(NC(=O)NC2CC2)cc1)c1cccc(F)c1,,,,2024-02-28,Structure analysed and rejected,2:08:08 AM,OK: No comment:Cracked,43.5,P 43,,,,,,,,False
+ASAP-0000874,,O=C(O)C[C@@H](NC(=O)c1ccc(NC(=O)NC2CC2)cc1)c1cccnc1,,,,2023-11-21,Structure analysed and rejected,02:09:02,OK: No comment:No comment,8.5,P 43,,,,,,,,False
+ASAP-0000872,,O=C(O)C[C@H](NC(=O)c1ccc(NC(=O)NC2CC2)cc1)c1cccnc1,,,,2024-03-20,Structure analysed and rejected,1:51:22 AM,OK: No comment:No comment,8.0,P 43,,,,,,,,False
+ASAP-0000883,,COc1cccc([C@@H](Nc2ncnc3[nH]ccc23)C(C)C)c1,,,,2024-03-20,Structure analysed and rejected,1:59:42 AM,OK: No comment:No comment,11.3,P 43,,,,,,,,False
+ASAP-0008275,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:12:49,OK: No comment:No comment,11.5,P 43,,,,,,,,False
+ASAP-0008262,,c1nc(N[C@@H](C2CC2)[C@@H]2CCCOC2)c2cc[nH]c2n1,,,,2024-03-20,Structure analysed and rejected,12:59:56 AM,OK: No comment:Cracked,73.8,P 43,,,,,,,,False
+ASAP-0008243,,CC(C)[C@@H](Nc1ncc2c(n1)CCCC2)c1ccc2c(c1)OCCO2,,,,2024-02-28,Structure analysed and rejected,12:58:30 AM,OK: No comment:No comment,24.3,P 43,,,,,,,,False
+ASAP-0008263,,O[C@H]1CCCC[C@@H]1Nc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:02:00,OK: No comment:No comment,71.5,P 43,,,,,,,,False
+ASAP-0008270,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(n1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:09:00,OK: No comment:No comment,12.0,P 43,,,,,,,,False
+ASAP-0000882,,CC(C)[C@@H]1C[C@H](Nc2[nH]cnc3nccc2-3)CCO1,,,,2023-11-21,Structure analysed and rejected,02:14:23,OK: No comment:No comment,8.3,P 43,,,,,,,,False
+ASAP-0000884,,CC(C)[C@@H]1C[C@@H](Nc2ncnc3[nH]ccc23)CCO1,,,,2024-03-20,Structure analysed and rejected,2:00:44 AM,OK: No comment:No comment,19.4,P 43,,,,,,,,False
+ASAP-0008273,,CS(=O)(=O)Nc1cccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)c1,,,,2024-03-20,Structure analysed and rejected,1:11:12 AM,OK: No comment:No comment,27.5,P 43,,,,,,,,False
+ASAP-0008274,,CC(=O)Nc1cccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)c1,,,,2023-11-21,Structure analysed and rejected,01:11:35,OK: No comment:No comment,11.7,P 43,,,,,,,,False
+ASAP-0008271,,COc1ccc([C@H](CC(=O)O)NC(=O)c2ccc(NC(=O)NC3CC3)cc2)cc1,,,,2023-11-21,Structure analysed and rejected,01:09:33,OK: No comment:No comment,8.4,P 43,,,,,,,,False
+ASAP-0008272,,COc1ccc([C@@H](CC(=O)O)NC(=O)c2ccc(NC(=O)NC3CC3)cc2)cc1,,,,2023-11-21,No data collected,01:10:18,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000784,,O=C(O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Nc2nnco2)cc1,,,,2024-02-28,Structure analysed and rejected,1:19:53 AM,OK: No comment:No comment,57.7,P 43,,,,,,,,False
+ASAP-0000739,,CC(C)[C@@H](Nc1ncnc2n(C)ncc12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:17:19 AM,OK: No comment:No comment,12.1,P 43,,,,,,,,False
+ASAP-0000709,,CNS(=O)(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,2024-02-28,Structure analysed and rejected,1:17:23 AM,OK: No comment:No comment,8.4,P 43,,,,,,,,False
+ASAP-0000740,,CC(C)[C@@H](NC(=O)c1ccccn1)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:18,OK: No comment:No comment,36.8,P 43,,,,,,,,False
+ASAP-0000741,,Cc1[nH]c2ncnc(NC(=O)c3ccncc3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:17:18,OK: No comment:No comment,99.0,P 43,,,,,,,,False
+ASAP-0000707,,C1C[C@@H](Nc2ccc3c(c2)OCCO3)CN(c2ncnc3[nH]ccc23)C1,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,20.7,P 43,,,,,,,,False
+ASAP-0000705,,CC(C)[C@@H](NCc1cccc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:17:23 AM,OK: No comment:No comment,7.8,P 43,,,,,,,,False
+ASAP-0000706,,CCOC(=O)C1=C(Nc2cc(C)cc(C)c2)OCC1=O,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,11.8,P 43,,,,,,,,False
+ASAP-0000708,,Cc1[nH]c2ncnc(C(=O)Nc3ccnc(Cl)c3)c2c1C,,,,2024-03-20,Structure analysed and rejected,1:17:23 AM,OK: No comment:No comment,8.1,P 43,,,,,,,,False
+ASAP-0000747,,C(Nc1ncnc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:19,OK: No comment:No comment,11.5,P 43,,,,,,,,False
+ASAP-0000745,,COc1ccc([C@@H]2CCN(c3ncnc4[nH]ccc34)C2)cc1,,,,2024-03-20,Structure analysed and rejected,1:17:19 AM,OK: No comment:No comment,99.4,P 43,,,,,,,,False
+ASAP-0000746,,C[C@@H]1Oc2ccc(Nc3ncnc4[nH]ccc34)cc2NC1=O,,,,2023-11-21,Structure analysed and rejected,01:17:18,OK: No comment:No comment,89.8,P 43,,,,,,,,False
+ASAP-0000748,,CC(C)[C@@H](NC(=O)c1cnn(-c2ccccc2)n1)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:18,OK: No comment:No comment,5.4,P 43,,,,,,,,False
+ASAP-0000742,,Cn1ncc2c(N[C@H](C3CC3)c3ccc4c(c3)OCCO4)ncnc12,,,,2023-11-21,Structure analysed and rejected,01:17:18,OK: No comment:No comment,36.3,P 43,,,,,,,,False
+ASAP-0000743,,CC(C)[C@@H](NC(=O)c1cnc2n[nH]c(C)c2c1)c1ccc2c(c1)OCCO2,,,,2024-02-28,Structure analysed and rejected,1:17:19 AM,OK: No comment:No comment,20.7,P 43,,,,,,,,False
+ASAP-0000744,,CC(C)[C@@H](NC(=O)c1ccnc(-n2ccnc2)c1)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:18,OK: No comment:No comment,7.9,P 43,,,,,,,,False
+ASAP-0000696,,CC(C)[C@@H](NCc1ccc(-n2cccn2)cc1)c1ccc2c(c1)OCCO2,,,,2024-02-28,Structure analysed and rejected,1:17:23 AM,OK: No comment:No comment,85.2,P 43,,,,,,,,False
+ASAP-0000695,,CC(C)[C@@H](Nc1nc(C(F)F)nc2ccccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,8.9,P 43,,,,,,,,False
+ASAP-0000694,,Cc1[nH]c2ncnc(NC(=O)c3cncc(Cl)n3)c2c1C,,,,2024-03-20,Structure analysed and rejected,1:17:23 AM,OK: No comment:No comment,11.6,P 43,,,,,,,,False
+ASAP-0000697,,CC(C)[C@@H](Nc1ncnc2ccccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,11.4,P 43,,,,,,,,False
+ASAP-0000692,,COC(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,2024-03-20,Structure analysed and rejected,1:17:23 AM,OK: No comment:No comment,49.0,P 43,,,,,,,,False
+ASAP-0000687,,CCc1coc(Nc2ccc([C@@H](CC(O)=O)NC(=O)c3ncnc4[nH]ccc34)cc2)n1,,,,2024-02-28,Structure analysed and rejected,1:17:24 AM,OK: No comment:No comment,74.7,P 43,,,,,,,,False
+ASAP-0000693,,Cc1[nH]c2ncnc(NC(=O)[C@@H](CC(F)F)C3CCC3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,98.4,P 43,,,,,,,,False
+ASAP-0000698,,CC(C)[C@@H](Nc1ncnc2n(C)ccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,97.5,P 43,,,,,,,,False
+ASAP-0000703,,OC(=O)c1[nH]c2ccccc2c1NC(=O)c1ccc(NC(=O)NC2CC2)cc1,,,,2024-02-28,Structure analysed and rejected,1:17:23 AM,OK: No comment:No comment,7.6,P 43,,,,,,,,False
+ASAP-0000702,,OC[C@H](NC(=O)c1c[nH]c2c(NC(=O)NC3CC3)cccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,22.5,P 43,,,,,,,,False
+ASAP-0000704,,CC(C)[C@@H](Nc1ncnc2ncccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,11.4,P 43,,,,,,,,False
+ASAP-0000701,,Cc1[nH]c2ncnc(NC(=O)c3cncnc3)c2c1C,,,,2024-03-20,Structure analysed and rejected,1:17:23 AM,OK: No comment:No comment,12.1,P 43,,,,,,,,False
+ASAP-0000699,,C1Oc2ccc(-c3ncnc4[nH]ccc34)cc2O1,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,14.6,P 43,,,,,,,,False
+ASAP-0000700,,Cc1[nH]c2ncnc(NC(=O)c3ccc(C(F)(F)F)nc3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:17:23,OK: No comment:No comment,14.8,P 43,,,,,,,,False
+ASAP-0000749,,Cc1[nH]c2ncnc(NC(=O)c3cnc(C)nc3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:17:18,OK: No comment:Cracked,7.1,P 43,,,,,,,,False
+ASAP-0000778,,CC(=O)Nc1ccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2023-11-21,Structure analysed and rejected,01:19:53,OK: No comment:No comment,56.8,P 43,,,,,,,,False
+ASAP-0000776,,O=C(Nc1ccc2c(C(=O)N[C@@H]3c4ccccc4C[C@@H]3C(=O)O)cnn2c1)NC1CC1,,,,2024-03-20,Data collection failed,1:19:53 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0000777,,O=C(Nc1ccc(C(=O)Nc2c(C(=O)O)sc3ccncc23)cc1)NC1CC1,,,,2023-11-21,Structure analysed and rejected,01:19:53,OK: No comment:No comment,12.0,P 43,,,,,,,,False
+ASAP-0000779,,O=C(O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Nc2nnc(C3CC3)o2)cc1,,,,2023-11-21,Structure analysed and rejected,01:19:53,OK: No comment:No comment,11.0,P 43,,,,,,,,False
+ASAP-0000763,,C1CC1[C@@H](Nc1ncnc2[nH]ncc12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:17:19 AM,OK: No comment:No comment,20.4,P 43,,,,,,,,False
+ASAP-0000765,,OC(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(NCC2=NO[C@@H]3COC[C@H]23)cc1,,,,2024-02-28,Structure analysed and rejected,1:17:18 AM,OK: No comment:No comment,20.0,P 43,,,,,,,,False
+ASAP-0000764,,CC(C)Cc1ccc2c(NC(=O)c3ccc(NC(=O)NC4CC4)cc3)c(C(O)=O)sc2n1,,,,2023-11-21,Structure analysed and rejected,01:17:19,OK: No comment:No comment,70.1,P 43,,,,,,,,False
+ASAP-0000766,,OC(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(NCc2ccno2)cc1,,,,2023-11-21,No data collected,01:17:18,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000780,,CS(=O)(=O)Nc1ccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2023-11-21,Structure analysed and rejected,01:19:53,OK: No comment:No comment,57.0,P 43,,,,,,,,False
+ASAP-0000785,,Cc1nnc(Nc2ccc([C@@H](CC(=O)O)NC(=O)c3ncnc4[nH]ccc34)cc2)o1,,,,2024-02-28,Structure analysed and rejected,1:19:53 AM,OK: No comment:No comment,88.7,P 43,,,,,,,,False
+ASAP-0000786,,O=C(O)C[C@@H](NC(=O)c1c[nH]c2ncncc12)c1ccc(NCC2=NO[C@@H]3COC[C@H]23)cc1,,,,2023-11-21,Structure analysed and rejected,01:19:53,OK: No comment:No comment,77.3,P 43,,,,,,,,False
+ASAP-0000783,,NC(=O)[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,2024-03-20,Structure analysed and rejected,1:19:53 AM,OK: No comment:No comment,95.2,P 43,,,,,,,,False
+ASAP-0000781,,Cc1nc2nc[nH]c(NC(=O)c3ccc(NC(=O)NC4CC4)nc3)c-2c1C,,,,2023-11-21,Structure analysed and rejected,01:19:53,OK: No comment:No comment,78.6,P 43,,,,,,,,False
+ASAP-0000782,,O=C(Nc1cccc2c(C(=O)Nc3cc4c(cc3C(=O)O)OCCO4)c[nH]c12)NC1CC1,,,,2023-11-21,Structure analysed and rejected,01:19:53,OK: No comment:No comment,83.0,P 43,,,,,,,,False
+ASAP-0000754,,OCc1cc2c(cc1NC(=O)c1c[nH]c3c(NC(=O)NC4CC4)cccc13)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:17:18 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000752,,COc1ccc([C@@H](Nc2ncnc3[nH]ccc23)C(C)C)cc1,,,,2024-03-20,Structure analysed and rejected,1:17:19 AM,OK: No comment:No comment,30.3,P 43,,,,,,,,False
+ASAP-0000755,,C1Oc2ccc(Nc3ncnc4[nH]ccc34)cc2O1,,,,2023-11-21,No data collected,01:17:18,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000750,,Cc1ccc2c(NC(=O)c3ccc(NC(=O)NC4CC4)cc3)c(C(O)=O)sc2n1,,,,2024-03-20,Structure analysed and rejected,1:17:19 AM,OK: No comment:No comment,8.0,P 43,,,,,,,,False
+ASAP-0000751,,Brc1ccc([C@H](Cc2nn[nH]n2)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2023-11-21,Structure analysed and rejected,01:17:18,OK: No comment:No comment,7.4,P 43,,,,,,,,False
+ASAP-0000761,,C1CC1[C@@H](Nc1ncnc2ccccc12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:17:19 AM,OK: No comment:No comment,19.7,P 43,,,,,,,,False
+ASAP-0000760,,OC(=O)c1ccccc1NC(=O)c1c[nH]c2c(NC(=O)NC3CC3)cccc12,,,,2024-02-28,Structure analysed and rejected,1:17:19 AM,OK: No comment:No comment,99.8,P 43,,,,,,,,False
+ASAP-0000762,,C1C[C@H](Nc2ncnc3[nH]ccc23)c2ccccc2O1,,,,2023-11-21,No data collected,01:17:18,OK: No comment:Melted,,,,,,,,,,False
+ASAP-0000759,,Brc1ccc([C@@H](CC#N)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2024-03-20,Structure analysed and rejected,1:17:19 AM,OK: No comment:No comment,5.7,P 43,,,,,,,,False
+ASAP-0000757,,COc1ccc(Nc2ncnc3[nH]ccc23)cc1OC,,,,2023-11-21,No data collected,01:17:18,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000758,,OC(=O)C[C@@H](NC(=O)c1ccc(NC(=O)NC2CC2)cc1)c1cccc(O)c1,,,,2023-11-21,No data collected,01:17:18,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0015895,,CC(C)[C@H](Nc1ncnc2c1CCN2)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0008355,,c1nc(N[C@@H](c2ccc3c(c2)OCCO3)C2CNC2)c2cc[nH]c2n1,,,,2023-11-21,Structure analysed and rejected,01:32:27,OK: No comment:No comment,12.2,P 43,,,,,,,,False
+ASAP-0008353,,CC(C)[C@@H](Nc1ncnc2[nH]cc(Br)c12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:31:56 AM,OK: No comment:No comment,66.6,P 43,,,,,,,,False
+ASAP-0008354,,CN1CC[C@@H]1[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:32:11,OK: No comment:No comment,43.3,P 43,,,,,,,,False
+ASAP-0008377,,CCC[C@@H](Nc1ncnc2[nH]ccc12)C(=O)O,,,,2023-11-21,Structure analysed and rejected,01:32:40,OK: No comment:Cracked,86.7,P 43,,,,,,,,False
+ASAP-0008396,,COc1nc(N[C@@H](c2ccc3c(c2)OCCO3)C(C)C)c2cc[nH]c2n1,,,,2023-11-21,No data collected,01:23:08,OK: No comment:Cracked,,,,,,,,,,False
+ASAP-0008349,,CC(C)c1nc(N[C@@H](c2ccc3c(c2)OCCO3)C(C)C)c2cc[nH]c2n1,,,,2024-03-20,Data collection failed,1:30:34 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0008350,,O=C(O)[C@@H]1C[C@H](F)CN1c1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:30:59,OK: No comment:No comment,34.8,P 43,,,,,,,,False
+ASAP-0008352,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)CCNC2=O,,,,2023-11-21,Structure analysed and rejected,01:31:34,OK: No comment:No comment,62.7,P 43,,,,,,,,False
+ASAP-0008391,,CC(C)[C@@H](Nc1ncnc2[nH]cc(C#N)c12)c1ccc2c(c1)OCCO2,,,,2024-02-28,Structure analysed and rejected,1:27:53 AM,OK: No comment:Cracked,74.9,P 43,,,,,,,,False
+ASAP-0008390,,CC(C)[C@H](Nc1ncnc2[nH]ccc12)C(=O)O,,,,2023-11-21,Structure analysed and rejected,01:27:01,OK: No comment:Cracked,67.0,P 43,,,,,,,,False
+ASAP-0008395,,CNc1nc(N[C@@H](c2ccc3c(c2)OCCO3)C(C)C)c2cc[nH]c2n1,,,,2023-11-21,Structure analysed and rejected,01:28:40,OK: No comment:Cracked,21.0,P 43,,,,,,,,False
+ASAP-0008389,,O=C(O)[C@@H](Nc1ncnc2[nH]ccc12)C1CC1,,,,2024-03-20,Structure analysed and rejected,1:18:49 AM,OK: No comment:Cracked,,,,,,,,,,False
+ASAP-0008380,,CC(C)C[C@@H](Nc1ncnc2[nH]ccc12)C(=O)O,,,,2023-11-21,Structure analysed and rejected,01:30:49,OK: No comment:Cracked,100.0,P 43,,,,,,,,False
+ASAP-0008341,,COc1ccc([C@@H](Cc2nn[nH]n2)NC(=O)c2nc(OC)nc3[nH]ccc23)cc1,,,,2023-11-21,Structure analysed and rejected,01:27:07,OK: No comment:No comment,93.3,P 43,,,,,,,,False
+ASAP-0008342,,O=C(O)[C@@H](CC(F)F)Nc1ncnc2[nH]ccc12,4.06,0.0481,2.0,2024-03-20,Structure analysed and rejected,1:27:33 AM,OK: No comment:No comment,27.7,P1,,,,,,,,False
+ASAP-0008339,,CNc1nc(C(=O)N[C@@H](Cc2nn[nH]n2)c2ccc(OC)cc2)c2ccnc-2[nH]1,,,,2024-03-20,Structure analysed and rejected,1:18:05 AM,OK: No comment:Cracked,,,,,,,,,,False
+ASAP-0008337,,Cc1nnc(Nc2ccc(C(=O)N[C@H]3c4cccc(O)c4C[C@@H]3C(=O)O)cc2)o1,< 4.00,0.0,2.0,2023-11-21,Structure analysed and rejected,01:26:02,OK: No comment:No comment,8.8,P 43,,,,,,,,False
+ASAP-0008346,,CCC[C@H](Nc1ncnc2[nH]ccc12)C(=O)O,< 4.00,0.0,2.0,2024-03-20,Structure analysed and rejected,1:29:23 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0008343,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)CCCS2(=O)=O,5.55,0.0404,2.0,2023-11-21,Structure analysed and rejected,01:28:02,OK: No comment:No comment,42.8,P 43,,,,,,,,False
+ASAP-0008344,,O=C(Nc1ccc(C(=O)N[C@@H]2c3ccccc3C[C@@H]2C(=O)O)cc1)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:28:50,OK: No comment:No comment,28.3,P 43,,,,,,,,False
+ASAP-0008345,,COc1ccc([C@@H](Cc2nn[nH]n2)NC(=O)c2nc(C)nc3[nH]ccc23)cc1,5.76,0.0329,2.0,2023-11-21,Structure analysed and rejected,01:29:08,OK: No comment:No comment,89.5,P 43,,,,,,,,False
+ASAP-0008336,,Cc1nnc(Nc2ccc(C(=O)N[C@H]3c4cccc(O)c4C[C@H]3C(=O)O)cc2)o1,,,,2024-03-20,Structure analysed and rejected,1:25:29 AM,OK: No comment:No comment,11.7,P 43,,,,,,,,False
+ASAP-0008430,,CC(C)[C@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)NC(=O)CO2,,,,2023-11-21,Structure analysed and rejected,01:23:18,OK: No comment:No comment,60.0,P 43,,,,,,,,False
+ASAP-0008423,,O=C(O)[C@H](CC1CCCCC1)Nc1ncnc2[nH]ccc12,,,,2024-03-20,Structure analysed and rejected,1:26:20 AM,OK: No comment:Cracked,100.0,P 43,,,,,,,,False
+ASAP-0008426,,O=C(O)[C@H]1C[C@H](O)CN1c1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:26:55,OK: No comment:No comment,70.9,P 43,,,,,,,,False
+ASAP-0008431,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)NC(=O)CO2,,,,2023-11-21,Structure analysed and rejected,01:01:27,OK: No comment:No comment,25.5,P 43,,,,,,,,False
+ASAP-0008421,,COc1ccc(C(=O)Nc2ccc(C(=O)N[C@@H]3c4ccccc4C[C@@H]3C(=O)O)cc2)cc1S(=O)(=O)NCCN1CCCC1,,,,2024-02-28,Structure analysed and rejected,1:29:41 AM,OK: No comment:Jelly,47.1,P 43,,,,,,,,False
+ASAP-0008419,,O=C(Nc1ccc(C(=O)N[C@@H]2c3ccccc3C[C@@H]2C(=O)O)cc1)c1ccc(C(=O)NC2CC2)cc1,,,,2023-11-21,Structure analysed and rejected,01:28:14,OK: No comment:Cracked,34.1,P 43,,,,,,,,False
+ASAP-0008422,,O=C(Nc1ccc(C(=O)N[C@@H]2c3ccccc3C[C@@H]2C(=O)O)cc1)c1ccc(N2CCC(O)CC2)cc1,,,,2023-11-21,Structure analysed and rejected,01:26:43,OK: No comment:Cracked,11.0,P 43,,,,,,,,False
+ASAP-0008438,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(N)=O)cc12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:21:07 AM,OK: No comment:No comment,35.8,P 43,,,,,,,,False
+ASAP-0008443,,COC(=O)c1c[nH]c2ncnc(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)c12,,,,2023-11-21,Structure analysed and rejected,01:22:41,OK: No comment:No comment,12.5,P 43,,,,,,,,False
+ASAP-0008435,,O=C(O)[C@H]1C[C@@H](F)CN1c1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:21:30,OK: No comment:No comment,11.6,P 43,,,,,,,,False
+ASAP-0008437,,COc1ccc([C@@H]2CN(C(=O)c3ncnc4[nH]ccc34)C[C@H]2C(=O)O)cc1,,,,2023-11-21,Structure analysed and rejected,01:24:56,OK: No comment:No comment,59.0,P 43,,,,,,,,False
+ASAP-0008400,,CC(C)[C@@H](Nc1nc(N(C)C)nc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2024-02-28,Structure analysed and rejected,1:19:52 AM,OK: No comment:Cracked,98.3,P 43,,,,,,,,False
+ASAP-0008399,,CC(C)[C@@H](Nc1ncnc2[nH]cc(C(N)=O)c12)c1ccc2c(c1)OCCO2,,,,2024-02-28,Structure analysed and rejected,1:25:13 AM,OK: No comment:Cracked,91.7,P 43,,,,,,,,False
+ASAP-0008406,,CNC(=O)c1c[nH]c2ncnc(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)c12,,,,2023-11-21,Structure analysed and rejected,01:36:16,OK: No comment:No comment,100.0,P 43,,,,,,,,False
+ASAP-0008403,,CO[C@H]1C[C@@H](C(=O)O)N(c2ncnc3[nH]ccc23)C1,,,,2023-11-21,Structure analysed and rejected,01:29:06,OK: No comment:Cracked,97.5,P 43,,,,,,,,False
+ASAP-0008397,,CC(C)[C@@H](Nc1ncnc2[nH]cc(Cl)c12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:27:36,OK: No comment:Cracked,8.4,P 43,,,,,,,,False
+ASAP-0008398,,CC(C)[C@@H](Nc1nc(C2CC2)nc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:34:07,OK: No comment:No comment,90.8,P 43,,,,,,,,False
+ASAP-0008416,,O=C(O)[C@@H]1CC2(CCCCC2)CN1C1=C2C(=NC=N1)NC=C2,,,,2024-03-20,Structure analysed and rejected,1:25:53 AM,OK: No comment:Cracked,57.7,P 43,,,,,,,,False
+ASAP-0008414,,CC(C)[C@@H](Nc1ncnc2[nH]cc(S(N)(=O)=O)c12)c1ccc2c(c1)OCCO2,,,,2024-02-28,Structure analysed and rejected,1:35:59 AM,OK: No comment:No comment,34.4,P 43,,,,,,,,False
+ASAP-0008417,,N#Cc1ccc(C(=O)Nc2ccc(C(=O)N[C@@H]3c4ccccc4C[C@@H]3C(=O)O)cc2)cc1,,,,2023-11-21,Structure analysed and rejected,01:29:20,OK: No comment:Cracked,36.2,P 43,,,,,,,,False
+ASAP-0008413,,CC(C)[C@@H](Nc1ncnc2[nH]cc(C(=O)N(C)C)c12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:21:15 AM,OK: No comment:Cracked,81.0,P 43,,,,,,,,False
+ASAP-0008407,,COC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,2023-11-21,Structure analysed and rejected,01:31:26,OK: No comment:No comment,11.2,P 43,,,,,,,,False
+ASAP-0008290,,COCc1noc(C)c1-c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,2024-02-28,Structure analysed and rejected,1:17:38 AM,OK: No comment:No comment,28.4,P 43,,,,,,,,False
+ASAP-0008289,,c1nc(N[C@@H](c2ccc3c(c2)OCCO3)C2CCCC2)c2cc[nH]c2n1,,,,2023-11-21,Structure analysed and rejected,01:17:12,OK: No comment:No comment,10.2,P 43,,,,,,,,False
+ASAP-0008288,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(c1)OCCO2,6.43,0.0184,2.0,2024-03-20,Structure analysed and rejected,1:16:54 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0008291,,COc1ccc(CN(c2ncnc3[nH]ccc23)C(C)C)cc1OC,< 4.00,,1.0,2023-11-21,Structure analysed and rejected,01:18:06,OK: No comment:No comment,8.1,P 43,,,,,,,,False
+ASAP-0008299,,COc1ccc([C@@H](CC(=O)O)NC(=O)c2cc3cccc(NC(=O)NC4CC4)c3[nH]2)cc1,< 4.00,,1.0,2024-02-28,Structure analysed and rejected,1:22:07 AM,OK: No comment:No comment,8.8,P 43,,,,,,,,False
+ASAP-0008292,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc(C(F)(F)F)cc1,,,,2023-11-21,Structure analysed and rejected,01:18:27,OK: No comment:No comment,10.4,P 43,,,,,,,,False
+ASAP-0008297,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1cccc(C(F)(F)F)c1,4.1,0.0213,2.0,2024-02-28,Structure analysed and rejected,1:13:12 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0008296,,O=C(O)C[C@@H](NC(=O)c1ncnc2[nH]c3cc(F)ccc3c12)c1ccc(Br)cc1,6.0,0.00414,2.0,2023-11-21,Structure analysed and rejected,01:12:46,OK: No comment:Cracked,28.0,P 43,,,,,,,,False
+ASAP-0008298,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1cc2c(cn1)OCCO2,5.23,0.00549,2.0,2023-11-21,Structure analysed and rejected,01:21:43,OK: No comment:No comment,11.8,P 43,,,,,,,,False
+ASAP-0008295,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1cnc2c(c1)OCCO2,< 4.00,,1.0,2024-03-20,Structure analysed and rejected,1:12:23 AM,OK: No comment:No comment,8.1,P 43,,,,,,,,False
+ASAP-0008293,,COC(=O)c1c[nH]c(-c2cc(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncn2)c1,< 4.00,,1.0,2023-11-21,Structure analysed and rejected,01:18:53,OK: No comment:No comment,12.3,P 43,,,,,,,,False
+ASAP-0008294,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnoc3)cc12)c1ccc2c(c1)OCCO2,< 4.26,0.369,2.0,2023-11-21,Structure analysed and rejected,01:19:22,OK: No comment:No comment,59.8,P 43,,,,,,,,False
+ASAP-0008276,,CNc1cccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)c1,,,,2024-02-28,Data collection failed,1:05:39 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0008286,,c1nc(N2CCC[C@@H]2c2ccc3c(c2)OCCO3)c2cc[nH]c2n1,,,,2024-03-20,Structure analysed and rejected,1:06:24 AM,OK: No comment:No comment,8.4,P 43,,,,,,,,False
+ASAP-0008279,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,12:57:19 AM,OK: No comment:No comment,11.4,P 43,,,,,,,,False
+ASAP-0008277,,CC(C)(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:13:52,OK: No comment:No comment,25.2,P 43,,,,,,,,False
+ASAP-0008278,,CC(C)[C@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:14:40,OK: No comment:No comment,10.3,P 43,,,,,,,,False
+ASAP-0008323,,CC(C)[C@@H](Nc1cc(-c2c[nH]cn2)ncn1)c1ccc2c(c1)OCCO2,< 4.00,,1.0,2023-11-21,Structure analysed and rejected,01:14:58,OK: No comment:No comment,21.5,P 43,,,,,,,,False
+ASAP-0008322,,CO[C@@H]1C[C@@H](C(=O)O)N(c2ncnc3[nH]ccc23)C1,< 4.00,0.0,2.0,2024-03-20,Structure analysed and rejected,1:14:20 AM,OK: No comment:No comment,94.5,P 43,,,,,,,,False
+ASAP-0008325,,O=C(O)[C@@H](Nc1ncnc2[nH]ccc12)C1CC(F)(F)C1,< 4.00,0.0,2.0,2023-11-21,Structure analysed and rejected,01:15:36,OK: No comment:No comment,12.7,P 43,,,,,,,,False
+ASAP-0008326,,Cc1nc(N[C@@H](c2ccc3c(c2)OCCO3)C(C)C)c2cc[nH]c2n1,< 4.00,0.0,2.0,2023-11-21,Structure analysed and rejected,01:16:02,OK: No comment:No comment,11.1,P 43,,,,,,,,False
+ASAP-0008321,,O=C(O)[C@@H]1[C@@H](c2ccccc2)CCN1c1ncnc2[nH]ccc12,< 4.00,0.0,2.0,2024-02-28,Structure analysed and rejected,1:43:57 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0008320,,O=C(O)[C@@H](CC1CCCCC1)Nc1ncnc2[nH]ccc12,4.14,0.0135,2.0,2024-02-28,Structure analysed and rejected,1:13:26 AM,OK: No comment:No comment,11.5,P 43,,,,,,,,False
+ASAP-0008334,,Cc1nnc(Nc2ccc(C(=O)N[C@@H]3c4cccc(O)c4C[C@H]3C(=O)O)cc2)o1,4.59,0.00799,2.0,2024-03-20,Structure analysed and rejected,1:24:53 AM,OK: No comment:No comment,71.7,P 43,,,,,,,,False
+ASAP-0008335,,Cc1nnc(Nc2ccc(C(=O)N[C@@H]3c4cccc(O)c4C[C@@H]3C(=O)O)cc2)o1,5.14,0.00957,2.0,2023-11-21,Structure analysed and rejected,01:25:06,OK: No comment:No comment,8.9,P 43,,,,,,,,False
+ASAP-0008328,,CC(C)[C@@H](Nc1cnc(C(=O)O)cn1)c1ccc2c(c1)OCCO2,< 4.00,,1.0,2024-03-20,Structure analysed and rejected,1:12:24 AM,OK: No comment:No comment,12.1,P 43,,,,,,,,False
+ASAP-0008327,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,6.85,0.0339,2.0,2023-11-21,Structure analysed and rejected,00:58:17,OK: No comment:No comment,11.1,P 43,,,,,,,,False
+ASAP-0008319,,O=C(O)[C@@H]1C[C@@H]2OCC[C@@H]2N1c1ncnc2[nH]ccc12,< 4.00,0.0,2.0,2024-03-20,Structure analysed and rejected,1:09:00 AM,OK: No comment:No comment,11.7,P 43,,,,,,,,False
+ASAP-0008303,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccncc1,4.47,,1.0,2024-02-28,Structure analysed and rejected,1:11:46 AM,OK: No comment:No comment,19.1,P 43,,,,,,,,False
+ASAP-0008305,,c1nc(N[C@@H](c2ccc3c(c2)OCCO3)[C@@H]2CCN2)c2cc[nH]c2n1,< 4.00,,1.0,2023-11-21,Structure analysed and rejected,01:12:28,OK: No comment:No comment,8.5,P 43,,,,,,,,False
+ASAP-0008306,,O=C(Nc1cccc2c(C(=O)N[C@@H]3c4ccccc4C[C@@H]3C(=O)O)c[nH]c12)NC1CC1,5.69,0.0633,2.0,2024-03-20,Structure analysed and rejected,1:12:43 AM,OK: No comment:Cracked,11.1,P 43,,,,,,,,False
+ASAP-0008300,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)C(=O)NCC2,5.63,0.0255,2.0,2023-11-21,Structure analysed and rejected,01:22:26,OK: No comment:No comment,7.9,P 43,,,,,,,,False
+ASAP-0008301,,Cc1nn(CC(C)C)c(Cl)c1[C@@H]1CCCN1c1ncnc2[nH]ccc12,< 4.00,,1.0,2023-11-21,Structure analysed and rejected,01:10:55,OK: No comment:No comment,12.9,P 43,,,,,,,,False
+ASAP-0008312,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)OCC(=O)N2,4.59,0.036,2.0,2023-11-21,Structure analysed and rejected,01:14:51,OK: No comment:No comment,11.3,P 43,,,,,,,,False
+ASAP-0008310,,CC(C)[C@@H](Nc1ccc(NC(=O)NC2CC2)cc1)c1ccc2c(c1)OCCO2,< 4.00,,1.0,2024-03-20,Structure analysed and rejected,1:14:00 AM,OK: No comment:No comment,11.2,P 43,,,,,,,,False
+ASAP-0008311,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)N(C)CCO2,4.53,0.04,2.0,2023-11-21,Structure analysed and rejected,01:14:20,OK: No comment:No comment,28.5,P 43,,,,,,,,False
+ASAP-0008307,,O=C(Nc1cccc2c(C(=O)N[C@H]3c4ccccc4C[C@H]3C(=O)O)c[nH]c12)NC1CC1,5.14,0.0535,2.0,2023-11-21,Structure analysed and rejected,01:13:01,OK: No comment:Cracked,10.3,P 43,,,,,,,,False
+ASAP-0008308,,CNC(=O)c1cccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)c1,4.74,0.0223,2.0,2023-11-21,Structure analysed and rejected,01:13:23,OK: No comment:Cracked,7.6,P 43,,,,,,,,False
+ASAP-0008309,,CC(C)[C@@H](Nc1cc(-c2cc[nH]n2)ncn1)c1ccc2c(c1)OCCO2,< 4.00,,1.0,2023-11-21,Structure analysed and rejected,01:13:37,OK: No comment:No comment,7.8,P 43,,,,,,,,False
+ASAP-0000683,,CC(C)[C@@H](NCc1ncc[nH]1)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,12.8,P 43,,,,,,,,False
+ASAP-0000686,,Cc1[nH]c2ncnc(NC(=O)[C@@H]3Cc4ccccc4CO3)c2c1C,,,,2024-03-20,Experiment pending,,,,,,,,,,,,False
+ASAP-0000451,,OC(=O)c1ccc(C(=O)N2CCC(c3ccn4ncc(C(=O)N5CCCCC5)c4c3)CC2)o1,,,,2023-11-21,Structure analysed and rejected,01:35:39,OK: No comment:No comment,35.0,P 43,,,,,,,,False
+ASAP-0000449,,Cn1nc(C(=O)N2CCC(c3ccn4ncc(C(=O)N5CCCCC5)c4c3)CC2)cc1C(O)=O,,,,2024-03-20,Structure analysed and rejected,1:33:22 AM,OK: No comment:No comment,25.0,P 43,,,,,,,,False
+ASAP-0000335,,FC1=CN=C(C(=O)N(CCC(=O)N2CCNCC2)CC2=CC(Cl)=CC=C2)C=C1,,,,2024-02-28,Structure analysed and rejected,1:05:07 AM,OK: No comment:No comment,23.3,P 43,,,,,,,,False
+ASAP-0000330,,CC1=C(C(=O)N2CCC(C3=CC4=C(C(=O)N5CCCCC5)C=NN4C=C3)CC2)C(C)=NN1,,,,2023-11-21,Structure analysed and rejected,01:12:48,OK: No comment:No comment,22.3,P 43,,,,,,,,False
+ASAP-0000350,,OC(=O)[C@@H]1CCC[C@@H]1NC(=O)C1=C2C=C(C3CCN(C(=O)C4=CC=CC=C4)CC3)C=CN2N=C1,,,,2023-11-21,Structure analysed and rejected,01:30:25,OK: No comment:No comment,48.9,P 43,,,,,,,,False
+ASAP-0000345,,O=C(N1CCC(C2=CC3=C(C(=O)N4CCCCC4)C=NN3C=C2)CC1)C1=CN=CN1,,,,2023-11-21,Structure analysed and rejected,01:15:23,OK: No comment:No comment,22.8,P 43,,,,,,,,False
+ASAP-0000329,,OC1=CC(C(=O)N2CCC(C3=CC4=C(C(=O)N5CCCCC5)C=NN4C=C3)CC2)=NC=C1,,,,2024-03-20,Structure analysed and rejected,1:26:20 AM,OK: No comment:No comment,29.1,P 43,,,,,,,,False
+ASAP-0000324,,CO[C@@H]1CCCN(C(=O)C2=C3C=C(C4CCN(C(=O)C5=CC=CC=C5)CC4)C=CN3N=C2)C1,,,,2024-02-28,Structure analysed and rejected,1:25:04 AM,OK: No comment:No comment,57.0,P 43,,,,,,,,False
+ASAP-0000327,,CC1=NC(C(=O)N2CCC(C3=CC4=C(C(=O)N5CCCCC5)C=NN4C=C3)CC2)=CC=N1,,,,2023-11-21,Structure analysed and rejected,01:12:04,OK: No comment:No comment,29.9,P 43,,,,,,,,False
+ASAP-0000328,,O=C(N1CCC(C2=CC3=C(C(=O)N4CCCCC4)C=NN3C=C2)CC1)C1=CN2N=CC=CC2=N1,,,,2023-11-21,Structure analysed and rejected,01:12:19,OK: No comment:No comment,21.8,P 43,,,,,,,,False
+ASAP-0000396,,O=C(c1ccccc1)N1CCC(c2ccn3ncc(C(=O)N4CCCC[C@H](O)C4)c3c2)CC1,,,,2024-02-28,Structure analysed and rejected,1:05:43 AM,OK: No comment:No comment,25.3,P 43,,,,,,,,False
+ASAP-0000389,,Sc1ncccc1C(=O)N1CCC(c2ccn3ncc(C(=O)N4CCCCC4)c3c2)CC1,,,,2023-11-21,Structure analysed and rejected,01:03:09,OK: No comment:No comment,39.0,P 43,,,,,,,,False
+ASAP-0000430,,O=C(N1CCC(c2ccn3ncc(C(=O)N4CCCCC4)c3c2)CC1)c1nnn[nH]1,,,,2023-11-21,Structure analysed and rejected,01:30:20,OK: No comment:No comment,43.8,P 43,,,,,,,,False
+ASAP-0000383,,O=C(N1CCCCC1)c1cnn2ccc(C3CCN(C(=O)c4c[nH]c(=O)cn4)CC3)cc12,,,,2024-03-20,Structure analysed and rejected,1:01:23 AM,OK: No comment:No comment,38.5,P 43,,,,,,,,False
+ASAP-0000360,,OC(=O)C1=C(C(=O)N2CCC(C3=CC4=C(C(=O)N5CCCCC5)C=NN4C=C3)CC2)SC=C1,,,,2023-11-21,Structure analysed and rejected,01:19:39,OK: No comment:No comment,25.3,P 43,,,,,,,,False
+ASAP-0000361,,CCN(CC1=NN=C(C)O1)C(=O)C1=C2C=C(C3CCN(C(=O)C4=CC=CC=C4)CC3)C=CN2N=C1,,,,2023-11-21,Structure analysed and rejected,01:19:54,OK: No comment:No comment,38.0,P 43,,,,,,,,False
+ASAP-0000503,,CC(C)[C@@H](CCN(C)C(=O)c1cccc2cc(F)ccc12)Nc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:22:49,OK: No comment:No comment,36.3,P 43,,,,,,,,False
+ASAP-0000501,,Cc1csc(NC(=O)CSC[C@@H](NC(=O)c2ncnc3[nH]ccc23)C(O)=O)n1,,,,2024-03-20,Structure analysed and rejected,1:21:31 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000502,,COc1ccc2c(c1)CCN(c1ncnc3[nH]ccc13)[C@H]2C(C)C,,,,2023-11-21,Structure analysed and rejected,01:22:25,OK: No comment:No comment,40.8,P 43,,,,,,,,False
+ASAP-0000504,,CC(C)(C)n1cc([C@H]2N(c3ncnc4[nH]ccc34)CC23CCOCC3)cn1,,,,2024-03-20,Structure analysed and rejected,1:09:09 AM,OK: No comment:No comment,26.2,P 43,,,,,,,,False
+ASAP-0000498,,CC(C)[C@@H](CCN(C)C(=O)c1ccc2nc(C)sc2c1)Nc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:05:36,OK: No comment:No comment,40.0,P 43,,,,,,,,False
+ASAP-0000499,,CC(C)[C@@H](CCN(C)C(=O)c1nsc2ccc(C)cc12)Nc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:20:20,OK: No comment:No comment,40.4,P 43,,,,,,,,False
+ASAP-0000500,,CC(C)[C@@H](CCN(C)C(=O)c1cc2nccnc2cc1F)Nc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:20:52,OK: No comment:No comment,73.6,P 43,,,,,,,,False
+ASAP-0000505,,CC(C)[C@@H](CCN(C)C(=O)[C@@H]1Cc2cc(C)ccc2S1)Nc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:24:51,OK: No comment:No comment,16.3,P 43,,,,,,,,False
+ASAP-0000497,,CC(C)[C@@H](CCN(C)C(=O)[C@H]1CCc2ncnc(C)c2C1)Nc1ncnc2[nH]ccc12,,,,2024-03-20,Structure analysed and rejected,1:04:37 AM,OK: No comment:No comment,43.0,P 43,,,,,,,,False
+ASAP-0000510,,OC(=O)c1cn(CCNC(=O)c2ncnc3[nH]ccc23)cn1,,,,2023-11-21,Structure analysed and rejected,01:14:16,OK: No comment:No comment,22.9,P 43,,,,,,,,False
+ASAP-0000508,,Cn1cc([C@@H](Nc2ncnc3[nH]ccc23)c2ccc(F)cc2)cn1,,,,2024-03-20,Structure analysed and rejected,1:13:21 AM,OK: No comment:No comment,23.7,P 43,,,,,,,,False
+ASAP-0000509,,OC(=O)c1cn(CCCNC(=O)c2ncnc3[nH]ccc23)nn1,,,,2023-11-21,Structure analysed and rejected,01:26:40,OK: No comment:No comment,48.9,P 43,,,,,,,,False
+ASAP-0000511,,CC(C)[C@@H](CN1CCCCC1)Nc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:27:34,OK: No comment:No comment,55.6,P 43,,,,,,,,False
+ASAP-0000506,,C[C@@H](Cc1ccc(Cl)s1)Nc1ccc([C@@H](CC(O)=O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2023-11-21,Structure analysed and rejected,01:25:29,OK: No comment:No comment,44.0,P 43,,,,,,,,False
+ASAP-0000507,,C[C@H]1C[C@H]1c1nnc(Nc2ccc([C@@H](CC(O)=O)NC(=O)c3ncnc4[nH]ccc34)cc2)o1,,,,2023-11-21,Structure analysed and rejected,01:25:45,OK: No comment:No comment,41.7,P 43,,,,,,,,False
+ASAP-0000463,,Cn1cc([C@@H](Nc2ncnc3[nH]ccc23)C2CCC2)cn1,,,,2024-02-28,Structure analysed and rejected,1:06:50 AM,OK: No comment:No comment,45.6,P 43,,,,,,,,False
+ASAP-0000457,,Cn1nc(C(O)=O)cc1C(=O)N1CCC(c2ccn3ncc(C(=O)N4CCCCC4)c3c2)CC1,,,,2024-03-20,Structure analysed and rejected,1:38:19 AM,OK: No comment:No comment,23.1,P 43,,,,,,,,False
+ASAP-0000471,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1nc2ccccc2[nH]1,,,,2023-11-21,Structure analysed and rejected,01:44:15,OK: No comment:No comment,34.5,P 43,,,,,,,,False
+ASAP-0000467,,COc1ccccc1C[C@@H](Nc1ncnc2[nH]ccc12)C(C)C,,,,2023-11-21,Structure analysed and rejected,01:07:51,OK: No comment:No comment,31.0,P 43,,,,,,,,False
+ASAP-0000456,,OC(=O)c1cnc(C(=O)N2CCC(c3ccn4ncc(C(=O)N5CCCCC5)c4c3)CC2)cn1,,,,2023-11-21,Structure analysed and rejected,01:04:45,OK: No comment:No comment,16.3,P 43,,,,,,,,False
+ASAP-0000494,,OC(=O)[C@H](NC(=O)c1ncnc2[nH]ccc12)C1Cc2ccccc2C1,,,,2024-02-28,Structure analysed and rejected,1:17:56 AM,OK: No comment:No comment,38.9,P 43,,,,,,,,False
+ASAP-0000496,,CC(C)[C@@H](CCN(C)C(=O)c1nn(C)c2ccc(F)cc12)Nc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:19:02,OK: No comment:No comment,27.2,P 43,,,,,,,,False
+ASAP-0000493,,CC(C)(NC(=O)c1ncnc2[nH]ccc12)c1cc(C(O)=O)[nH]n1,,,,2024-03-20,Structure analysed and rejected,1:01:48 AM,OK: No comment:No comment,8.3,P1,,,,,,,,False
+ASAP-0000477,,CC(C)[C@H]1N(c2ncnc3[nH]ccc23)CC12CCOCC2,,,,2023-11-21,Structure analysed and rejected,01:11:05,OK: No comment:No comment,24.0,P 43,,,,,,,,False
+ASAP-0000110,,Cc1cccc(Cl)c1-n1sc(=O)n(CC2CC2)c1=O,,,,2024-02-28,Structure analysed and rejected,2:17:00 AM,OK: No comment:No comment,99.4,P 43,,,,,,,,False
+ASAP-0000096,,Cn1ncc2c(NCc3ncccc3O)ncnc12,,,,2023-11-21,Structure analysed and rejected,02:13:00,OK: No comment:No comment,36.1,P 43,,,,,,,,False
+ASAP-0000109,,CC(=O)Nc1ccc(S(=O)(=O)NNc2ncnc3sccc23)cc1,,,,2023-11-21,Structure analysed and rejected,02:16:00,OK: No comment:No comment,84.9,P 43,,,,,,,,False
+ASAP-0000118,,Cc1cc(NCc2cnc3c(c2)NC(=O)CO3)cnc1C,,,,2023-11-21,Structure analysed and rejected,02:23:00,OK: No comment:No comment,40.4,P 43,,,,,,,,False
+ASAP-0000120,,Clc1cccnc1COC(=O)c1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,02:23:00,OK: No comment:No comment,35.1,P 43,,,,,,,,False
+ASAP-0000130,,NS(=O)(=O)c1ccccc1CNc1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,02:27:00,OK: No comment:No comment,71.3,P 43,,,,,,,,False
+ASAP-0000081,,Cc1[nH]c2ncnc(NC(=O)CCc3ccccc3)c2c1C,,,,2024-03-20,Structure analysed and rejected,2:01:00 AM,OK: No comment:No comment,100.0,P 43,,,,,,,,False
+ASAP-0000075,,FC(F)(F)CO[C@@H]1CCCN(c2ncnc3[nH]ccc23)C1,,,,2023-11-21,Structure analysed and rejected,02:00:00,OK: No comment:No comment,48.8,P 43,,,,,,,,False
+ASAP-0000076,,C[C@@H](CO)Nc1ncnc2[nH]c(C(=O)OC(C)(C)C)cc12,,,,2023-11-21,Structure analysed and rejected,02:00:00,OK: No comment:No comment,71.1,P 43,,,,,,,,False
+ASAP-0000080,,O[C@H]1C[C@](CNc2ncnc3[nH]ccc23)(c2ccccc2)C1,,,,2023-11-21,Structure analysed and rejected,02:36:00,OK: No comment:No comment,90.8,,,,,,,,,False
+ASAP-0000071,,CC(C)OCCNC(=O)c1cc2c(nc3ccccn3c2=O)n1C,,,,2024-02-28,Structure analysed and rejected,1:59:00 AM,OK: No comment:No comment,55.5,P 43,,,,,,,,False
+ASAP-0000136,,OC(=O)C[C@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,2023-11-21,Structure analysed and rejected,02:37:00,OK: No comment:No comment,79.3,P 43,,,,,,,,False
+ASAP-0000134,,O=C(NCc1cc2n(n1)CCCC2)c1cc2cncnc2[nH]1,,,,2024-02-28,Data collection failed,12:31:07 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0000191,,Brc1cccc(C(=O)N2CCC(c3ccn4ncc(C(=O)N5CCCCC5)c4c3)CC2)c1,,,,2023-11-21,Structure analysed and rejected,00:48:56,OK: No comment:No comment,23.0,P 43,,,,,,,,False
+ASAP-0000132,,OC(=O)C1Cc2c(cccc2O)C1NC(=O)c1ccc(NC(=O)Nc2ccccc2)cc1,,,,2023-11-21,Structure analysed and rejected,02:33:00,OK: No comment:No comment,97.5,P 43,,,,,,,,False
+ASAP-0000027,,Cc1[nH]c2ncnc(NC(=O)c3ncn(-c4ccccc4)n3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:49:00,OK: No comment:No comment,85.3,P 43,,,,,,,,False
+ASAP-0000016,,O=C(Nc1cnc2[nH]ncc2c1)C1CCN(c2ccc3nncn3n2)CC1,,,,2024-03-20,Structure analysed and rejected,2:29:00 AM,OK: No comment:No comment,95.9,P 43,,,,,,,,False
+ASAP-0000025,,Cc1[nH]c2ncnc(NC(=O)C3CC=CC3)c2c1C,,,,2023-11-21,Structure analysed and rejected,02:36:00,OK: No comment:No comment,57.5,P 43,,,,,,,,False
+ASAP-0000041,,Cc1nc(C)c(CC(=O)Nc2cnc3[nH]ncc3c2)c(=O)[nH]1,,,,2023-11-21,Data collection failed,01:54:00,FAIL: No comment:Cracked,,,,,,,,,,False
+ASAP-0000031,,CC(C)[C@@H](Nc1ncnc2n[nH]cc12)c1cnn(C)c1,,,,2023-11-21,Structure analysed and rejected,01:50:00,OK: No comment:No comment,78.7,P 43,,,,,,,,False
+ASAP-0000005,,C=CCn1c(Sc2ncnc3[nH]ccc23)nc2sccc2c1=O,,,,2023-11-21,Structure analysed and rejected,01:11:39,OK: No comment:No comment,31.5,P 43,,,,,,,,False
+ASAP-0000066,,Clc1ccc(COC(=O)c2ncnc3[nH]ccc23)cn1,,,,2024-03-20,Structure analysed and rejected,1:58:00 AM,OK: No comment:No comment,68.2,P 43,,,,,,,,False
+ASAP-0000064,,C(Nc1ncnc2[nH]ccc12)c1cc(-c2ccccc2)no1,,,,2024-02-28,Data collection failed,12:31:08 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0000063,,Brc1ccc(-n2nnnc2Sc2ncnc3[nH]ccc23)cc1,,,,2024-03-20,Structure analysed and rejected,1:58:00 AM,OK: No comment:No comment,94.8,P 43,,,,,,,,False
+ASAP-0000052,,Cc1cccc(C)c1-n1nnnc1CSc1ncnc2[nH]cnc12,,,,2023-11-21,Structure analysed and rejected,02:35:00,OK: No comment:No comment,60.3,P 43,,,,,,,,False
+ASAP-0000315,,CC(C)C1=CNN=C1NC(=O)C1=CC=C(NC(=O)NC2=CC=CC=C2)C=C1,,,,2024-03-20,Structure analysed and rejected,1:23:02 AM,OK: No comment:No comment,24.2,P 43,,,,,,,,False
+ASAP-0000263,,Cc1[nH]c2ncnc(NCc3ccco3)c2c1C,,,,2024-02-28,Data collection failed,12:31:08 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0000259,,OC(=O)c1cscc1C(=O)N1CCC(c2ccn3ncc(C(=O)N4CCCCC4)c3c2)CC1,,,,2024-03-20,Data collection failed,12:31:08 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0000266,,Cc1[nH]c2ncnc(NC(=O)c3ccncc3Cl)c2c1C,,,,2024-02-28,Structure analysed and rejected,1:02:28 AM,OK: No comment:No comment,22.7,P 43,,,,,,,,False
+ASAP-0000203,,Cc1ccc(-c2n[nH]cc2CNc2cnc3[nH]ncc3c2)o1,,,,2023-11-21,Structure analysed and rejected,00:48:03,OK: No comment:No comment,93.2,P 43,,,,,,,,False
+ASAP-0000310,,OC(=O)C1=C(C(=O)N2CCC(C3=CC4=C(C(=O)N5CCCCC5)C=NN4C=C3)CC2)C=CS1,,,,2023-11-21,Structure analysed and rejected,01:21:36,OK: No comment:No comment,21.8,P 43,,,,,,,,False
+ASAP-0000284,,CC1=C(C)N=C(C(=O)N2CCC(C3=CC4=C(C(=O)N5CCCCC5)C=NN4C=C3)CC2)C(=O)N1,,,,2024-03-20,Structure analysed and rejected,1:14:17 AM,OK: No comment:No comment,19.0,P 43,,,,,,,,False
+ASAP-0000285,,O=C(N1CCC(C2=CC3=C(C(=O)N4CCCCC4)C=NN3C=C2)CC1)C1=NC=CN1,,,,2023-11-21,Structure analysed and rejected,01:00:19,OK: No comment:No comment,51.2,P 43,,,,,,,,False
+ASAP-0000280,,O=C(N1CCC2=C(C1)NC=N2)C1=C2C=C(C3CCN(C(=O)C4=CC=CC=C4)CC3)C=CN2N=C1,,,,2023-11-21,Structure analysed and rejected,00:58:51,OK: No comment:No comment,52.0,P 43,,,,,,,,False
+ASAP-0000283,,CC1=NNN=C1C(=O)N1CCC(C2=CC3=C(C(=O)N4CCCCC4)C=NN3C=C2)CC1,,,,2023-11-21,Structure analysed and rejected,00:59:43,OK: No comment:No comment,21.5,P 43,,,,,,,,False
+ASAP-0000196,,S(c1nnc(-c2ccncc2)[nH]1)c1ncnc2[nH]ccc12,,,,2024-02-28,Structure analysed and rejected,1:10:57 AM,OK: No comment:No comment,26.6,P 43,,,,,,,,False
+ASAP-0000194,,OC[C@@]1(Cc2ccc(F)cc2)CCN(c2ncnc3[nH]ccc23)C1,,,,2024-03-20,Structure analysed and rejected,12:49:51 AM,OK: No comment:No comment,30.3,P 43,,,,,,,,False
+ASAP-0000193,,Clc1cccc(COC(=O)c2ncnc3[nH]ccc23)n1,,,,2023-11-21,Structure analysed and rejected,00:49:41,OK: No comment:No comment,23.8,P 43,,,,,,,,False
+ASAP-0000201,,CC[C@@H]1C[C@@H](C(=O)Nc2ncnc3[nH]c(C)c(C)c23)CCO1,,,,2024-03-20,Data collection failed,12:31:07 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0000197,,OC[C@@H](Nc1ncnc2[nH]c(I)cc12)c1ccccc1,,,,2024-03-20,Data collection failed,12:31:07 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0000512,,COc1cccc(CSC[C@@H](NC(=O)c2ncnc3[nH]ccc23)C(O)=O)c1,,,,2023-11-21,Structure analysed and rejected,01:29:41,OK: No comment:No comment,100.0,P 43,,,,,,,,False
+ASAP-0000626,,COC[C@@H]1C[C@@H]1CNc1ccc([C@@H](CC(O)=O)NC(=O)c2c[nH]c3ncncc23)cc1,,,,2024-03-20,Structure analysed and rejected,1:16:54 AM,OK: No comment:No comment,43.1,P 43,,,,,,,,False
+ASAP-0000625,,Cc1[nH]c2ncnc(NC(=O)c3ncccc3Cl)c2c1C,,,,2024-02-28,Structure analysed and rejected,1:16:22 AM,OK: No comment:No comment,26.3,P 43,,,,,,,,False
+ASAP-0000627,,OC(=O)[C@H]1Cc2ccccc2[C@H]1NC(=O)c1c[nH]c2c(NC(=O)NC3CC3)cccc12,,,,2023-11-21,Structure analysed and rejected,01:25:23,OK: No comment:No comment,24.5,P 43,,,,,,,,False
+ASAP-0000628,,OC(=O)[C@H](NC(=O)c1c[nH]c2c(NC(=O)NC3CC3)cccc12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:25:36 AM,OK: No comment:No comment,26.2,P 43,,,,,,,,False
+ASAP-0000624,,Cc1[nH]c2ncnc(NC(=O)Cc3ccc(Cl)nc3)c2c1C,,,,2024-03-20,Structure analysed and rejected,1:16:11 AM,OK: No comment:No comment,25.7,P 43,,,,,,,,False
+ASAP-0000623,,OC(=O)C[C@@H](NC(=O)c1ccnc2ncccc12)c1ccc(Br)cc1,,,,2023-11-21,Structure analysed and rejected,01:23:58,OK: No comment:No comment,39.3,P 43,,,,,,,,False
+ASAP-0000622,,OC(=O)[C@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,2024-03-20,Structure analysed and rejected,1:23:49 AM,OK: No comment:No comment,27.2,P 43,,,,,,,,False
+ASAP-0000634,,Cc1[nH]c2ncnc(NC(=O)[C@@H]3CCc4c3cccc4Cl)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:28:32,OK: No comment:No comment,24.2,P 43,,,,,,,,False
+ASAP-0000632,,Cc1ncc(CCNC(=O)c2csc3c(NC(=O)NC4CC4)ncnc23)s1,,,,2024-03-20,Data collection failed,1:27:43 AM,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0000633,,C[C@@H](O)[C@@H](NC(=O)c1csc2c(NC(=O)NC3CC3)ncnc12)c1ccccc1F,,,,2023-11-21,Structure analysed and rejected,01:28:08,OK: No comment:No comment,24.5,P 43,,,,,,,,False
+ASAP-0000629,,O=C(NC1CC1)Nc1ncnc2c(C(=O)N[C@H](C3CCCC3)c3cccs3)csc12,,,,2023-11-21,Structure analysed and rejected,01:25:55,OK: No comment:No comment,24.9,P 43,,,,,,,,False
+ASAP-0000635,,Cc1[nH]c2ncnc(NC(=O)c3ccc(S(C)(=O)=O)nc3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:28:47,OK: No comment:No comment,27.9,P 43,,,,,,,,False
+ASAP-0000630,,COCc1cc(CNc2ccc([C@@H](CC(O)=O)NC(=O)c3ncnc4[nH]ccc34)cc2)on1,,,,2023-11-21,Structure analysed and rejected,01:26:22,OK: No comment:No comment,25.8,P 43,,,,,,,,False
+ASAP-0000631,,Cc1[nH]c2ncnc(NC(=O)Cc3cn[nH]c3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:26:35,OK: No comment:No comment,27.8,P 43,,,,,,,,False
+ASAP-0000613,,OC(=O)C[C@@H](NC(=O)c1cc2[nH]ccc2cn1)c1ccc(Br)cc1,,,,2024-03-20,Structure analysed and rejected,2:01:30 AM,OK: No comment:No comment,24.0,P 43,,,,,,,,False
+ASAP-0000614,,Cc1[nH]c2ncnc(NC(=O)c3cccc(Cl)n3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:12:24,OK: No comment:No comment,64.6,P 43,,,,,,,,False
+ASAP-0000615,,Cc1[nH]c2ncnc(NC(=O)c3ccc(-n4cnnc4)cc3)c2c1C,,,,2023-11-21,Structure analysed and rejected,02:11:32,OK: No comment:Cracked,38.7,P 43,,,,,,,,False
+ASAP-0000612,,OC(=O)C[C@@H](NC(=O)Cc1c[nH]c2ncccc12)c1ccc(Br)cc1,,,,2024-03-20,Structure analysed and rejected,2:01:05 AM,OK: No comment:No comment,36.6,P 43,,,,,,,,False
+ASAP-0000609,,Cc1nc2c(C(=O)N[C@@H](CC(O)=O)c3ccc(Br)cc3)ccnc2[nH]1,,,,2024-02-28,Structure analysed and rejected,1:59:59 AM,OK: No comment:No comment,61.4,P 43,,,,,,,,False
+ASAP-0000610,,OC(=O)C[C@@H](NC(=O)c1c[nH]c2ncccc12)c1ccc(Br)cc1,,,,2023-11-21,Structure analysed and rejected,01:00:10,OK: No comment:No comment,28.2,P 43,,,,,,,,False
+ASAP-0000611,,OC(=O)C[C@@H](NC(=O)c1ccnc(-n2cccc2)c1)c1ccc(Br)cc1,,,,2023-11-21,Structure analysed and rejected,01:00:32,OK: No comment:No comment,37.7,P 43,,,,,,,,False
+ASAP-0000619,,OC(=O)C[C@@H](CNC(=O)c1ncnc2[nH]ccc12)c1ccc(Cl)cc1,,,,2023-11-21,Structure analysed and rejected,01:14:37,OK: No comment:No comment,32.1,P 43,,,,,,,,False
+ASAP-0000621,,CN(C)c1ccc(C(=O)Nc2ncnc3[nH]c(C)c(C)c23)cn1,,,,2023-11-21,Structure analysed and rejected,01:23:31,OK: No comment:No comment,24.2,P 43,,,,,,,,False
+ASAP-0000618,,OC(=O)C[C@@H](NC(=O)c1ccnc2cn[nH]c12)c1ccc(Br)cc1,,,,2024-03-20,Structure analysed and rejected,1:14:20 AM,OK: No comment:No comment,29.4,P 43,,,,,,,,False
+ASAP-0000616,,COc1ccc2c(NC(=O)c3ccc(NC(=O)NC4CC4)cc3)c(C(O)=O)sc2c1,,,,2023-11-21,Structure analysed and rejected,01:21:52,OK: No comment:No comment,45.9,P 43,,,,,,,,False
+ASAP-0000617,,Cc1[nH]c2ncnc(NC(=O)c3ccc(C#N)nc3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:22:09,OK: No comment:No comment,27.2,P 43,,,,,,,,False
+ASAP-0000636,,COCc1cc(CNc2ccc([C@@H](CC(O)=O)NC(=O)c3c[nH]c4ncncc34)cc2)on1,,,,2023-11-21,Structure analysed and rejected,01:29:01,OK: No comment:No comment,25.4,P 43,,,,,,,,False
+ASAP-0000677,,OC(=O)C[C@@H](NC(=O)c1cncc2[nH]ccc12)c1ccc(Br)cc1,,,,2024-03-20,Structure analysed and rejected,1:17:24 AM,OK: No comment:No comment,15.2,P 43,,,,,,,,False
+ASAP-0000676,,Cc1[nH]c2ncnc(NC(=O)c3ccnnc3)c2c1C,,,,2024-02-28,Structure analysed and rejected,1:17:24 AM,OK: No comment:No comment,53.5,P 43,,,,,,,,False
+ASAP-0000679,,CC(C)[C@@H](CO)NC(=O)c1c[nH]c2c(NC(=O)NC3CC3)cccc12,,,,2024-02-28,Experiment pending,,,,,,,,,,,,False
+ASAP-0000678,,NS(=O)(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,2023-11-21,No data collected,01:17:24,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000675,,CC(C)[C@@H](NCc1ccc(-n2ccnc2)cc1)c1ccc2c(c1)OCCO2,,,,2024-03-20,Experiment pending,,,,,,,,,,,,False
+ASAP-0000672,,OC(=O)[C@@H](CSCNC(=O)c1ccccc1)NC(=O)c1ncnc2[nH]ccc12,,,,2024-03-20,Experiment pending,,,,,,,,,,,,False
+ASAP-0000673,,CC(C)[C@@H](NC(=O)c1ccnc2ccccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,11.5,P 43,,,,,,,,False
+ASAP-0000674,,CC(C)[C@@H](NC(=O)c1c[nH]c2c(NC(=O)NC3CC3)cccc12)C(F)F,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,27.4,P 43,,,,,,,,False
+ASAP-0000685,,O[C@H]1CC(CNc2ccc([C@@H](CC(O)=O)NC(=O)c3ncnc4[nH]ccc34)cc2)C[C@H]1O,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,12.5,P 43,,,,,,,,False
+ASAP-0000684,,COC[C@@H]1C[C@@H]1CNc1ccc([C@@H](CC(O)=O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,20.1,P 43,,,,,,,,False
+ASAP-0000682,,Cn1c(C(O)=O)c(NC(=O)c2ccc(NC(=O)NC3CC3)cc2)c2ccccc12,,,,2024-03-20,Experiment pending,,,,,,,,,,,,False
+ASAP-0000680,,OC(=O)c1sc2ncccc2c1NC(=O)c1ccc(NC(=O)NC2CC2)cc1,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,86.9,P 43,,,,,,,,False
+ASAP-0000681,,CC(C)[C@@H](Nc1nnc(C)c2ccccc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,6.0,P 43,,,,,,,,False
+ASAP-0000663,,OC(=O)C[C@@H](NC(=O)c1cccc2cc[nH]c12)c1ccc(Br)cc1,,,,2023-11-21,Experiment pending,,,,,,,,,,,,False
+ASAP-0000661,,COc1cc(Nc2ccc([C@@H](CC(O)=O)NC(=O)c3ncnc4[nH]ccc34)cc2)n[nH]1,,,,2024-03-20,Experiment pending,,,,,,,,,,,,False
+ASAP-0000662,,OC(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccccn1,,,,2023-11-21,No data collected,01:17:24,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000665,,OC(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Cl)cc1,,,,2023-11-21,Data collection failed,01:17:24,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0000664,,Cc1[nH]c2ncnc(NC(=O)c3cccnc3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,12.3,P 43,,,,,,,,False
+ASAP-0000659,,OC(=O)C[C@@H](NC(=O)c1cccc2[nH]cnc12)c1ccc(Br)cc1,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,29.0,P 43,,,,,,,,False
+ASAP-0000660,,Cc1[nH]c2ncnc(NC(=O)[C@@H]3CCCc4ncccc43)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,20.3,P 43,,,,,,,,False
+ASAP-0000669,,OC(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccccc1,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,20.1,P 43,,,,,,,,False
+ASAP-0000671,,CC(=O)Nc1ccc(C(=O)Nc2ncnc3[nH]c(C)c(C)c23)cc1Cl,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,12.9,P 43,,,,,,,,False
+ASAP-0000668,,OC(=O)[C@H](Cc1ccc(Br)cc1)NC(=O)c1ncnc2[nH]ccc12,,,,2024-03-20,Experiment pending,,,,,,,,,,,,False
+ASAP-0000666,,Cc1ccc([C@@H](CC(O)=O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2023-11-21,Structure analysed and rejected,01:17:24,OK: No comment:No comment,95.8,P 43,,,,,,,,False
+ASAP-0000667,,Cn1cc([C@@H](NC(=O)c2c[nH]c3c(NC(=O)NC4CC4)cccc23)C2CCC2)cn1,,,,2023-11-21,No data collected,01:17:24,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0000562,,COc1ccc(S(=O)(=O)Nc2cnc3[nH]ccc3c2)cc1C(N)=O,,,,2024-03-20,Structure analysed and rejected,1:35:29 AM,OK: No comment:No comment,32.1,P 43,,,,,,,,False
+ASAP-0000561,,Fc1ccccc1CS(=O)(=O)Nc1cnc2[nH]ccc2c1,,,,2024-02-28,Structure analysed and rejected,1:35:08 AM,OK: No comment:No comment,29.7,P 43,,,,,,,,False
+ASAP-0000564,,C[C@H](N(C)C(=O)c1ncnc2[nH]ccc12)c1ccc(F)c(F)c1,,,,2024-02-28,Structure analysed and rejected,1:23:18 AM,OK: No comment:No comment,42.0,P 43,,,,,,,,False
+ASAP-0000563,,NC(=O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)C1CCCCC1,,,,2023-11-21,Structure analysed and rejected,01:35:54,OK: No comment:No comment,24.9,P 43,,,,,,,,False
+ASAP-0000560,,O=S(=O)(Nc1cnc2[nH]ccc2c1)c1cccc(CC#N)c1,,,,2024-03-20,Structure analysed and rejected,1:20:53 AM,OK: No comment:No comment,38.6,P 43,,,,,,,,False
+ASAP-0000557,,CC(=O)c1ccc(S(=O)(=O)Nc2cnc3[nH]ccc3c2)cc1,,,,2024-03-20,Structure analysed and rejected,1:18:43 AM,OK: No comment:No comment,34.6,P 43,,,,,,,,False
+ASAP-0000558,,CN(C)C(=O)c1cccc(S(=O)(=O)Nc2cnc3[nH]ccc3c2)c1,,,,2023-11-21,Structure analysed and rejected,01:33:43,OK: No comment:No comment,24.5,P 43,,,,,,,,False
+ASAP-0000559,,CCc1cnn(C)c1NC(=O)c1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:34:23,OK: No comment:No comment,28.9,P 43,,,,,,,,False
+ASAP-0000569,,Fc1ccc(C(=O)NCc2nc(-c3cc4c(N5CCCC6(CC6)C5)ncnc4[nH]3)c[nH]2)cn1,,,,2024-03-20,Structure analysed and rejected,1:25:46 AM,OK: No comment:No comment,92.7,P 43,,,,,,,,False
+ASAP-0000568,,Cc1[nH]c2ncnc(NC(=O)c3ccc(Cl)cn3)c2c1C,,,,2024-02-28,Structure analysed and rejected,1:25:24 AM,OK: No comment:No comment,20.2,P 43,,,,,,,,False
+ASAP-0000582,,Cc1[nH]c2ncnc(NC(=O)C3(c4ccc(F)cc4)CCC3)c2c1C,,,,2023-11-21,Structure analysed and rejected,00:58:14,OK: No comment:No comment,29.5,P 43,,,,,,,,False
+ASAP-0000583,,CC(C)n1nccc1S(=O)(=O)Nc1cnc2[nH]ccc2c1,,,,2023-11-21,Structure analysed and rejected,01:43:09,OK: No comment:No comment,85.8,P 43,,,,,,,,False
+ASAP-0000567,,Cc1ccc(C(=O)N2CCC(c3ccn4ncc(C(=O)N[C@@H]5CCC[C@@H]5C(O)=O)c4c3)CC2)cc1,,,,2024-03-20,Structure analysed and rejected,1:24:56 AM,OK: No comment:No comment,32.8,P 43,,,,,,,,False
+ASAP-0000565,,Cc1cc(C)cc(CS(=O)(=O)Nc2cnc3[nH]ccc3c2)c1,,,,2023-11-21,Structure analysed and rejected,01:36:55,OK: No comment:No comment,51.6,P 43,,,,,,,,False
+ASAP-0000566,,CC(C)[C@@H](Cc1ccc(F)cc1)NC(=O)c1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:37:29,OK: No comment:No comment,25.8,P 43,,,,,,,,False
+ASAP-0000548,,Fc1ccccc1C1(NC(=O)c2csc3c(NC(=O)NC4CC4)ncnc23)CCCCC1,,,,2024-02-28,Structure analysed and rejected,1:28:38 AM,OK: No comment:No comment,39.1,P 43,,,,,,,,False
+ASAP-0000547,,O=C(NC1CC1)Nc1ncnc2c(C(=O)Nc3ccccc3C(=O)N3CCCC3)csc12,,,,2023-11-21,Structure analysed and rejected,01:28:01,OK: No comment:No comment,80.1,P 43,,,,,,,,False
+ASAP-0000550,,OC(=O)[C@H]1CCC[C@H]1NC(=O)c1cnn2ccc(C3CCN(C(=O)c4ccc(Cl)cc4)CC3)cc12,,,,2023-11-21,Structure analysed and rejected,01:13:01,OK: No comment:No comment,22.4,P 43,,,,,,,,False
+ASAP-0000549,,CS(=O)(=O)NC1CCC(Nc2ccc([C@@H](CC(O)=O)NC(=O)c3ncnc4[nH]ccc34)cc2)CC1,,,,2023-11-21,Structure analysed and rejected,01:29:04,OK: No comment:No comment,57.9,P 43,,,,,,,,False
+ASAP-0000546,,C[C@H]1C[C@H]1c1nnc(Nc2ccc([C@@H](CC(O)=O)NC(=O)c3c[nH]c4ncncc34)cc2)o1,,,,2024-03-20,Structure analysed and rejected,1:10:38 AM,OK: No comment:No comment,34.9,P 43,,,,,,,,False
+ASAP-0000513,,CS(=O)(=O)NC1CCC(Nc2ccc([C@@H](CC(O)=O)NC(=O)c3c[nH]c4ncncc34)cc2)CC1,,,,2023-11-21,Structure analysed and rejected,01:30:40,OK: No comment:No comment,43.3,P 43,,,,,,,,False
+ASAP-0000545,,Cc1[nH]c2ncnc(NC(=O)C3CC(C(F)(F)F)C3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:27:06,OK: No comment:No comment,38.6,P 43,,,,,,,,False
+ASAP-0000555,,NC(=O)c1ccc(S(=O)(=O)Nc2cnc3[nH]ccc3c2)cc1,,,,2024-02-28,Structure analysed and rejected,1:16:52 AM,OK: No comment:No comment,17.3,P 43,,,,,,,,False
+ASAP-0000554,,Fc1ccc(CS(=O)(=O)Nc2cnc3[nH]ccc3c2)cc1,,,,2023-11-21,Structure analysed and rejected,01:16:10,OK: No comment:No comment,22.1,P 43,,,,,,,,False
+ASAP-0000556,,OCC[C@H](NC(=O)c1ncnc2[nH]ccc12)c1ccccc1F,,,,2023-11-21,Structure analysed and rejected,01:32:32,OK: No comment:No comment,31.3,P 43,,,,,,,,False
+ASAP-0000553,,Fc1ccc(CNC(=O)c2ncnc3[nH]ccc23)nc1,,,,2024-03-20,Structure analysed and rejected,1:15:22 AM,OK: No comment:No comment,25.6,P 43,,,,,,,,False
+ASAP-0000551,,CCc1coc(Nc2ccc([C@@H](CC(O)=O)NC(=O)c3c[nH]c4ncncc34)cc2)n1,,,,2023-11-21,Structure analysed and rejected,01:30:09,OK: No comment:No comment,34.6,P 43,,,,,,,,False
+ASAP-0000552,,Fc1ccccc1CNC(=O)c1ncnc2[nH]ccc12,,,,2023-11-21,Structure analysed and rejected,01:30:45,OK: No comment:No comment,31.2,P 43,,,,,,,,False
+ASAP-0000608,,Cc1cc2c(C(=O)N[C@@H](CC(O)=O)c3ccc(Br)cc3)cccc2[nH]1,,,,2024-03-20,Structure analysed and rejected,1:59:19 AM,OK: No comment:No comment,22.3,P 43,,,,,,,,False
+ASAP-0000600,,Cc1[nH]c2ncnc(NC(=O)c3cccnn3)c2c1C,,,,2024-02-28,Structure analysed and rejected,2:25:20 AM,OK: No comment:No comment,34.1,P 43,,,,,,,,False
+ASAP-0000599,,Cc1[nH]c2ncnc(NC(=O)c3ccc(C)nc3)c2c1C,,,,2024-02-28,Structure analysed and rejected,1:07:20 AM,OK: No comment:No comment,26.3,P 43,,,,,,,,False
+ASAP-0000598,,OC(=O)[C@H]1CCC[C@H]1NC(=O)c1cnn2ccc(C3CCN(C(=O)c4ccc(Cl)c(Cl)c4)CC3)cc12,,,,2024-03-20,Structure analysed and rejected,2:08:25 AM,OK: No comment:No comment,38.6,P 43,,,,,,,,False
+ASAP-0000596,,Cc1[nH]c2ncnc(NC(=O)c3cc(Cl)ccn3)c2c1C,,,,2024-02-28,Structure analysed and rejected,1:06:28 AM,OK: No comment:No comment,29.1,P 43,,,,,,,,False
+ASAP-0000597,,COc1ccc(C(=O)Nc2ncnc3[nH]c(C)c(C)c23)cn1,,,,2023-11-21,Structure analysed and rejected,01:06:45,OK: No comment:No comment,26.8,P 43,,,,,,,,False
+ASAP-0000607,,OC(=O)C[C@@H](NC(=O)c1nccc2cc[nH]c12)c1ccc(Br)cc1,,,,2023-11-21,Structure analysed and rejected,02:11:04,OK: No comment:No comment,25.9,P 43,,,,,,,,False
+ASAP-0000606,,OC(=O)C[C@@H](NC(=O)c1cccc2[nH]ncc12)c1ccc(Br)cc1,,,,2023-11-21,Structure analysed and rejected,01:11:36,OK: No comment:No comment,27.0,P 43,,,,,,,,False
+ASAP-0000602,,OC(=O)C[C@@H](NC(=O)c1nccc2[nH]ncc12)c1ccc(Br)cc1,,,,2023-11-21,Structure analysed and rejected,01:09:11,OK: No comment:No comment,25.7,P 43,,,,,,,,False
+ASAP-0000603,,Cc1nc(C(=O)N[C@@H](CC(O)=O)c2ccc(Br)cc2)c2cc[nH]c2n1,,,,2023-11-21,Structure analysed and rejected,01:09:40,OK: No comment:No comment,28.7,P 43,,,,,,,,False
+ASAP-0000604,,Cn1ccc2c(C(=O)N[C@@H](CC(O)=O)c3ccc(Br)cc3)ccnc12,,,,2023-11-21,Structure analysed and rejected,01:10:01,OK: No comment:No comment,18.1,P 43,,,,,,,,False
+ASAP-0000595,,Cc1[nH]c2ncnc(NC(=O)c3ccc(Cl)nn3)c2c1C,,,,2024-03-20,Structure analysed and rejected,2:06:54 AM,OK: No comment:No comment,41.6,P 43,,,,,,,,False
+ASAP-0000587,,NC(=O)C[C@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Cl)cc1,,,,2023-11-21,Structure analysed and rejected,01:02:45,OK: No comment:No comment,29.1,P 43,,,,,,,,False
+ASAP-0000586,,Cc1[nH]c2ncnc(NC(=O)c3ccc(-n4cccn4)nc3)c2c1C,,,,2023-11-21,Structure analysed and rejected,02:19:59,OK: No comment:No comment,43.7,P 43,,,,,,,,False
+ASAP-0000585,,OC(=O)c1sc2cnccc2c1NC(=O)c1ccc(NC(=O)NC2CC2)cc1,,,,2024-03-20,Structure analysed and rejected,2:02:48 AM,OK: No comment:No comment,24.8,P 43,,,,,,,,False
+ASAP-0000584,,FC(F)[C@@H](NC(=O)c1c[nH]c2c(NC(=O)NC3CC3)cccc12)c1ccccc1,,,,2023-11-21,Structure analysed and rejected,01:01:51,OK: No comment:No comment,38.7,P 43,,,,,,,,False
+ASAP-0000594,,Cc1[nH]c2ncnc(NC(=O)c3cnc(Cl)cn3)c2c1C,,,,2023-11-21,Structure analysed and rejected,01:04:38,OK: No comment:No comment,16.7,P 43,,,,,,,,False
+ASAP-0000592,,OC[C@@H](Cc1ccncc1)NC(=O)c1ncnc2[nH]ccc12,,,,2024-02-28,Structure analysed and rejected,2:05:24 AM,OK: No comment:No comment,40.8,P 43,,,,,,,,False
+ASAP-0000591,,COc1ccc([C@@H](CC(O)=O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2024-03-20,Structure analysed and rejected,2:05:04 AM,OK: No comment:No comment,38.2,P 43,,,,,,,,False
+ASAP-0000589,,NC(=O)[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(F)cc1,,,,2023-11-21,Structure analysed and rejected,01:03:18,OK: No comment:No comment,27.1,P 43,,,,,,,,False
+ASAP-0000590,,COc1ccc(C(=O)N2CCC(c3ccn4ncc(C(=O)N[C@@H]5CCC[C@@H]5C(O)=O)c4c3)CC2)cc1,,,,2023-11-21,Structure analysed and rejected,01:03:34,OK: No comment:No comment,60.1,P 43,,,,,,,,False
+ASAP-0013321,,CCNC(=O)c1cc2c(NC3(c4ccc5c(c4)S(=O)(=O)CCC5)CCC3)ncnc2[nH]1,,,,2023-11-21,Structure analysed and rejected,31/12/1899 21:49:27,,97.5,P 1 21 1,,,,,,,,False
+ASAP-0012348,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(c1)NC(=O)CO2,,,,,,,,,,,,,,,,,False
+ASAP-0012340,,CNC(=O)c1cc2c(N[C@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0012342,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(c1)NC(=O)CO2,,,,,,,,,,,,,,,,,False
+ASAP-0012344,,CNC(=O)c1cccc(-c2cc3c(N[C@@H](c4ccc5c(c4)S(=O)(=O)CCC5)C(C)C)ncnc3[nH]2)c1,,,,,,,,,,,,,,,,,False
+ASAP-0012330,,CC(C)(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0012332,,CC(C)(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0012334,,CC(C)[C@H](Nc1ncnc2[nH]c(C(=O)N[C@H]3CCN(C)C3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013258,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NC3CN(C)C3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,Structure analysed and rejected,,,48.6,P 1 21 1,,,,,,,,False
+ASAP-0013319,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cccc(-n4cnnn4)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,31/12/1899 21:49:27,,90.0,P 1 21 1,,,,,,,,False
+ASAP-0012350,,CC(C)[C@@H](Nc1ccnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013257,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NC3CCN(C)CC3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,,,0.2,P 1 21 1,,,,,,,,False
+ASAP-0013256,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(c1)NC(=O)CO2,,,,2024-03-20,Structure analysed and rejected,,,97.9,P 1 21 1,,,,,,,,False
+ASAP-0012313,,CC(C)[C@@H](Nc1ncnc2[nH]cnc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0012315,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(n1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0012307,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(n1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0011448,,Cc1nn(C)cc1-c1cc2c(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0011440,,CCNC(=O)c1cc2c(N[C@@H](c3ccc4c(n3)NC(=O)CO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0012320,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cncc(S(C)(=O)=O)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,1:05:26 AM,OK: No comment:No comment,98.7,P1211,,,,,,,,False
+ASAP-0012323,,CC(C)[C@H](Nc1ccnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0012325,,CCNC(=O)c1cc2c(N[C@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0012327,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(C)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013824,,CCNC(=O)c1cc2c(N[C@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0013841,,CC(C)[C@@H](Nc1ncnc2c1OCCO2)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,Structure analysed and rejected,,,72.8,P 1 21 1,,,,,,,,False
+ASAP-0013833,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(CC(=O)N(C)C)c3)cc12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure deposited,,,6.1,P 1 21 1,,,,,,,,False
+ASAP-0013831,,CC(C)[C@@H](Nc1ccncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013785,,Cc1n[nH]c(C)c1-c1cc2c(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,2023-11-21,No data collected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0013778,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnc4c(c3)nnn4C)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,No data collected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0013781,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cc4c(cc3F)NC(=O)CC4)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,No data collected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0013773,,Cc1ccc(F)cc1NC(=O)c1cc(Cl)ncc1N,,,,2024-03-20,Structure analysed and rejected,31/12/1899 21:49:27,,88.9,P 1 21 1,,,,,,,,False
+ASAP-0013818,,CC(C)[C@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,Structure analysed and rejected,,,93.5,P 1 21 1,,,,,,,,False
+ASAP-0013790,,CC(=O)Nc1ccc(-c2cc3c(N[C@@H](c4ccc5c(c4)S(=O)(=O)CCC5)C(C)C)ncnc3[nH]2)cc1F,,,,2024-03-20,Structure analysed and rejected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0013813,,CC(C)[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,Structure analysed and rejected,,,91.6,P 1 21 1,,,,,,,,False
+ASAP-0013787,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnc4n3CCC4)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,No data collected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0013843,,CC(C)[C@@H](Nc1ncnc(N2CCCC2)n1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,Structure analysed and rejected,,,93.7,P 1 21 1,,,,,,,,False
+ASAP-0014732,,CC(C)[C@H](Nc1cc(O)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014681,,COc1ccc([C@@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,,,,,,,,,,,,,,False
+ASAP-0014687,,O=C(O)C[C@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,,,,,,,,,,,,,,False
+ASAP-0014690,,CC(C)[C@H](Nc1ncnc(-n2cccn2)n1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014693,,CC(C)[C@@H](Nc1cc(N2CCC[C@H]2C(=O)O)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014716,,CC(C)[C@H](Nc1ncncc1-n1nccn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014722,,C[C@H](C(=O)O)[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,,,,,,,,,,,,,,False
+ASAP-0014726,,C[C@@H](C(=O)O)[C@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,,,,,,,,,,,,,,False
+ASAP-0014728,,CC(C)[C@H](Nc1cc(N2CCNCC2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014737,,CNc1ncnc(N[C@H](c2ccc3c(c2)S(=O)(=O)CCC3)C(C)C)c1Cl,,,,,,,,,,,,,,,,,False
+ASAP-0014871,,CC(C)[C@H](Nc1cc(-n2nccn2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014741,,CCNC(=O)c1cc2c(NC3(c4ccc5c(c4)S(=O)(=O)CCC5)CC3)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0014744,,CC(C)[C@H](Nc1cc(-n2ccnn2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014748,,CC(C)[C@H](Nc1ncncc1-n1cncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014752,,CC(C)[C@@H](Nc1cc(-n2ccnn2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014756,,CC(C)[C@@H](Nc1cc(N2CCNCC2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014760,,CC(C)[C@H](Nc1ncncc1-n1ccnn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014868,,CC(C)[C@@H](Nc1cc(-n2nccn2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014869,,CC(C)[C@@H](Nc1cc(NCC(F)(F)F)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014679,,COc1ccc([C@H](CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,,,,,,,,,,,,,,False
+ASAP-0014676,,O=C(O)C[C@@H](NC(=O)c1ncnc2[nH]ccc12)c1ccc(Br)cc1,,,,,,,,,,,,,,,,,False
+ASAP-0014672,,Cc1nc(N)c(Cl)c(N[C@H](c2ccc3c(c2)S(=O)(=O)CCC3)C(C)C)n1,,,,,,,,,,,,,,,,,False
+ASAP-0014666,,CC(C)[C@@H](Oc1cc(N)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014598,,CC(C)[C@H](Nc1ncnc(N)c1F)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,,,99.2,P 1 21 1,,,,,,,,False
+ASAP-0014599,,CCNC(=O)c1cc2c(N[C@H](c3ccc4c(c3)NS(=O)(=O)CO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0014631,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCO2,,,,,,,,,,,,,,,,,False
+ASAP-0014635,,CCNC(=O)c1cc2c(N[C@H](c3cnc(C(=O)N(C)C)nc3)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0014641,,CC(C)[C@@H](Nc1ncnc2c1CCO2)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014644,,CC(C)[C@H](Nc1ncnc(O)c1Cl)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014650,,CC(C)[C@H](Nc1ncnc2c1CCO2)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014655,,CC(C)[C@H](Nc1nc(N)ncc1Cl)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014659,,CC(C)[C@@H](NC(=O)Cc1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014662,,CC(C)[C@H](Oc1cc(N)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014870,,CC(C)[C@H](Nc1cc(-n2cncn2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014872,,CC(C)[C@H](Nc1cc(NCC(F)(F)F)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015381,,COc1ccc([C@H](Cc2nnn[nH]2)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2024-03-20,Structure analysed and rejected,,,56.8,P 1 21 1,,,,,,,,False
+ASAP-0014876,,CCNC(=O)c1cc2c(N[C@H](c3ccc4c(n3)S(=O)(=O)CCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0015647,,CC(C)[C@@H](Oc1ncnc2[nH]ccc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0015776,,CC(C)[C@@H](Nc1ncnc2[nH]c(Br)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure deposited,,,18.3,P 1 21 1,,,,,,,,False
+ASAP-0014899,,COc1ncnc(N[C@H](c2ccc3c(c2)S(=O)(=O)CCC3)C(C)C)c1F,,,,,,,,,,,,,,,,,False
+ASAP-0014928,,CNCc1cc(-c2cc3c(N[C@H](c4ccc5c(c4)S(=O)(=O)CCO5)C(C)C)ncnc3[nH]2)co1,,,,,,,,,,,,,,,,,False
+ASAP-0014934,,CC(C)[C@@H](Nc1ncncc1N1CCOCC1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015076,,CC(C)[C@H](Nc1ncnc2nccnc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015083,,CC(C)[C@H](Nc1ncnc2ccoc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015088,,CC(C)[C@H](Nc1ncnc2[nH]nnc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015091,,CC(C)[C@H](Nc1cc(-c2nc[nH]n2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015217,,CC(C)[C@H](Nc1ncnc2c1NCCO2)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015220,,CC(C)[C@H](Nc1nccc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015289,,CC(C)[C@@H](Oc1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015293,,CCNC(=O)c1cc2c(N[C@H](c3ccc4c(n3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0015296,,CC(C)[C@H](Nc1ncncc1N1CCNCC1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015300,,CC(C)[C@H](Nc1ncnc2cn[nH]c12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0015374,,CC(C)[C@H](Nc1ncncc1-c1nc[nH]n1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013880,,CC(C)[C@@H](Nc1ncncc1Cl)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0013845,,CC(C)[C@H](Nc1ncnc(N2CCCC2)n1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-03-20,Structure analysed and rejected,,,,,,,,,,,,False
+ASAP-0013879,,CC(C)[C@@H](Nc1ncnc2c1CNCC2)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,No data collected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0013881,,CC(C)[C@H](Nc1ncnc2c1CNCC2)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,31/12/1899 21:49:27,,88.3,P 1,,,,,,,,False
+ASAP-0014538,,CC(C)[C@H](Nc1cc(N2CCOCC2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014537,,CC(C)[C@@H](Nc1cc(N2CCOCC2)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013882,,CC(C)[C@H](Nc1ncncc1Cl)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,No data collected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0014535,,CC(C)[C@@H](Nc1cc(N(C)C)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0014536,,CC(C)[C@@H](Nc1cc(N)ncn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013391,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cncnc3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,No data collected,,,,,,,,,,,,False
+ASAP-0013714,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccc(S(C)(=O)=O)nc3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-03-20,Structure analysed and rejected,31/12/1899 21:49:27,,36.1,P212121,,,,,,,,False
+ASAP-0013724,,Cc1nnn(C)c1-c1cc2c(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)ncnc2[nH]1,,,,2023-11-21,Structure analysed and rejected,31/12/1899 21:49:27,,89.1,P 1 21 1,,,,,,,,False
+ASAP-0013384,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccc(S(N)(=O)=O)c4nsnc34)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,,,90.3,P1211,,,,,,,,False
+ASAP-0013382,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cc(O)nc4ccccc34)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013387,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccnc(OCCN(C)C)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,,,18.3,P 1 21 1,,,,,,,,False
+ASAP-0013386,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cccc4c3NC(=O)C4)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,Structure analysed and rejected,,,92.9,P 1 21 1,,,,,,,,False
+ASAP-0013757,,CC(C)[C@H](Nc1ncnc(N)c1Cl)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,31/12/1899 21:49:27,,81.1,P 1 21 1,,,,,,,,False
+ASAP-0013754,,CC(C)[C@@H](Nc1ncnc2n[nH]cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-03-20,Structure analysed and rejected,31/12/1899 21:49:27,,97.0,P 1 21 1,,,,,,,,False
+ASAP-0013751,,CC(C)[C@H](Nc1ncnc2n[nH]cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0013763,,CC(C)[C@@H](Nc1cccc2nc[nH]c(=O)c12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013766,,CC(C)[C@H](Nc1cccc2nc[nH]c(=O)c12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0013734,,CCNC(=O)c1cc2c(N[C@H](c3ccccc3N(C)S(C)(=O)=O)C(C)C)ncnc2[nH]1,,,,2024-02-28,Structure analysed and rejected,31/12/1899 21:49:27,,97.5,P 1 21 1,,,,,,,,False
+ASAP-0013744,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(CC(=O)N(C)C)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-03-20,Structure analysed and rejected,31/12/1899 21:49:27,,97.6,P 1 21 1,,,,,,,,False
+ASAP-0013747,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CC(=O)N(C)C)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2023-11-21,No data collected,31/12/1899 21:49:27,,,,,,,,,,,False
+ASAP-0008571,,CNC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)NC(=O)CO4)C(C)C)ncnc2[nH]1,,,,2024-02-28,Structure analysed and rejected,1:26:06 AM,OK: No comment:No comment,9.9,P 43,,,,,,,,False
+ASAP-0008570,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CNC=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:25:49,OK: No comment:No comment,9.8,P 43,,,,,,,,False
+ASAP-0008569,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN=CC(C(=O)N(C)C)=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2024-02-28,Structure analysed and rejected,1:25:28 AM,OK: No comment:No comment,26.8,P 43,,,,,,,,False
+ASAP-0008572,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)NC(=O)[C@@H](C)O2,,,,2023-11-21,Structure analysed and rejected,01:26:30,OK: No comment:No comment,11.8,P 43,,,,,,,,False
+ASAP-0008573,,COCCn1cc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)c(C#N)n1,,,,2023-11-21,Structure analysed and rejected,01:27:06,OK: No comment:No comment,11.2,P 43,,,,,,,,False
+ASAP-0008565,,CNC(=O)Cn1cc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)cn1,,,,2024-02-28,Structure analysed and rejected,1:24:14 AM,OK: No comment:No comment,7.3,P 43,,,,,,,,False
+ASAP-0008562,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=NN(C(C)C)N=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:22:49 AM,OK: No comment:No comment,12.2,P 43,,,,,,,,False
+ASAP-0008563,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CNN=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:23:17,OK: No comment:No comment,10.7,P 43,,,,,,,,False
+ASAP-0008564,,COC(=O)C1=CC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=CN1,,,,2023-11-21,Structure analysed and rejected,01:23:58,OK: No comment:No comment,11.7,P 43,,,,,,,,False
+ASAP-0008568,,CC1=NC=C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)N1C,,,,2024-03-20,Structure analysed and rejected,1:25:14 AM,OK: No comment:No comment,9.6,P 43,,,,,,,,False
+ASAP-0008566,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN(C3=CC=C(F)C=C3)N=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:24:44,OK: No comment:No comment,11.2,P 43,,,,,,,,False
+ASAP-0008567,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN(CC3(C#N)CC3)N=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:24:58,OK: No comment:No comment,11.7,P 43,,,,,,,,False
+ASAP-0008574,,CCc1n[nH]cc1-c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,2023-11-21,Structure analysed and rejected,01:27:53,OK: No comment:No comment,26.5,P 43,,,,,,,,False
+ASAP-0008600,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C4CC4)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008584,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2cn[nH]c2c1,,,,,,,,,,,,,,,,,False
+ASAP-0008587,,Cc1nn(C)cc1-c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0008589,,Cc1cn[nH]c1-c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0008590,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C4CCC4)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008592,,CCn1nccc1-c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0008594,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccnn3C)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008596,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008598,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C(C)C)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008602,,CNC(=O)c1cccc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)c1,,,,,,,,,,,,,,,,,False
+ASAP-0008575,,CC1=C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)N(C)N=N1,,,,2023-11-21,Structure analysed and rejected,01:28:54,OK: No comment:No comment,11.5,P 43,,,,,,,,False
+ASAP-0008604,,CCCn1nccc1-c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0008607,,COC(=O)c1coc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)c1,,,,,,,,,,,,,,,,,False
+ASAP-0008608,,Cc1occc1-c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0008610,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cccc(CN4CCS(=O)(=O)CC4)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008613,,Cc1ccc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)o1,,,,,,,,,,,,,,,,,False
+ASAP-0008614,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccc(CC#N)cc3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008615,,Cc1ncc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)o1,,,,,,,,,,,,,,,,,False
+ASAP-0008616,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(n1)NC(=O)CO2,,,,,,,,,,,,,,,,,False
+ASAP-0008582,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cccc(Cn4ccnc4)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008577,,Cc1nn(CC(N)=O)cc1-c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,2023-11-21,Structure analysed and rejected,01:29:19,OK: No comment:No comment,11.8,P 43,,,,,,,,False
+ASAP-0008578,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC(C3=CC=CC=C3)=NN1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:29:41,OK: No comment:No comment,30.3,P 43,,,,,,,,False
+ASAP-0008579,,CC1=NOC2=NC=C(C3=CC4=C(N[C@@H](C5=CC=C6C(=C5)OCCO6)C(C)C)N=CN=C4N3)C=C12,,,,2023-11-21,Structure analysed and rejected,01:29:54,OK: No comment:No comment,10.9,P 43,,,,,,,,False
+ASAP-0008580,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(n1)NC(=O)CO2,,,,2023-11-21,Structure analysed and rejected,01:30:09,OK: No comment:No comment,10.0,P 43,,,,,,,,False
+ASAP-0008561,,CC1=C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)C=NN1C,,,,2024-03-20,Structure analysed and rejected,1:22:32 AM,OK: No comment:No comment,10.9,P 43,,,,,,,,False
+ASAP-0008543,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN3C(=NC=C3)C=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:15:32 AM,OK: No comment:No comment,15.3,P 43,,,,,,,,False
+ASAP-0008541,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=C3NN=CC3=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:14:25,OK: No comment:No comment,11.0,P 43,,,,,,,,False
+ASAP-0008542,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=CC(CN3CCCS3(=O)=O)=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:14:51,OK: No comment:No comment,34.7,P 43,,,,,,,,False
+ASAP-0008544,,CC1=CC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=CN1,,,,2023-11-21,Structure analysed and rejected,01:15:47,OK: No comment:No comment,11.5,P 43,,,,,,,,False
+ASAP-0008547,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN=C(C3CC3)O1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2024-02-28,Structure analysed and rejected,1:16:34 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0008545,,CNCC1=CC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=CO1,,,,2023-11-21,Structure analysed and rejected,01:16:05,OK: No comment:No comment,25.7,P 43,,,,,,,,False
+ASAP-0008546,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC3=C(C#N)C=CC=C3N1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:16:20,OK: No comment:No comment,11.0,P 43,,,,,,,,False
+ASAP-0008540,,COC1=NN(C)C=C1C1=CC2=C(N[C@@H](C3=CC=C4C(=C3)OCCO4)C(C)C)N=CN=C2N1,,,,2024-03-20,Structure analysed and rejected,1:14:07 AM,OK: No comment:No comment,11.1,P 43,,,,,,,,False
+ASAP-0008539,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=NN1C1CCC1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:13:44 AM,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0008534,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN(C)N=C1C#N)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:11:49,OK: No comment:No comment,8.2,P 43,,,,,,,,False
+ASAP-0008535,,CC1=COC=C1C1=CC2=C(N[C@@H](C3=CC=C4C(=C3)OCCO4)C(C)C)N=CN=C2N1,,,,2023-11-21,Structure analysed and rejected,01:12:16,OK: No comment:No comment,11.8,P 43,,,,,,,,False
+ASAP-0008536,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=NC(N3CCCC3)=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:12:40,OK: No comment:No comment,20.7,P 43,,,,,,,,False
+ASAP-0008537,,CC(=O)C1=CC=C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)N1,,,,2023-11-21,Structure analysed and rejected,01:13:07,OK: No comment:No comment,29.6,P 43,,,,,,,,False
+ASAP-0008538,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=NN(C3CCC3)N=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:13:23,OK: No comment:No comment,11.9,P 43,,,,,,,,False
+ASAP-0008558,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN=C3C(=C1)CC(=O)N3)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:21:53,OK: No comment:No comment,32.0,P 43,,,,,,,,False
+ASAP-0008555,,CC1=NNC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=C1C,,,,2024-02-28,Structure analysed and rejected,1:19:53 AM,OK: No comment:No comment,19.4,P 43,,,,,,,,False
+ASAP-0008556,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN(C)N=C1C1CC1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:20:35,OK: No comment:No comment,52.3,P 43,,,,,,,,False
+ASAP-0008557,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)N(C)C(=O)CO2,,,,2023-11-21,Structure analysed and rejected,01:21:39,OK: No comment:No comment,45.3,P 43,,,,,,,,False
+ASAP-0008548,,CC1=CC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=NN1C,,,,2023-11-21,Structure analysed and rejected,01:17:09,OK: No comment:No comment,9.8,P 43,,,,,,,,False
+ASAP-0008559,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=NN1C(C)C)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:22:06,OK: No comment:No comment,11.8,P 43,,,,,,,,False
+ASAP-0008560,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=CO1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:22:18,OK: No comment:No comment,10.7,P 43,,,,,,,,False
+ASAP-0008554,,CC1=C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)OC=C1,,,,2024-03-20,Structure analysed and rejected,1:19:39 AM,OK: No comment:No comment,19.4,P 43,,,,,,,,False
+ASAP-0008549,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=C(S(N)(=O)=O)C=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:17:31,OK: No comment:No comment,11.7,P 43,,,,,,,,False
+ASAP-0008550,,CCN1N=CC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=N1,,,,2023-11-21,Structure analysed and rejected,01:17:51,OK: No comment:No comment,56.7,P 43,,,,,,,,False
+ASAP-0008551,,CC1=CN(C)N=C1C1=CC2=C(N[C@@H](C3=CC=C4C(=C3)OCCO4)C(C)C)N=CN=C2N1,,,,2023-11-21,Structure analysed and rejected,01:18:15,OK: No comment:No comment,11.0,P 43,,,,,,,,False
+ASAP-0008552,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=C(C#N)N=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:19:01,OK: No comment:No comment,8.1,P 43,,,,,,,,False
+ASAP-0008553,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=C(C#N)OC=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:19:20,OK: No comment:No comment,19.4,P 43,,,,,,,,False
+ASAP-0008617,,CC(C)[C@@H](Nc1ncnc2[nH]c(C3=CCCN(C(=O)OCc4ccccc4)C3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008618,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn([C@@H](C)C(N)=O)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008619,,CC(C)[C@@H](Nc1ncnc2[nH]c([C@@H]3CCCNC3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010715,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(n1)OCCO2,,,,2024-03-20,Structure analysed and rejected,,,97.0,P 1 21 1,,,,,,,,False
+ASAP-0010710,,CC(C)[C@@H](Nc1ncnc2[nH]c([C@@]3(O)CCCNC3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010707,,CC(C)[C@@H](Nc1cnc2[nH]cnc2c1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0008703,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCC3(CO)CCC3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008704,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCC3(C#N)CC3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008705,,COc1nc(NC(=O)c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)n[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0008706,,Cc1ncn(C)c1NC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0008707,,CC(C)[C@@H](Nc1ccnc2nn[nH]c12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0008708,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NC3CN(C)C3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008709,,CC(C)[C@@H](Nc1n[nH]c2ncccc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0008710,,CC(C)[C@@H](Nc1ncnc2[nH]c([C@@]3(O)CCCN(C(=O)OCc4ccccc4)C3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008712,,CC(C)[C@@H](Nc1ncnc2[nH]c([C@@]3(O)CCOC3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010705,,O=C1NCCc2ccc(CNc3ncnc4[nH]ccc34)cc21,,,,,,,,,,,,,,,,,False
+ASAP-0010706,,CC(C)[C@@H](Nc1ccnc2nccn12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0008701,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCC(C)(C)C#N)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010733,,CCc1[nH]nnc1NC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0010727,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCc3ccno3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010728,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)N[C@H]3[C@@H]4COC[C@H]34)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010729,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCC3CN(C)C3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010730,,Cc1ncc(CNC(=O)c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)o1,,,,,,,,,,,,,,,,,False
+ASAP-0010731,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCCc3c[nH]nn3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010732,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCc3nncn3C)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010737,,CC(C)[C@@H](Nc1nccc2[nH]c(=O)[nH]c12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0010717,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)Nc3ncco3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010718,,O=C(O)CC(NC(=O)c1ncnc2[nH]ccc12)c1ccc(NC2C[C@H]3CC(CO)C[C@@H]23)cc1,,,,,,,,,,,,,,,,,False
+ASAP-0010720,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)Nc3cn(C)nc3O)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008702,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)Nc3cnoc3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008700,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCCc3cnco3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008620,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2nn[nH]c2c1,,,,,,,,,,,,,,,,,False
+ASAP-0008657,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCCC3CN(C)C3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008648,,CC(C)(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(n1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008649,,Cc1nnc(CNC(=O)c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)o1,,,,,,,,,,,,,,,,,False
+ASAP-0008650,,COCCNC(=O)c1c[nH]c2ncnc(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)c12,,,,,,,,,,,,,,,,,False
+ASAP-0008651,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0008654,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)Nc3cn[nH]c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008655,,Cc1cc(CNC(=O)c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)[nH]n1,,,,,,,,,,,,,,,,,False
+ASAP-0008656,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCCn3cncn3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008658,,CNc1c[nH]c2ncnc(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)c12,,,,,,,,,,,,,,,,,False
+ASAP-0008674,,CC(C)[C@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-02-28,Structure analysed and rejected,,,56.1,P 1 21 1,,,,,,,,False
+ASAP-0008660,,CC(C)[C@@H](c1ccc2c(c1)OCCO2)N(C)c1ncnc2[nH]c(Br)cc12,,,,,,,,,,,,,,,,,False
+ASAP-0008662,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NC3COC3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008664,,CC(C)[C@@H](c1ccc2c(c1)OCCO2)N(C)c1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12,,,,,,,,,,,,,,,,,False
+ASAP-0008666,,CC(C)[C@@H](Nc1ccnc2[nH]ncc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0008670,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)O)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008673,,Cc1ccc([C@@H](Nc2ncnc3[nH]ccc23)C(C)C)cc1S(C)(=O)=O,,,,,,,,,,,,,,,,,False
+ASAP-0008644,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(n1)NC(=O)CO2,,,,,,,,,,,,,,,,,False
+ASAP-0008641,,CNC(=O)c1c[nH]c2ncnc(N[C@@H](c3ccc4c(c3)S(=O)(=O)CCC4)C(C)C)c12,,,,2024-03-20,Structure analysed and rejected,1:03:30 AM,OK: No comment:No comment,26.4,P 43,,,,,,,,False
+ASAP-0008622,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C4(C(N)=O)CC4)c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008623,,Cc1cc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)co1,,,,,,,,,,,,,,,,,False
+ASAP-0008630,,CNc1cc(N[C@@H](c2ccc3c(c2)S(=O)(=O)CCC3)C(C)C)ncn1,,,,,,,,,,,,,,,,,False
+ASAP-0008633,,CC(C)[C@@H](Nc1cc(C(N)=O)ccn1)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0008637,,CNC(=O)c1c[nH]c2ncnc(N[C@@H](c3ccc4c(c3)NC(=O)CO4)C(C)C)c12,,,,2023-11-21,Structure analysed and rejected,01:04:42,OK: No comment:No comment,27.5,P 43,,,,,,,,False
+ASAP-0008640,,Cc1n[nH]c(C)c1-c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0008699,,CC(=O)N1CC(NC(=O)c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)C1,,,,,,,,,,,,,,,,,False
+ASAP-0008689,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCC3(F)CC3)cc12)c1ccc2c(c1)OCCO2,5.78,0.121,2.0,,,,,,,,,,,,,,False
+ASAP-0008686,,CO[C@@H]1CCC[C@H]1NC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,5.93,0.0843,2.0,,,,,,,,,,,,,,False
+ASAP-0008687,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NC34CC(C#N)(C3)C4)cc12)c1ccc2c(c1)OCCO2,5.79,0.108,2.0,,,,,,,,,,,,,,False
+ASAP-0008688,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NC[C@@H]3CCOC3)cc12)c1ccc2c(c1)OCCO2,6.09,0.21,2.0,,,,,,,,,,,,,,False
+ASAP-0008690,,COCCC1(NC(=O)c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)CC1,5.45,0.136,2.0,,,,,,,,,,,,,,False
+ASAP-0008691,,COc1cn[nH]c1NC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,4.14,,1.0,,,,,,,,,,,,,,False
+ASAP-0008692,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCCC(F)F)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008693,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCc3cnco3)cc12)c1ccc2c(c1)OCCO2,5.97,0.311,2.0,,,,,,,,,,,,,,False
+ASAP-0008694,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCC3=NCCCN3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008695,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCCc3cn[nH]c3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008696,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCc3c[nH]cn3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008697,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)N[C@H]3[C@@H]4CN(C)C[C@H]34)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008698,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCc3ncccn3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0008684,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NC3(CF)COC3)cc12)c1ccc2c(c1)OCCO2,5.83,0.102,2.0,,,,,,,,,,,,,,False
+ASAP-0008683,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)Nc3cnccc3O)cc12)c1ccc2c(c1)OCCO2,4.87,0.18,2.0,,,,,,,,,,,,,,False
+ASAP-0008682,,Cc1cnn(C)c1NC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)ncnc2[nH]1,< 4.28,0.398,2.0,,,,,,,,,,,,,,False
+ASAP-0008679,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,7.34,0.0983,2.0,,,,,,,,,,,,,,False
+ASAP-0008533,,CCN1N=CC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=C1C,,,,2024-03-20,Structure analysed and rejected,1:11:28 AM,OK: No comment:No comment,11.7,P 43,,,,,,,,False
+ASAP-0008469,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C)n3)cc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:28:25,OK: No comment:No comment,34.6,P 43,,,,,,,,False
+ASAP-0008465,,COC1=C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)N(C)N=C1,,,,2024-03-20,Structure analysed and rejected,1:18:21 AM,OK: No comment:No comment,11.5,P 43,,,,,,,,False
+ASAP-0008467,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=C(C3(C#N)CC3)C=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:25:44,OK: No comment:No comment,12.2,P 43,,,,,,,,False
+ASAP-0008474,,COc1ccc([C@@](C)(CC(=O)O)NC(=O)c2ncnc3[nH]ccc23)cc1,,,,2023-11-21,Structure analysed and rejected,01:34:19,OK: No comment:No comment,45.1,P 43,,,,,,,,False
+ASAP-0008471,,CC(C)[C@@H](Nc1ncnc2[nH]cc(S(=O)(=O)N(C)C)c12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:33:55,OK: No comment:No comment,11.3,P 43,,,,,,,,False
+ASAP-0008458,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=COC=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2024-02-28,Structure analysed and rejected,1:26:09 AM,OK: No comment:No comment,11.1,P 43,,,,,,,,False
+ASAP-0008463,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=CC(C#N)=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:24:32,OK: No comment:No comment,71.8,P 43,,,,,,,,False
+ASAP-0008464,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN=C(C#N)N=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:26:34,OK: No comment:No comment,37.3,P 43,,,,,,,,False
+ASAP-0008484,,Cn1ncc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)(C)C)ncnc3[nH]2)c1C#N,,,,2024-02-28,Structure analysed and rejected,1:36:15 AM,OK: No comment:No comment,11.8,P 43,,,,,,,,False
+ASAP-0008482,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(CCC(N)=O)c3)cc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:35:53,OK: No comment:No comment,13.1,P 43,,,,,,,,False
+ASAP-0008476,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3cnn(C(C)C)c3C#N)cc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,No data collected,01:34:31,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0008478,,CC(C)[C@@H](Nc1[nH]cnc2nccc1-2)c1ccc2c(c1)OCCO2,,,,2023-11-21,No data collected,01:34:54,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0008449,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:21:49,OK: No comment:No comment,11.4,P 43,,,,,,,,False
+ASAP-0008446,,CNS(=O)(=O)c1c[nH]c2ncnc(N[C@@H](c3ccc4c(c3)OCCO4)C(C)C)c12,,,,2024-03-20,Structure analysed and rejected,1:22:07 AM,OK: No comment:No comment,13.3,P 43,,,,,,,,False
+ASAP-0008447,,COc1ccc([C@@H](CC(=O)O)NC(=O)c2c[nH]c3c(NC(=O)NC4CC4)cccc23)cc1,,,,2023-11-21,Structure analysed and rejected,01:22:26,OK: No comment:No comment,92.4,P 43,,,,,,,,False
+ASAP-0008532,,CC(C)C1=NNC=C1C1=CC2=C(N[C@@H](C3=CC=C4C(=C3)OCCO4)C(C)C)N=CN=C2N1,,,,2024-03-20,Structure analysed and rejected,1:11:02 AM,OK: No comment:No comment,10.3,P 43,,,,,,,,False
+ASAP-0008515,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=C(C3CC3)C=NN1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:03:01,OK: No comment:No comment,38.1,P 43,,,,,,,,False
+ASAP-0008512,,COC(=O)C1=CNC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=C1,,,,2024-02-28,Structure analysed and rejected,1:01:46 AM,OK: No comment:No comment,10.6,P 43,,,,,,,,False
+ASAP-0008513,,CC(C)[C@@H](Nc1ncnc2[nH]c([C@@H]3CCOC3)cc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:02:00,OK: No comment:No comment,11.7,P 43,,,,,,,,False
+ASAP-0008514,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=NC(C#N)=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:02:45,OK: No comment:No comment,19.6,P 43,,,,,,,,False
+ASAP-0008518,,CC1=CN(C2=CC=C(C3=CC4=C(N[C@@H](C5=CC=C6C(=C5)OCCO6)C(C)C)N=CN=C4N3)C=C2)N=C1,,,,2024-03-20,Structure analysed and rejected,1:04:01 AM,OK: No comment:No comment,40.2,P 43,,,,,,,,False
+ASAP-0008516,,CC1=COC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=C1,,,,2023-11-21,Structure analysed and rejected,01:03:20,OK: No comment:No comment,11.0,P 43,,,,,,,,False
+ASAP-0008517,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN=CN1C)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:03:43,OK: No comment:No comment,33.3,P 43,,,,,,,,False
+ASAP-0008511,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CCOC1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:01:27 AM,OK: No comment:No comment,60.3,P 43,,,,,,,,False
+ASAP-0008508,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN=CC(OCCN(C)C)=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:33:03 AM,OK: No comment:No comment,9.2,P 43,,,,,,,,False
+ASAP-0008509,,CC1=NOC(C)=C1C1=CC2=C(N[C@@H](C3=CC=C4C(=C3)OCCO4)C(C)C)N=CN=C2N1,,,,2023-11-21,Structure analysed and rejected,01:33:20,OK: No comment:No comment,10.1,P 43,,,,,,,,False
+ASAP-0008510,,CCN1C=C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)C=N1,,,,2023-11-21,Structure analysed and rejected,01:01:10,OK: No comment:No comment,18.4,P 43,,,,,,,,False
+ASAP-0008519,,CC1=NN(C)C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=C1,,,,2023-11-21,Structure analysed and rejected,01:04:19,OK: No comment:No comment,7.0,P 43,,,,,,,,False
+ASAP-0008529,,CCN1C=CC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=N1,,,,2024-02-28,Structure analysed and rejected,1:09:36 AM,OK: No comment:No comment,10.1,P 43,,,,,,,,False
+ASAP-0008526,,CC(=O)C1=CC=C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)O1,,,,2024-03-20,Structure analysed and rejected,1:08:32 AM,OK: No comment:No comment,9.8,P 43,,,,,,,,False
+ASAP-0008527,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=NN(C)C=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:08:54,OK: No comment:No comment,37.9,P 43,,,,,,,,False
+ASAP-0008528,,CCN1C=C(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)C(C)=N1,,,,2023-11-21,Structure analysed and rejected,01:09:08,OK: No comment:No comment,4.8,P 43,,,,,,,,False
+ASAP-0008530,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=CC(NC(N)=O)=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:10:07,OK: No comment:No comment,13.8,P 43,,,,,,,,False
+ASAP-0008531,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=NN(C(C)C)C=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:10:46,OK: No comment:No comment,10.7,P 43,,,,,,,,False
+ASAP-0008525,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=CC3=C1CN(C)C3=O)=C2)C1=CC=C2C(=C1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:08:02 AM,OK: No comment:No comment,11.4,P 43,,,,,,,,False
+ASAP-0008520,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN(CC3CC3)N=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:04:57,OK: No comment:No comment,11.7,P 43,,,,,,,,False
+ASAP-0008521,,CC1=NN(C)N=C1C1=CC2=C(N[C@@H](C3=CC=C4C(=C3)OCCO4)C(C)C)N=CN=C2N1,,,,2023-11-21,Structure analysed and rejected,01:05:30,OK: No comment:No comment,33.5,P 43,,,,,,,,False
+ASAP-0008522,,CC1=NNC(C2=CC3=C(N[C@@H](C4=CC=C5C(=C4)OCCO5)C(C)C)N=CN=C3N2)=C1,,,,2023-11-21,Structure analysed and rejected,01:06:28,OK: No comment:No comment,11.5,P 43,,,,,,,,False
+ASAP-0008523,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=NN1C1CC1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:06:50,OK: No comment:No comment,12.0,P 43,,,,,,,,False
+ASAP-0008524,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=NN1CC1CC1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:07:38,OK: No comment:No comment,11.8,P 43,,,,,,,,False
+ASAP-0008491,,CC(C)[C@@H](Nc1ncnc2[nH]c(C3CCS(=O)(=O)CC3)cc12)c1ccc2c(c1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:32:04,OK: No comment:No comment,11.4,P 43,,,,,,,,False
+ASAP-0008487,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)N(C)C)cc12)c1ccc2c(c1)OCCO2,,,,2024-03-20,Structure analysed and rejected,1:31:27 AM,OK: No comment:No comment,99.8,P 43,,,,,,,,False
+ASAP-0008490,,Cc1ncc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)cn1,,,,2023-11-21,Structure analysed and rejected,01:37:05,OK: No comment:No comment,12.0,P 43,,,,,,,,False
+ASAP-0008496,,COc1cc(Nc2ccc(C(=O)N[C@@H]3c4cccc(O)c4C[C@H]3C(=O)O)cc2)[nH]n1,,,,2023-11-21,No data collected,01:37:57,OK: No comment:No comment,,,,,,,,,,False
+ASAP-0008494,,COc1cc(Nc2ccc(C(=O)N[C@@H]3c4cccc(O)c4C[C@@H]3C(=O)O)cc2)[nH]n1,,,,2023-11-21,Structure analysed and rejected,01:37:40,OK: No comment:No comment,9.7,P 43,,,,,,,,False
+ASAP-0008506,,CC1=C(C#N)C=NC=C1C1=CC2=C(N[C@@H](C3=CC=C4C(=C3)OCCO4)C(C)C)N=CN=C2N1,,,,2024-02-28,Structure analysed and rejected,1:32:09 AM,OK: No comment:No comment,11.4,P 43,,,,,,,,False
+ASAP-0008504,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CN=CC(C#N)=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Structure analysed and rejected,01:31:27,OK: No comment:No comment,45.7,P 43,,,,,,,,False
+ASAP-0008507,,CC(C)[C@@H](NC1=C2C(=NC=N1)NC(C1=CC=C(N3C=CC=N3)C=C1)=C2)C1=CC=C2C(=C1)OCCO2,,,,2023-11-21,Data collection failed,01:32:36,FAIL: No comment:No comment,,,,,,,,,,False
+ASAP-0008503,,COCCn1ncc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)c1C#N,,,,2024-03-20,Structure analysed and rejected,12:58:46 AM,OK: No comment:No comment,10.6,P 43,,,,,,,,False
+ASAP-0008500,,CCn1ncc(-c2cc3c(N[C@@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)c1C#N,,,,2023-11-21,Structure analysed and rejected,01:30:59,OK: No comment:No comment,11.3,P 43,,,,,,,,False
+ASAP-0011213,,COC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)CCN4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0011234,,CNc1nccc(N[C@H](c2ccc3c(c2)S(=O)(=O)CCC3)C(C)C)n1,,,,,,,,,,,,,,,,,False
+ASAP-0011238,,CCNC(=O)c1cc2c(N[C@@H](c3ccc4c(c3)CCN4C(=O)C3CC3)C(C)C)ncnc2[nH]1,,,,2023-11-21,Structure analysed and rejected,00:50:42,,18.2,P 1 21 1,,,,,,,,False
+ASAP-0011217,,CNC(=O)c1cc2c(N[C@H](c3ccc4c(c3)NC(=O)CO4)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0011198,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)N[C@@H]3CCN(C)C3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,2024-03-20,Structure analysed and rejected,,,98.7,P1211,,,,,,,,False
+ASAP-0011196,,CC(C)[C@H](Nc1ncnc2[nH]c(C(=O)N[C@@H]3CCN(C)C3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0011201,,CC(C)[C@@H](Nc1ncnc2[nH]c(-c3ccc4nnn(C)c4c3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0011240,,CNc1nccc(N[C@@H](c2ccc3c(c2)S(=O)(=O)CCC3)C(C)C)n1,,,,,,,,,,,,,,,,,False
+ASAP-0011243,,CNCc1cc(-c2cc3c(N[C@@H](c4ccc5c(c4)S(=O)(=O)NCC5)C(C)C)ncnc3[nH]2)co1,,,,,,,,,,,,,,,,,False
+ASAP-0011247,,CC(C)[C@H](Nc1ncnc2[nH]cc(C(=O)NC3CC3)c12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0011249,,CCNC(=O)c1cc2c(N[C@@H](c3cnc(NC(C)=O)s3)C(C)C)ncnc2[nH]1,,,,,,,,,,,,,,,,,False
+ASAP-0011252,,CC(C)[C@@H](Nc1ncnc2[nH]c(C3=CCS(=O)(=O)C3)cc12)c1ccc2c(c1)S(=O)(=O)CCC2,,,,,,,,,,,,,,,,,False
+ASAP-0011132,,CCNC(=O)c1cc2c(N[C@@H](c3cccnc3OCC(F)(F)F)C(C)C)ncnc2[nH]1,< 4.00,,1.0,,,,,,,,,,,,,,False
+ASAP-0011080,,CCNC(=O)c1cc2c(N[C@@H](c3nc4ccccc4o3)C(C)C)ncnc2[nH]1,4.72,0.046,2.0,,,,,,,,,,,,,,False
+ASAP-0011078,,CCNC(=O)c1cc2c(N[C@@H](c3cc4c(cc3Cl)OCO4)C(C)C)ncnc2[nH]1,5.26,0.0722,2.0,,,,,,,,,,,,,,False
+ASAP-0010747,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)N[C@@H]3CCN(C)C3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010749,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1cccc(S(C)(=O)=O)c1,,,,,,,,,,,,,,,,,False
+ASAP-0010787,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc(F)c(C#N)c1,,,,,,,,,,,,,,,,,False
+ASAP-0010741,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCc3ccn(C)n3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0010857,,COc1ccc([C@@H](NC(=O)c2ncnc3[nH]ccc23)C(C)(C)C#N)cc1,,,,,,,,,,,,,,,,,False
+ASAP-0010911,,COC1=CC=C([C@@H](NC(=O)C2=C3C(=NC=C3)N=CN2)C(C)C2=NN=NN2)C=C1,,,,,,,,,,,,,,,,,False
+ASAP-0010927,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)N(C)CC2,,,,,,,,,,,,,,,,,False
+ASAP-0010929,,CC(C)[C@@H](c1ccc2c(c1)S(=O)(=O)CCC2)n1c(=O)[nH]c2c(N)ccnc12,,,,,,,,,,,,,,,,,False
+ASAP-0010937,,COc1ccc([C@@H](NC(=O)c2ncnc3[nH]ccc23)C(C)(C)c2nnn[nH]2)cc1,,,,,,,,,,,,,,,,,False
+ASAP-0010980,,CC(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(C)c3C#N)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0011001,,CC(C)[C@@H](Nc1ncnc2[nH]c(C(=O)NCC3(CO)CC3)cc12)c1ccc2c(c1)OCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0011035,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CO2,5.53,0.133,2.0,,,,,,,,,,,,,,False
+ASAP-0011050,,CNCc1cc(-c2cc3c(N[C@@H](c4ccc5c(c4)NC(=O)CO5)C(C)C)ncnc3[nH]2)co1,6.62,0.158,2.0,,,,,,,,,,,,,,False
+ASAP-0011053,,CCNC(=O)c1cc2c(N[C@@H](c3cccc(-c4ccc(OC)nc4)c3)C(C)C)ncnc2[nH]1,4.72,0.0509,2.0,,,,,,,,,,,,,,False
+ASAP-0011055,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)NCC2,5.95,0.0845,2.0,,,,,,,,,,,,,,False
+ASAP-0011058,,COc1c(Cl)ncnc1N[C@@H](c1ccc2c(c1)S(=O)(=O)CCC2)C(C)C,< 4.00,,1.0,,,,,,,,,,,,,,False
+ASAP-0011061,,CCNC(=O)c1cc2c(N[C@@H](C(=O)NC3CCOCC3)C(C)C)ncnc2[nH]1,< 4.00,,1.0,,,,,,,,,,,,,,False
+ASAP-0011070,,CCNC(=O)c1cc2c(N[C@@H](CC(=O)Nc3cnn(C(C)C)c3)C(C)C)ncnc2[nH]1,4.59,0.0503,2.0,,,,,,,,,,,,,,False
+ASAP-0011072,,CCNC(=O)c1cc2c(N[C@@H](CCc3cccc(NS(C)(=O)=O)c3)C(C)C)ncnc2[nH]1,< 4.00,,1.0,,,,,,,,,,,,,,False
+ASAP-0011074,,CC(C)[C@@H](Nc1c(N)cnc2[nH]ccc12)c1ccc2c(c1)S(=O)(=O)CCC2,< 4.00,,1.0,,,,,,,,,,,,,,False
+ASAP-0011189,,CC(C)[C@@H](Nc1ncnc2[nH]ccc12)c1ccc2c(c1)SCCO2,,,,,,,,,,,,,,,,,False
+ASAP-0011150,,Cn1ncc(-c2cc3c(N[C@H](c4ccc5c(n4)OCCO5)C(C)(C)C)ncnc3[nH]2)c1C#N,5.41,0.279,5.0,,,,,,,,,,,,,,False
+ASAP-0011159,,CC(C)(C)[C@H](Nc1ncnc2[nH]c(-c3cnn(CC(N)=O)c3)cc12)c1ccc2c(n1)OCCO2,4.91,0.0836,2.0,,,,,,,,,,,,,,False
+ASAP-0011166,,CNC(=O)Cn1cc(-c2cc3c(N[C@H](c4ccc5c(c4)OCCO5)C(C)C)ncnc3[nH]2)cn1,6.66,0.0157,2.0,,,,,,,,,,,,,,False
+ASAP-0011169,,CNCc1cc(-c2cc3c(N[C@H](c4ccc5c(c4)S(=O)(=O)CCC5)C(C)C)ncnc3[nH]2)co1,5.79,0.193,3.0,,,,,,,,,,,,,,False
+ASAP-0011171,,CNC(=O)Cn1cc(-c2cc3c(N[C@H](c4ccc5c(c4)S(=O)(=O)CCC5)C(C)C)ncnc3[nH]2)cn1,,,,,,,,,,,,,,,,,False
