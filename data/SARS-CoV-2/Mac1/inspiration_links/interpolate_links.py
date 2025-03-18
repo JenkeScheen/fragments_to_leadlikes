@@ -1,7 +1,7 @@
 # Quick script to figure out for each leadlike if there are any fragment structures it was inspired by using RDKit.
 
 from rdkit import Chem
-from rdkit.Chem.AllChem import GetBestRMS
+from rdkit.Chem.rdMolAlign import CalcRMS
 import json
 
 
@@ -45,7 +45,7 @@ def check_rmsd_with_frag(molecule, fragment):
 
     assert Chem.MolToSmiles(res) == Chem.MolToSmiles(fragment)
 
-    return GetBestRMS(res, fragment)
+    return CalcRMS(res, fragment)
 
 
 fragments = read_molecules("../fragments/structures/fragments.sdf")

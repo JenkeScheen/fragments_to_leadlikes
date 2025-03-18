@@ -5,7 +5,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0935695476366377
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.68258773889897
             }
         ]
     },
@@ -15,7 +15,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0241_0A",
                 "FRAGMENT_SMILES": "NC1:C:N:C2:N:N:C:C:2:C:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.054552138714876706
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 49.176570337916
             }
         ]
     },
@@ -25,7 +25,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09049252890447596
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.63553434405524
             }
         ]
     },
@@ -39,7 +39,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0241_0A",
                 "FRAGMENT_SMILES": "NC1:C:N:C2:N:N:C:C:2:C:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0484177722649914
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 49.404695159468396
             }
         ]
     },
@@ -49,7 +49,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09547005506291843
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 47.46982165661792
             }
         ]
     },
@@ -59,7 +59,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.105727785799871
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 47.48194298186768
             }
         ]
     },
@@ -69,12 +69,12 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0241_0A",
                 "FRAGMENT_SMILES": "NC1:C:N:C2:N:N:C:C:2:C:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.04887505513331346
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 47.70162751521168
             },
             {
                 "FRAGMENT_NAME": "Mac1-UCSF-P0337_0A",
                 "FRAGMENT_SMILES": "CC1:C:C:C(S(N)(=O)=O):C:C:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.6607952091338268
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 51.905444281798694
             }
         ]
     },
@@ -84,7 +84,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0943760408971
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.62249395826964
             }
         ]
     },
@@ -94,7 +94,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09117239224329822
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 47.81304389901242
             }
         ]
     },
@@ -108,7 +108,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0989241819656162
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.67401637956605
             }
         ]
     },
@@ -118,7 +118,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10217985246351297
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.67655210774107
             }
         ]
     },
@@ -128,7 +128,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.08851598752454636
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.638932868485654
             }
         ]
     },
@@ -138,7 +138,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10016957595012899
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.61727208282832
             }
         ]
     },
@@ -148,7 +148,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09751319326236485
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.68688091959025
             }
         ]
     },
@@ -158,7 +158,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.08897814070350316
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 49.14898482053205
             }
         ]
     },
@@ -168,7 +168,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09504163538767071
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 47.068395939667774
             }
         ]
     },
@@ -190,7 +190,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-UCSF-P0282_0A",
                 "FRAGMENT_SMILES": "C1:C:N:C2:N:C:C:C:2:C:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.04394912069064463
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 48.91942500797726
             }
         ]
     },
@@ -200,7 +200,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.12392687094471218
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 48.7908380812081
             }
         ]
     },
@@ -210,7 +210,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09299952092612009
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.55754148005097
             }
         ]
     },
@@ -224,7 +224,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10104555608488833
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.67305533650485
             }
         ]
     },
@@ -234,7 +234,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10195623387060848
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 48.57528036060226
             }
         ]
     },
@@ -244,7 +244,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10596821308041547
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.85614091023715
             }
         ]
     },
@@ -254,7 +254,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.08245883897691818
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 48.62774259846145
             }
         ]
     },
@@ -264,7 +264,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09297567217037929
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 48.59458707967838
             }
         ]
     },
@@ -274,7 +274,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10690700470763011
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.79859175350377
             }
         ]
     },
@@ -284,7 +284,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.10480697617533098
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 48.69060498928127
             }
         ]
     },
@@ -294,7 +294,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.09489941855849958
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.934901551688235
             }
         ]
     },
@@ -304,7 +304,7 @@
             {
                 "FRAGMENT_NAME": "Mac1-DLS-EU0034_0A",
                 "FRAGMENT_SMILES": "C1:C:C2:C:N:C:N:C:2:N:1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.08662238410924719
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 46.968293483772406
             }
         ]
     }

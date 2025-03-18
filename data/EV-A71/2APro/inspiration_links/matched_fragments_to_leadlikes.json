@@ -25,7 +25,7 @@
             {
                 "FRAGMENT_NAME": "A71EV2A-x1431_B_201_1_A71EV2A-x0526+A+147+1",
                 "FRAGMENT_SMILES": "CN1C=C(NC(=O)CC#N)C(C(F)F)=N1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 6.964652474786963e-07
+                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
             }
         ]
     },
