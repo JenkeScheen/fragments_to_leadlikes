@@ -17,19 +17,9 @@
         "SMILES": "CC(C)N(C)C1NCNC2C1CNN2C",
         "MATCHED_FRAGMENTS": [
             {
-                "FRAGMENT_NAME": "Mpro-x1101_1A",
-                "FRAGMENT_SMILES": "CC(C)N(C)C1NCNC2C1CNN2C",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            },
-            {
                 "FRAGMENT_NAME": "Mpro-x0991_0A",
                 "FRAGMENT_SMILES": "CCC(N)N",
                 "FRAGMENT_LEAD_OVERLAP_RMSD": 41.3270020374089
-            },
-            {
-                "FRAGMENT_NAME": "Mpro-x1101_0A",
-                "FRAGMENT_SMILES": "CC(C)N(C)C1NCNC2C1CNN2C",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 28.499097924905158
             }
         ]
     },
@@ -49,92 +39,39 @@
     },
     "Mpro-x0072_0A": {
         "SMILES": "CS(O)(O)NCCC1CCCCC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0072_0A",
-                "FRAGMENT_SMILES": "CS(O)(O)NCCC1CCCCC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0104_0A": {
         "SMILES": "CC(O)NCCC1CNC2CCC(F)CC12",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0104_0A",
-                "FRAGMENT_SMILES": "CC(O)NCCC1CNC2CCC(F)CC12",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0107_0A": {
         "SMILES": "CC(O)NC1CNCCC1C",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0107_0A",
-                "FRAGMENT_SMILES": "CC(O)NC1CNCCC1C",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0161_0A": {
         "SMILES": "COC(O)C1CCC(S(N)(O)O)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0161_0A",
-                "FRAGMENT_SMILES": "COC(O)C1CCC(S(N)(O)O)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0165_0A": {
         "SMILES": "CN1CCN(C(O)NC2CCCCC2)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0165_0A",
-                "FRAGMENT_SMILES": "CN1CCN(C(O)NC2CCCCC2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0177_0A": {
         "SMILES": "NC(O)C1CCN(C(O)NC2CCCCC2)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0177_0A",
-                "FRAGMENT_SMILES": "NC(O)C1CCN(C(O)NC2CCCCC2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0194_0A": {
         "SMILES": "CC(O)NC1CCC(OC2NCCCN2)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0194_0A",
-                "FRAGMENT_SMILES": "CC(O)NC1CCC(OC2NCCCN2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0195_0A": {
         "SMILES": "CN1CCCC2CCC(S(N)(O)O)CC21",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0195_0A",
-                "FRAGMENT_SMILES": "CN1CCCC2CCC(S(N)(O)O)CC21",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0305_0A": {
         "SMILES": "CCNC1CCC(CN)CN1",
         "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0305_0A",
-                "FRAGMENT_SMILES": "CCNC1CCC(CN)CN1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            },
             {
                 "FRAGMENT_NAME": "Mpro-x0991_0A",
                 "FRAGMENT_SMILES": "CCC(N)N",
@@ -144,183 +81,75 @@
     },
     "Mpro-x0336_0A": {
         "SMILES": "CC(O)NCC1CCC(S(N)(O)O)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0336_0A",
-                "FRAGMENT_SMILES": "CC(O)NCC1CCC(S(N)(O)O)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0350_0A": {
         "SMILES": "FC1CCCC(CNCC2CCCO2)C1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0350_0A",
-                "FRAGMENT_SMILES": "FC1CCCC(CNCC2CCCO2)C1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0354_0A": {
         "SMILES": "CC1CCC(OCC(O)N2CCN(C)CC2)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0354_0A",
-                "FRAGMENT_SMILES": "CC1CCC(OCC(O)N2CCN(C)CC2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0376_0A": {
         "SMILES": "OC(C1CCC2OCOC2C1)N1CCCCCC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0376_0A",
-                "FRAGMENT_SMILES": "OC(C1CCC2OCOC2C1)N1CCCCCC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0387_0A": {
         "SMILES": "OC1CCN(CC2CCSC2)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0387_0A",
-                "FRAGMENT_SMILES": "OC1CCN(CC2CCSC2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0390_0A": {
         "SMILES": "OC1CCCCC1CNC1NC2CCCCC2N1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0390_0A",
-                "FRAGMENT_SMILES": "OC1CCCCC1CNC1NC2CCCCC2N1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0395_0A": {
         "SMILES": "CC1NNC(CN2CCCC(F)C2)S1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0395_0A",
-                "FRAGMENT_SMILES": "CC1NNC(CN2CCCC(F)C2)S1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0397_0A": {
         "SMILES": "CC1CC(CN(C)C(O)NC2CC2)NO1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0397_0A",
-                "FRAGMENT_SMILES": "CC1CC(CN(C)C(O)NC2CC2)NO1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0398_0A": {
         "SMILES": "C1CCC(SCCN2CCOCC2)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0398_0A",
-                "FRAGMENT_SMILES": "C1CCC(SCCN2CCOCC2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0425_0A": {
         "SMILES": "C1CNC(N2CCC3(CCOC3)C2)CN1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0425_0A",
-                "FRAGMENT_SMILES": "C1CNC(N2CCC3(CCOC3)C2)CN1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0426_0A": {
         "SMILES": "OC(NCCC1CCNCC1)C1CCCCC1F",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0426_0A",
-                "FRAGMENT_SMILES": "OC(NCCC1CCNCC1)C1CCCCC1F",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0434_0A": {
         "SMILES": "OC(NC1CCCCC1)NC1CCCNC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0434_0A",
-                "FRAGMENT_SMILES": "OC(NC1CCCCC1)NC1CCCNC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0464_0A": {
         "SMILES": "CC1C(O)CCCN1CC1CCCCC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0464_0A",
-                "FRAGMENT_SMILES": "CC1C(O)CCCN1CC1CCCCC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0478_0A": {
         "SMILES": "COC(O)C1CCCC(NS(C)(O)O)C1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0478_0A",
-                "FRAGMENT_SMILES": "COC(O)C1CCCC(NS(C)(O)O)C1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0499_0A": {
         "SMILES": "NC(O)C1CCC(NC(O)C2CCCO2)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0499_0A",
-                "FRAGMENT_SMILES": "NC(O)C1CCC(NC(O)C2CCCO2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0540_0A": {
         "SMILES": "OC(NCCC1CCNCC1)NC1CCCCC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0540_0A",
-                "FRAGMENT_SMILES": "OC(NCCC1CCNCC1)NC1CCCCC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0669_0A": {
         "SMILES": "ClC1CCCC(CN2CCOCC2)C1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0669_0A",
-                "FRAGMENT_SMILES": "ClC1CCCC(CN2CCOCC2)C1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0678_0A": {
         "SMILES": "OC(CC1CCCCC1)NC1CCCNC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0678_0A",
-                "FRAGMENT_SMILES": "OC(CC1CCCCC1)NC1CCCNC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0689_0A": {
         "SMILES": "OC(CS)N1CCN(S(O)(O)C2CCCS2)CC1",
@@ -396,73 +225,31 @@
     },
     "Mpro-x0874_0A": {
         "SMILES": "NC(O)C1CCCC1C1CCSC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0874_0A",
-                "FRAGMENT_SMILES": "NC(O)C1CCCC1C1CCSC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0887_0A": {
         "SMILES": "OCC1(C2CCCCN2)CCCC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0887_0A",
-                "FRAGMENT_SMILES": "OCC1(C2CCCCN2)CCCC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0946_0A": {
         "SMILES": "NS(O)(O)C1CCC(Br)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0946_0A",
-                "FRAGMENT_SMILES": "NS(O)(O)C1CCC(Br)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0978_0A": {
         "SMILES": "CC(S)CNC(O)C(NC(C)O)C(C)O",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0978_0A",
-                "FRAGMENT_SMILES": "CC(S)CNC(O)C(NC(C)O)C(C)O",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0981_0A": {
         "SMILES": "CC(S)CNC(O)C(CC(N)O)NC(C)O",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0981_0A",
-                "FRAGMENT_SMILES": "CC(S)CNC(O)C(CC(N)O)NC(C)O",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0991_0A": {
         "SMILES": "CCC(N)N",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0991_0A",
-                "FRAGMENT_SMILES": "CCC(N)N",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x0995_0A": {
         "SMILES": "NC1CNCNC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x0995_0A",
-                "FRAGMENT_SMILES": "NC1CNCNC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x10019_0A": {
         "SMILES": "CC1CCNCC1NC(O)CNC1CCNC2CCCCC21",
@@ -476,13 +263,7 @@
     },
     "Mpro-x1002_0A": {
         "SMILES": "OC1CCCCN1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1002_0A",
-                "FRAGMENT_SMILES": "OC1CCCCN1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x10049_0A": {
         "SMILES": "CS(O)(O)NCCN1CCCC2CCC(S(N)(O)O)CC21",
@@ -500,13 +281,7 @@
     },
     "Mpro-x1012_0A": {
         "SMILES": "OC1CS(O)(O)C1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1012_0A",
-                "FRAGMENT_SMILES": "OC1CS(O)(O)C1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x10150_0A": {
         "SMILES": "OC(NCCN1CCN(C(O)CS)CC1)C1CCCC2CCCCC21",
@@ -962,13 +737,7 @@
     },
     "Mpro-x1077_0A": {
         "SMILES": "NCC1CCC(N2CCCOCC2)CN1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1077_0A",
-                "FRAGMENT_SMILES": "NCC1CCC(N2CCCOCC2)CN1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x10787_0A": {
         "SMILES": "CC1CCNCC1NC(O)C1(C2CCCC(Cl)C2)CC(O)C1",
@@ -1044,13 +813,7 @@
     },
     "Mpro-x1086_0A": {
         "SMILES": "CC1CC(F)CCC1CS(N)(O)O",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1086_0A",
-                "FRAGMENT_SMILES": "CC1CC(F)CCC1CS(N)(O)O",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x10870_0A": {
         "SMILES": "OC(NC1CCC(N(CC2CCSC2)C(O)CN2NNC3CCCCC32)CC1)C1CC1",
@@ -1183,19 +946,9 @@
         "SMILES": "CC(C)N(C)C1NCNC2C1CNN2C",
         "MATCHED_FRAGMENTS": [
             {
-                "FRAGMENT_NAME": "Mpro-x1101_1A",
-                "FRAGMENT_SMILES": "CC(C)N(C)C1NCNC2C1CNN2C",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 28.499097924905158
-            },
-            {
                 "FRAGMENT_NAME": "Mpro-x0991_0A",
                 "FRAGMENT_SMILES": "CCC(N)N",
                 "FRAGMENT_LEAD_OVERLAP_RMSD": 27.61738005314769
-            },
-            {
-                "FRAGMENT_NAME": "Mpro-x1101_0A",
-                "FRAGMENT_SMILES": "CC(C)N(C)C1NCNC2C1CNN2C",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
             }
         ]
     },
@@ -1233,11 +986,6 @@
                 "FRAGMENT_NAME": "Mpro-x0991_0A",
                 "FRAGMENT_SMILES": "CCC(N)N",
                 "FRAGMENT_LEAD_OVERLAP_RMSD": 19.083376713778932
-            },
-            {
-                "FRAGMENT_NAME": "Mpro-x1119_0A",
-                "FRAGMENT_SMILES": "NC1CCC(S(O)(O)NC2CCCCN2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
             }
         ]
     },
@@ -1365,13 +1113,7 @@
     },
     "Mpro-x1132_0A": {
         "SMILES": "CC1CN(C(O)CN2CCCN2)CCO1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1132_0A",
-                "FRAGMENT_SMILES": "CC1CN(C(O)CN2CCCN2)CCO1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x11354_0A": {
         "SMILES": "CC1CCNCC1CC(O)NC1CCCC2CCNCC21",
@@ -1780,13 +1522,7 @@
     },
     "Mpro-x1163_0A": {
         "SMILES": "OCC1CN(CC2CCCCC2)CCO1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1163_0A",
-                "FRAGMENT_SMILES": "OCC1CN(CC2CCCCC2)CCO1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x11641_0A": {
         "SMILES": "CC1CCNCC1NC(O)C(C)C1CC(Cl)CC(OC2CC(O)N2)C1",
@@ -1962,13 +1698,7 @@
     },
     "Mpro-x1187_0A": {
         "SMILES": "CN1CCC(C(O)NCC2CCCO2)N1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1187_0A",
-                "FRAGMENT_SMILES": "CN1CCC(C(O)NCC2CCCO2)N1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x11894_0A": {
         "SMILES": "OC(S)C(CC1CCC(N2CCOCC2)S1)NC(O)C1CCCS1",
@@ -2117,13 +1847,7 @@
     },
     "Mpro-x1226_0A": {
         "SMILES": "CCNCC1CN(C)NN1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1226_0A",
-                "FRAGMENT_SMILES": "CCNCC1CN(C)NN1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x12300_0A": {
         "SMILES": "CC1CCNCC1NC(O)CC1CC(Cl)CC(NCC(C)(C)CN)C1",
@@ -2167,23 +1891,11 @@
     },
     "Mpro-x1235_0A": {
         "SMILES": "COC(O)NC1SC(C)NC1C1CCCCC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1235_0A",
-                "FRAGMENT_SMILES": "COC(O)NC1SC(C)NC1C1CCCCC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x1237_0A": {
         "SMILES": "CS(O)(O)CC1NC2CCCCC2N1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1237_0A",
-                "FRAGMENT_SMILES": "CS(O)(O)CC1NC2CCCCC2N1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x12419_0A": {
         "SMILES": "CN(C)C1CCC(N(CC2CCCCC2)C(O)CN2NNC3CCCCC32)CC1",
@@ -2195,13 +1907,7 @@
     },
     "Mpro-x1249_0A": {
         "SMILES": "NCC1CCC(CNC(O)N2CCOCC2)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x1249_0A",
-                "FRAGMENT_SMILES": "NCC1CCC(CNC(O)N2CCOCC2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x12582_0A": {
         "SMILES": "OC(C1CNCC2CCCCC21)N1CCN(C2CCCC(Cl)C2)C(O)C1",
@@ -2569,33 +2275,15 @@
     },
     "Mpro-x2097_0A": {
         "SMILES": "NC(S)C1NCCCN1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x2097_0A",
-                "FRAGMENT_SMILES": "NC(S)C1NCCCN1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x2119_0A": {
         "SMILES": "NC(S)C1NCCN1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x2119_0A",
-                "FRAGMENT_SMILES": "NC(S)C1NCCN1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x2193_0A": {
         "SMILES": "CS(O)(O)C1CCC(N2CCNCC2)CC1",
-        "MATCHED_FRAGMENTS": [
-            {
-                "FRAGMENT_NAME": "Mpro-x2193_0A",
-                "FRAGMENT_SMILES": "CS(O)(O)C1CCC(N2CCNCC2)CC1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
-            }
-        ]
+        "MATCHED_FRAGMENTS": []
     },
     "Mpro-x2540_0A": {
         "SMILES": "CC(C)(C)NC(O)C(C1CCCNC1)N(C(O)CCS)C1CC(C(C)(C)C)ON1",
@@ -3436,11 +3124,6 @@
                 "FRAGMENT_NAME": "Mpro-x0678_0A",
                 "FRAGMENT_SMILES": "OC(CC1CCCCC1)NC1CCCNC1",
                 "FRAGMENT_LEAD_OVERLAP_RMSD": 1.1630981794328457
-            },
-            {
-                "FRAGMENT_NAME": "Mpro-P0045_0A",
-                "FRAGMENT_SMILES": "CC1CCNCC1NC(O)CC1CC(Cl)CC(OC2CC(O)N2)C1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.0
             }
         ]
     },
@@ -5669,11 +5352,6 @@
                 "FRAGMENT_NAME": "Mpro-x0678_0A",
                 "FRAGMENT_SMILES": "OC(CC1CCCCC1)NC1CCCNC1",
                 "FRAGMENT_LEAD_OVERLAP_RMSD": 1.1957361749148514
-            },
-            {
-                "FRAGMENT_NAME": "Mpro-P0045_0A",
-                "FRAGMENT_SMILES": "CC1CCNCC1NC(O)CC1CC(Cl)CC(OC2CC(O)N2)C1",
-                "FRAGMENT_LEAD_OVERLAP_RMSD": 0.4860453082446806
             }
         ]
     },

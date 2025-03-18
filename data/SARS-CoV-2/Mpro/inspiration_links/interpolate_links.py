@@ -63,6 +63,9 @@ for lead_name, lead_mol in leadlikes.items():
 
     matched_fragments = check_overlapping_fragment_2d(lead_mol, fragments)
     for frag in matched_fragments:
+        if lead_name.split("_")[0] == frag.split("_")[0]:
+            continue  # skip chain A/B matching to reduce duplication
+
         match_rmsd = check_rmsd_with_frag(lead_mol, fragments[frag])
         overlap_dict[lead_name]["MATCHED_FRAGMENTS"].append(
             {
